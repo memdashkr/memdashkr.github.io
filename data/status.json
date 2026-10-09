@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-09 17:47 KST",
+ "updated_at": "2026-10-09 17:49 KST",
  "sources": {
   "DRAMeXchange": {
    "ok": true,
-   "msg": "24개 품목"
+   "msg": "12개 품목 (기준일 2026-10-09)"
   },
   "CFM": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "뉴스": {
    "ok": true,
-   "msg": "신규 82건"
+   "msg": "신규 8건"
   }
  }
 }
