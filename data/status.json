@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09 17:49 KST",
+ "updated_at": "2026-10-09 18:05 KST",
  "sources": {
   "DRAMeXchange": {
    "ok": true,
@@ -19,7 +19,15 @@
   },
   "뉴스": {
    "ok": true,
-   "msg": "신규 8건"
+   "msg": "신규 43건"
+  },
+  "기관 전망": {
+   "ok": true,
+   "msg": "신규 0건"
+  },
+  "신호등": {
+   "ok": true,
+   "msg": "보합 (+0, 지표 5개)"
   }
  }
 }
