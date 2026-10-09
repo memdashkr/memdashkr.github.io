@@ -1,1 +1,25 @@
-{"updated_at": "2026-10-09 16:30 KST", "sources": {"DRAMeXchange": {"ok": true, "msg": "초기 데이터"}, "CFM": {"ok": true, "msg": "초기 데이터"}}}
+{
+ "updated_at": "2026-10-09 17:47 KST",
+ "sources": {
+  "DRAMeXchange": {
+   "ok": true,
+   "msg": "24개 품목"
+  },
+  "CFM": {
+   "ok": true,
+   "msg": "7개 품목"
+  },
+  "대만 월매출": {
+   "ok": true,
+   "msg": "4개사"
+  },
+  "주가": {
+   "ok": true,
+   "msg": "5개 종목"
+  },
+  "뉴스": {
+   "ok": true,
+   "msg": "신규 82건"
+  }
+ }
+}
