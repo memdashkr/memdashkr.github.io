@@ -1,55 +1,13 @@
 {
  "items": [
   {
-   "title": "CXMT's G5 platform enters mass production as global share tops 10% — Chinese DRAM joins the first tier",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UbGxrb2ZSV2dOaWpNaVdpLU9XT3V6OW94UEt6NGJpdXdodzR6cHRBS3lBY05IWVhXYWF4YjREcFpDX0huQ2p4akZBd2Zsa2h3UTd5U0trQWk1RHhXQkpCNUVuNHJlWnItLXpFNUFKU01SVnRaR1E?oc=5",
-   "outlet": "BigGo Finance",
-   "lang": "en",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Sandisk (SNDK) Weekend Outlook: Can the S&P 500's Best Stock Extend Its 857% Rally?",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUGktaU50QjhYb3FKOGNVdU1BRlRsYlRJWHRWbkVsTTJvQl9ScHFFMGV1T3JjTndZSm51NDc0a0dxVnJEbzNNXzBzaXNkT1dSUUdIWmhCRDVVRm5CdUVyREdsMXNYZUlXN1k5NkFsdmtON2Jzbm8tVVl4ckFjWHplSUxibmRZRHh0SFN4bUdoQzZuV0h6Tk9qTlJXVEhWczREUktmQkZiMHB3XzN3eG5lbDFfb3JxMFNMbDdkaVVSZUFMQ2dkQzJJUW1FM0VsQzVTVXA2SQ?oc=5",
-   "outlet": "TradingKey",
-   "lang": "en",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Memory Chip Sales on Track to Top $2 Trillion By 2030: The Numbers Micron Bulls Need to Know",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JeTExdnZZTlg2SEF0bjJZUl9vOEtYUW9pVzJxYW1VUkd6N3ppT2t1TGxHZ2pCaXVlUmRFVkxadklzRlJzOGMyMW5SNEx4X1VCbF80c2d0ZFZ1VXppUXFaU2E4dzhQZXFK?oc=5",
-   "outlet": "TradingView",
-   "lang": "en",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "SK하이닉스, HBM4·서버 D램이 성장 견인…실적이 주가 재평가 이끈다",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUREwxTDBKZW8zOW5SaWMzODZrZFV2T3JvVlB6RHJqTW9iZ2l6RW1IVnd2UFRKLTRhREhrQnRva2JLdkNIOF9QZXBPSU9FcXY3azlUZllYal9GS0I2dzRnX0k1VmlMdkczLWhzLXdjSjVGOFBuUDNB0gF3QVVfeXFMUFRETDFMMEplbzM5blJpYzM4NmtkVXZPcm9WUHpEcmpNb2JnaXpFbUhWd3ZQVEotNGFESGtCdG9rYkt2Q0g4X1BlcE9JT0VxdjdrOVRmWVhqX0ZLQjZ3NGdfSTVWaUx2RzMtaHMtd2NKNUY4UG5QM0E?oc=5",
-   "outlet": "핀포인트뉴스",
+   "title": "D램도 HBM도 가격 뛴다… 삼성, 年 영업이익 세계 1위 꿰차나",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTJmT2c2T0M4N3BwUWxuMjBIVDZpRVBhaHM3bHRKQy0wczFuZWEwdHFydUw1bkY2eFpPNzN1NVJDR1Y5Xy1lY3dvcHhmSHZUY0wwdDR5WUNZa3NNc1p0bEVibWRFS0tZa0EwbUl2MmlYSkJTTExzNWpnaWlvVmdVaDZ2RV9GZw?oc=5",
+   "outlet": "국민일보",
    "lang": "ko",
    "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "삼성전자, HBM에 '블랙박스' 심는다",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KR2puTm9jYUd3MjcteU85WnFmY21OMXl3SzQ2NkxiMHRrZkJXNDhuMVFGZG0wUzFwS0todk8wSVZXajNVWXlEXzRvcTVNOVpWVHQ3dTJ3?oc=5",
-   "outlet": "매일경제",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "엔비디아, '루빈' HBM4 12단 유지 전망...\"HBM 수요 둔화 우려 기우\"",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMVNhNDdEVWFua3A4NWo2SUpqX1V5RkVzSW5HZDdmMWRCTVU4cWw0WjE3Vkxaem10OGVveTdzLWVocE51WjZzZVJ3aGV5Q0NEU1pkQ0tfQ25JMU93dmdJMTN1dUF5SWs2WFUwVg?oc=5",
-   "outlet": "메디컬투데이",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
+   "tag": "",
+   "score": 6
   },
   {
    "title": "[반도체포커스] HBM 용량 축소에 하이브리드 본딩 논쟁까지…메모리 3사, 가격 협상력 지킬까",
@@ -57,122 +15,8 @@
    "outlet": "이코노미트리뷴",
    "lang": "ko",
    "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "'꿈의 마진' 80% 벽 넘나…HBM 훈풍 탄 하이닉스 실적 주목",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mX2JWTmVKcy1MUjFQWTlYLUwzUWt6cE9sLUdrcXgyN1dyWHU2X0FTXzBiRHk4ejV0aU1iNDRycnlMX1dwR2JZSG1feERVVEJZOUQ1Zml5a2NOX05SWlFNYk9CM2hKZC04SnpqZU1WSQ?oc=5",
-   "outlet": "진일보",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "HBM에 밀려난 D램 일감 어디로…한 달 새 42% 뛴 반도체 후공정 OSAT 산업",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IZEtDS3FYNC1LaF9YRFlLRVlDVzk0TVUxbnJJZ1k3TXJrN3FZdGJYdFlqNXo2MDFMWWYwbjFFdUd6T3NMdnlzaEJoeTVkVGlOS21yaUIxMTllYUV2Mmx3?oc=5",
-   "outlet": "스마트투데이",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "\"팔면 80% 남는다\"…HBM 날개 단 SK하이닉스, 역대급 수익성 예고",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yRjJiOUJRY3VBWHZOVGZESGtoOGY5YXU2RV9SdG1Kd0QxSWoteXJSVGJpeDg0d0hFd25OTURGRzFxbkpZelJhUEE3VGhTVjB4R2JRQjlTd19xSDRhR0xQQmdiRE95bTVG?oc=5",
-   "outlet": "www.ebn.co.kr",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "D램이 이끈 ‘빅테크 영업익 세계 1위’ 삼성… “내년엔 HBM4 주축”",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yV1pWSG5FWHRjYmZmbzN5dC03M1VPdEVjazFONjl1Z2k4OUVzX3d5dF8xc3pkalRDQXlFVWpsUDNNOGdOVTFKTzNNQnBmOXJaZDFqS1ZheWhrWGlaQ3JXZTh0TEFGQdIBZkFVX3lxTE4yV1pWSG5FWHRjYmZmbzN5dC03M1VPdEVjazFONjl1Z2k4OUVzX3d5dF8xc3pkalRDQXlFVWpsUDNNOGdOVTFKTzNNQnBmOXJaZDFqS1ZheWhrWGlaQ3JXZTh0TEFGQQ?oc=5",
-   "outlet": "동아일보",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "\"엔비디아 루빈 HBM4, 12단이 대세\"",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YejJ5WXR6aHF5a2JwWVNLQ25GLWQ1UDhLZ3duRzJua1pISGlCa3l0TE5xZ1dqSVMyb1FjVWdPNFZmZVJIVG16M28tTktqdmo1ZjdhTk9R?oc=5",
-   "outlet": "지디넷코리아",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "\"고부가 제품 수익 효과에, 메모리만 '110조' 넘게 벌었을 듯\" [삼성전자 '꿈의 실적' 현실화②]",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lb2RQY1AzUGdKeHRYQ0dqYU1qejlmSUtISDBxVHlYMEF6RGZyOUhySDRyc21YY3J1UjRWR0FJdVA2Q3k4a21UWUFpdGhNNVh1LXQyQjVGaTluUEdQRFRyd1pEOVJzVDQyOThKR3ZoTlJQbDRpRUdsd9IBeEFVX3lxTE9lb2RQY1AzUGdKeHRYQ0dqYU1qejlmSUtISDBxVHlYMEF6RGZyOUhySDRyc21YY3J1UjRWR0FJdVA2Q3k4a21UWUFpdGhNNVh1LXQyQjVGaTluUEdQRFRyd1pEOVJzVDQyOThKR3ZoTlJQbDRpRUdsdw?oc=5",
-   "outlet": "뉴시스",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "D램도 HBM도 가격 뛴다… 삼성, 年 영업이익 세계 1위 꿰차나",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTJmT2c2T0M4N3BwUWxuMjBIVDZpRVBhaHM3bHRKQy0wczFuZWEwdHFydUw1bkY2eFpPNzN1NVJDR1Y5Xy1lY3dvcHhmSHZUY0wwdDR5WUNZa3NNc1p0bEVibWRFS0tZa0EwbUl2MmlYSkJTTExzNWpnaWlvVmdVaDZ2RV9GZw?oc=5",
-   "outlet": "국민일보",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "차세대 칩·공급 확대가 앞으로 성장세 가른다 [삼성전자 '꿈의 실적' 현실화③]",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRQl9PbXROYnpKc18yM0VwTVA4WnJ0cTltV3NKV2lFTnhPU3Q4UV9BbGxqWmhwdlVFYXNyYWlDMjlpZFFUa1gtekV5UHBGTUhVYmFNX05PcmZmNmdpZE00T2pJY2pwTjNSX2NFeDlLdzV5SVFIcUZqV9IBeEFVX3lxTFBRQl9PbXROYnpKc18yM0VwTVA4WnJ0cTltV3NKV2lFTnhPU3Q4UV9BbGxqWmhwdlVFYXNyYWlDMjlpZFFUa1gtekV5UHBGTUhVYmFNX05PcmZmNmdpZE00T2pJY2pwTjNSX2NFeDlLdzV5SVFIcUZqVw?oc=5",
-   "outlet": "뉴시스",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "HBM 검사장비 대표주자 와이씨…P5 공급 확대에 실적 도약 기대",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SdFJLUXpBd3YzTUhtQUg3VXVlczJBTExIaXlJWGZBUWpSZEV3WHV2T2g2ckMweEhGaWEwY0pqM0ZuX2pnZk9ielJjVjBHZVlJLVQxTWxBUmFCbHdROFk1NXBpZVlQZC1rUndjNmY5eF9oY19PbUt30gF3QVVfeXFMT1J0UktRekF3djNNSG1BSDdVdWVzMkFMTEhpeUlYZkFRalJkRXdYdXZPaDZyQzB4SEZpYTBjSmozRm5famdmT2J6UmNWMEdlWUktVDFNbEFSYUJsd1E4WTU1cGllWVBkLWtSd2M2Zjl4X2hjX09tS3c?oc=5",
-   "outlet": "핀포인트뉴스",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "[박진영의 비즈+] 삼성전자 분기 영업익 100조 돌파…삼전닉스 반도체 호황, 내년에도 이어진다",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFZFpxWGNiaVpUQXVjRHd6am1uY1kwck91eG9xLV9OYktHbUEzOS05TEJVR1Z5XzNiS3plVVVIcVhJamdzWG51SjliUFdHZkRYT2VZTHk2WDnSAVhBVV95cUxQRWRacVhjYmlaVEF1Y0R3emptbmNZMHJPdXhvcS1fTmJLR21BMzktOUxCVUdWeV8zYkt6ZVVVSHFYSWpnc1hudUo5YlBXR2ZEWE9lWUx5Nlg5?oc=5",
-   "outlet": "아주경제",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "\"지금도 저평가\"...마이크론(MU), HBM 독점 공급난 타고 3배 '점프' 전망",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvUzVDZHhOUTdlQ1g4VUpndHI2RTlqeThkOTZlNUZnaE1QSFh0a0ZBYlphTDN6YzI4WjF0UlQycHBmWTdPVmdleHBB?oc=5",
-   "outlet": "코인리더스",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": ""
-  },
-  {
-   "title": "存储巨头三星电子Q3利润暴增近800%！四季度存储价格有望延续强势丨盘中雷达- 21世纪经济报道",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUmlpNmNXcExIenkyemdSQ0p4S0pVaEFNTDBtY1ktUjZjRWFDazd2S0hYRHFqN0ZhZGZ4NmgtelVjOHB0Rjdzam12a09PZDhpNjc1a2lVVEdzMG9xZTBBeEY5YUREZmdISmhDeHpnZzVqM0MtcVU1SGIwZnBkeE9CMllqMVBvRHU3ajA4dDkzVmRlVHN1?oc=5",
-   "outlet": "21财经",
-   "lang": "zh",
-   "date": "2026-10-09",
    "tag": "",
-   "ko": null
-  },
-  {
-   "title": "A股存储芯片股集体下挫，长鑫科技、中芯国际、北方华创跌超3%",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnRlbWJNY29nWk1CY0FMZlBsQWdTamVQNXZqWjNTY2dFSHVxbm0zZmJPYzRIcUhVV01CMmxwSDJoRTRxeHJnX0xnRHAyV1VfUV8zVjZLeXJxOVdnLWU2NkNXWU9ER2dKUURYNG4wQVJpNFJRQXNacE4tNnh2VFB1Vg?oc=5",
-   "outlet": "新浪财经",
-   "lang": "zh",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "存储芯片巨头，利润暴增近800%|三星电子|营业利润|价格|销售额|增幅",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaC0xZFFDQVljMDdjcmZtLTdWSzJmU1pvT1NTcVRmV2pUaHJHVmswMUgtcEZpVkt2Nk9YUS13dDJNRThYTU1MYWNJS0ZCaE5UMmRqLUVJWVVTeEdFVjNIQVZsQUt1bkN0V05IRWVHVklXTWZWMmtwTDUwbTVEbG5CbXZKWmVEYzdOWTJBLUp4TTR4azAycUM4cHpRWDBNNEpycmprR2Z3SQ?oc=5",
-   "outlet": "finance.sina.com.cn",
-   "lang": "zh",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null
+   "score": 5
   },
   {
    "title": "三星HBM4价格超700美元…存储企业季度业绩有望引爆“30万亿韩元”",
@@ -181,7 +25,28 @@
    "lang": "zh",
    "date": "2026-10-09",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "存储巨头三星电子Q3利润暴增近800%！四季度存储价格有望延续强势丨盘中雷达- 21世纪经济报道",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUmlpNmNXcExIenkyemdSQ0p4S0pVaEFNTDBtY1ktUjZjRWFDazd2S0hYRHFqN0ZhZGZ4NmgtelVjOHB0Rjdzam12a09PZDhpNjc1a2lVVEdzMG9xZTBBeEY5YUREZmdISmhDeHpnZzVqM0MtcVU1SGIwZnBkeE9CMllqMVBvRHU3ajA4dDkzVmRlVHN1?oc=5",
+   "outlet": "21财经",
+   "lang": "zh",
+   "date": "2026-10-09",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "存储芯片巨头，利润暴增近800%|三星电子|营业利润|价格|销售额|增幅",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaC0xZFFDQVljMDdjcmZtLTdWSzJmU1pvT1NTcVRmV2pUaHJHVmswMUgtcEZpVkt2Nk9YUS13dDJNRThYTU1MYWNJS0ZCaE5UMmRqLUVJWVVTeEdFVjNIQVZsQUt1bkN0V05IRWVHVklXTWZWMmtwTDUwbTVEbG5CbXZKWmVEYzdOWTJBLUp4TTR4azAycUM4cHpRWDBNNEpycmprR2Z3SQ?oc=5",
+   "outlet": "finance.sina.com.cn",
+   "lang": "zh",
+   "date": "2026-10-09",
+   "tag": "",
+   "ko": null,
+   "score": 4
   },
   {
    "title": "“十一”手机消费“冰与火”：存储涨价下的一场系统性大考- 21世纪经济报道",
@@ -190,220 +55,72 @@
    "lang": "zh",
    "date": "2026-10-09",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 4
   },
   {
-   "title": "신한운용, 연금계좌로 투자하는 '글로벌 DRAM 반도체 ETF' 상장",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52WTlLNmEtUk9keHJwTWh0Z1QzSjhQaUg3ZjZLT2xiWjI1ZzJ5ZVRJeDVNMThCYk5rV3RXOHVWWkd5RTdJeXQxRk4tbzFTbTFJLVlieWJMS2lGaWh5ZG5Dc2ViN1g3N0MwR0E2ZGJSVFdNSG5B0gF0QVVfeXFMTnZZOUs2YS1ST2R4cnBNaHRnVDNKOFBpSDdmNktPbGJaMjVnMnllVEl4NU0xOEJiTmtXdFc4dVZaR3lFN0l5dDFGTi1vMVNtMUktWWJ5YkxLaUZpaHlkbkNzZWI3WDc3QzBHQTZkYlJUV01IbkE?oc=5",
-   "outlet": "주간한국",
+   "title": "삼성전자, HBM에 '블랙박스' 심는다",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KR2puTm9jYUd3MjcteU85WnFmY21OMXl3SzQ2NkxiMHRrZkJXNDhuMVFGZG0wUzFwS0todk8wSVZXajNVWXlEXzRvcTVNOVpWVHQ3dTJ3?oc=5",
+   "outlet": "매일경제",
    "lang": "ko",
    "date": "2026-10-09",
-   "tag": ""
+   "tag": "",
+   "score": 3
   },
   {
-   "title": "“十一”手机消费“冰与火”：存储涨价下的一场系统性大考",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXRRbmVwTEdSVHZZMXVYX012QnBUQmVQTGl6SlBfOXZqdUdnc002NUVJS19JcG1kUmNEeGM5anp6elV0RkxTbmJkZmZNNVNCSHFHeF9rOFVXN1J1SXNIYW9fSGlYSUY0aDhFR0J1SXg2UlR5TjVFV3NFbl9WaVFpWm1XOVRfYjR3akIzWEFESEFMazBB?oc=5",
-   "outlet": "21财经",
+   "title": "엔비디아, '루빈' HBM4 12단 유지 전망...\"HBM 수요 둔화 우려 기우\"",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMVNhNDdEVWFua3A4NWo2SUpqX1V5RkVzSW5HZDdmMWRCTVU4cWw0WjE3Vkxaem10OGVveTdzLWVocE51WjZzZVJ3aGV5Q0NEU1pkQ0tfQ25JMU93dmdJMTN1dUF5SWs2WFUwVg?oc=5",
+   "outlet": "메디컬투데이",
+   "lang": "ko",
+   "date": "2026-10-09",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "\"지금도 저평가\"...마이크론(MU), HBM 독점 공급난 타고 3배 '점프' 전망",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvUzVDZHhOUTdlQ1g4VUpndHI2RTlqeThkOTZlNUZnaE1QSFh0a0ZBYlphTDN6YzI4WjF0UlQycHBmWTdPVmdleHBB?oc=5",
+   "outlet": "코인리더스",
+   "lang": "ko",
+   "date": "2026-10-09",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "HBM에 밀려난 D램 일감 어디로…한 달 새 42% 뛴 반도체 후공정 OSAT 산업",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IZEtDS3FYNC1LaF9YRFlLRVlDVzk0TVUxbnJJZ1k3TXJrN3FZdGJYdFlqNXo2MDFMWWYwbjFFdUd6T3NMdnlzaEJoeTVkVGlOS21yaUIxMTllYUV2Mmx3?oc=5",
+   "outlet": "스마트투데이",
+   "lang": "ko",
+   "date": "2026-10-09",
+   "tag": "",
+   "score": 2
+  },
+  {
+   "title": "D램이 이끈 ‘빅테크 영업익 세계 1위’ 삼성… “내년엔 HBM4 주축”",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yV1pWSG5FWHRjYmZmbzN5dC03M1VPdEVjazFONjl1Z2k4OUVzX3d5dF8xc3pkalRDQXlFVWpsUDNNOGdOVTFKTzNNQnBmOXJaZDFqS1ZheWhrWGlaQ3JXZTh0TEFGQdIBZkFVX3lxTE4yV1pWSG5FWHRjYmZmbzN5dC03M1VPdEVjazFONjl1Z2k4OUVzX3d5dF8xc3pkalRDQXlFVWpsUDNNOGdOVTFKTzNNQnBmOXJaZDFqS1ZheWhrWGlaQ3JXZTh0TEFGQQ?oc=5",
+   "outlet": "동아일보",
+   "lang": "ko",
+   "date": "2026-10-09",
+   "tag": "",
+   "score": 2
+  },
+  {
+   "title": "A股存储芯片股集体下挫，长鑫科技、中芯国际、北方华创跌超3%",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnRlbWJNY29nWk1CY0FMZlBsQWdTamVQNXZqWjNTY2dFSHVxbm0zZmJPYzRIcUhVV01CMmxwSDJoRTRxeHJnX0xnRHAyV1VfUV8zVjZLeXJxOVdnLWU2NkNXWU9ER2dKUURYNG4wQVJpNFJRQXNacE4tNnh2VFB1Vg?oc=5",
+   "outlet": "新浪财经",
    "lang": "zh",
    "date": "2026-10-09",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 1
   },
   {
-   "title": "삼성전자, 3분기 영업이익 107.4조…첫 100조 돌파",
-   "link": "https://www.thelec.kr/news/articleView.html?idxno=63449",
-   "outlet": "디일렉",
+   "title": "삼성전자 HBM4 가격 협상 막바지…내년 HBM 평균가 2배 급등 전망",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJOVFjTTFaZUUtSHh5RXNRcWJaNWQ5cWtWZmdiTmtWaHhXa0tiLVhMbTU0UFhGejl0c3JJQzF3OUY3M2N5bEJkN3JWZHpjd1JSM2xZYzdOcGViM0gtN2drN2hXR080ckh3SXVSM3R4dG4weFnSAXNBVV95cUxQSTlRY00xWmVFLUh4eUVzUXFiWjVkOXFrVmZnYk5rVmh4V2tLYi1YTG01NFBYRno5dHNySUMxdzlGNzNjeWxCZDdyVmR6Y3dSUjNsWWM3TnBlYjNILTdnazdoV0dPNHJId0l1UjN0eHRuMHhZ?oc=5",
+   "outlet": "뉴스웍스",
    "lang": "ko",
    "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "삼성전자, EHS 올인원 히트펌프 보급 계획 발표",
-   "link": "https://www.thelec.kr/news/articleView.html?idxno=63443",
-   "outlet": "디일렉",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "Hudbay Minerals Inc. (HBM) stock price, news, quote and history",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JWVJQeERmQm11NGd4VWp4VzV0RFFCdEJ4T21xenF1MTlweXJtUjN6M2l2MXp1SUh0UlhySXc5VjhSa2V0d1dnbV93WWJCUmJM?oc=5",
-   "outlet": "Yahoo Finance Singapore",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Micron’s Quarterly NAND Revenue Jumped 526%. Here’s Where the Stock Could Go by 2031",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0h0ZDQyWFdXc1JXZ241YlJhaTB0STNaWDloTlR0X2VySzlIN1JPMkV6Y3VGTTR2Y1Fwck0tMU1ROVBCYzVWckFlMG92amNsOUZ3ME11WU9RajZPc2REVnAwYTFIZFZhTjEtQ05sZ1F5UlFoWm9lSV9aRDM5UjlzcG85ajdNV1FiTFljbGtUenlzWG9IZnYteV83aXQyU1pNTmt0NS1xaUo1Zw?oc=5",
-   "outlet": "TIKR.com",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Samsung’s Profit Just Rose Nearly Ninefold on Memory Chips",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlJnd3lPWFFVRGpJeUNEREljU3U2UWVFeUxJa1g4Tl9aZWttaVNCSW5MUFUtRHJwR3NFRlVhdVlPa1B0X3VaMUM1VmRRa1d1VTRWWGJJaGdlUWJLT2kySnBYMXozWklkWnhENFdVdlhweEZrbklxT05qQk1XdU10T1FiSVhaNUpiekNlQm9FSGNCSDllWFhSY3R0MkdXRkhjVGR3?oc=5",
-   "outlet": "24/7 Wall St.",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "DRAM: The AI Memory Boom Is Real, But 2028 Earnings Matter More Than Today's Low P/E",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFk2bWIweW1DSmhfLVowN1BZUjFqMUhGWWZiMEROcERHR1M0Nm1iOWN4ZV9Fa2tUSGQ1NGluYjY3U2JGUFhEYlBjbU5jamV1NDNSd1NwMThmSGNpTHFoZy1UZzJLOUxnNkc4YndQYVR1bHNJYTZfeWNDUWltODZWUEh3VGhfS2hfU0NwUVNRcjliRWhWRmJLb2h4T29IaDZ0blpkYTAzLVFaWEtCemNJREhCOFR2eTVtVVByRjJ3?oc=5",
-   "outlet": "Seeking Alpha",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "SK hynix: How Long Can the AI-led Memory Supercycle Last?",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5scXF3NjdnbWxaYml0UHZyTHJKNlIwem1CZHc1VFZzbmM0bTJmOXFsQWwzbXRKRjdmNmo4MF9PTmVLVkd2N0FaMmxmcXB0UHA1a0J2ZmZUSjlINEU?oc=5",
-   "outlet": "Longbridge",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "NIO Stock Rises Overnight: DRAM Bet On CXMT Pays Off As Chinese Chipmaker Soars Over 500% In Blockbuster IPO",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYlFFMDdqdHQzVmwta01SQkFObHlDY2liMzdPWlhrNjluSnBjcE52NGs5UWhweV92VDE4T1JfODJ3OGQxSDhXZWZVbjF0SXVBVDdXU2JaZy1adlFZNXhZZFZTRE5JWGI5TVM2MlhmNWttd0RRZ1FUV3VvQXBmUWE3ZVdFbVI1bkg5R3hpSUR3N2lycVltWnB0d0VNaFBRTVRFQ21UTzhiaTBrRThSWWNoVW1Saw?oc=5",
-   "outlet": "Stocktwits",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "U.S. DRAM Market Trends in AI and HPC Growth",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50eDEwdHR2ZUdRd2pWTEtGb2Z5Tl8tVXhZRDQzeWpfVUkzdnZyWVhsZUduS1lTNy13ak5nb3Z5cHNzb3hYbHNuUTVkcnVyTFdfdmhjUm5RclozSURlYzFCN2g1QUY0ZENQOHFQTFo1MnloT24wOHc?oc=5",
-   "outlet": "Kings Research",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Samsung Says the AI Memory Chip Shortage Will Not Ease Before 2028",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWQ3dXJUemZkbXgtbUhrR2NaZ2FOUXdCc2VuU0ttM0JJV1ZFQVFWRXZOUG5mdWhpbkM3RTNQMndTWmt6SWJ4QlFjVks2dDdLMUlRZVB2TlBwOU9ZUU9pQngtMFhlWGFJc0tMTmJhMkdxeHRSV0hQVURVYlg1S1ZybDZUd3ZHVzJ4enVDUVVGTWJiX09IRmF5ZV9B?oc=5",
-   "outlet": "Startup Fortune",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Hudbay Minerals Inc. (HBM) Stock Price, News, Quote & History",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51dm5mTV9uTlhCbzNvSHBYdENWWi16Q2JoYVl6ZWNIYnNVUWI1cnF2dW02S2dNcFVmb3B3ZjI5dFpuSmhPd2VyTjB2VnZQQ3Rw?oc=5",
-   "outlet": "Yahoo! Finance Canada",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Roundhill Memory ETF (DRAM) stock price, news, quote and history",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwWVllNy1xNHVzemlNa3Vtd1ZTakxUaFNnY0hxcnFRLUZuM05XTGJTUEJaRXZrMmVUcVhBd2FGa2VQbUx1SElfemhZa29hdi13NFE?oc=5",
-   "outlet": "Yahoo Finance UK",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Micron Rival Samsung's Outlook Gets a $70 Billion Jolt",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkppSDF0cE4ydGgwS3pyVE4tYktfTU5iRTBlQkZQWFZiaE12U2hUbnp1aTliR2lNaUNDbVZyMUVpRFZuMC0ySFVQR1VVNi1vYzRZYkVkWk9fcFV6czNxS3dEdHFzUkJ4UWQ0YWEwclpYZTEwZmwtUWtuZmNvSzJ1UW5wclVIUS1IWHg4cTdvY0R5YWhyYXpSUWpDN1dLX2NHT1NNTERvSmFCUnBEb2hMeURNNA?oc=5",
-   "outlet": "TradingView",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Hudbay Minerals Inc. (HBM.TO) Stock Price, News, Quote & History",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FbXBIcE9SM0FZaWY2TndEN3ZPSVVFcHh5WFhURDU1eUJmeGo2S1Q1WTdpenpVTzFSdGNselRaQUVQd0k1VHEtLUZISDliUFNod0tQNQ?oc=5",
-   "outlet": "Yahoo! Finance Canada",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "DRAM Nov 2026 54.000 call (DRAM261120C00054000) Stock Price, News, Quote & History",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XUWh3ZFc5ZzFSRDVXVmpYNnNwVXZhRHBteFZCb0I5OG03SFJZSU0tQVk4WVRnSGZDSXk2OTEwZURmLXpNN1dRTFVpaVhxUUlsTFUzMnVLTjB3eElEOW1SaHFXY2VpZw?oc=5",
-   "outlet": "Yahoo! Finance Canada",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "DRAM Oct 2026 54.000 put (DRAM261012P00054000) Stock Price, News, Quote & History",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZ0o5NHAyMERoNDJ5Qkk5MzdNRWNaeFFpUmNaYkZzRV9aeEROUWhxY0xIVlRIU0taMm5UdWtCTlpwSi1WdFZYNkdJVzU5MlVoQlJsLWlvNk5yR19IcjZ4SXlDWXdQZw?oc=5",
-   "outlet": "Yahoo! Finance Canada",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "DRAM Nov 2026 54.000 call (DRAM261106C00054000) Stock Price, News, Quote & History",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NY1hhYUx3N0N4a010bmhJQkhWUWEySUJ3M2dmYV93OWtxZ3RuVmVMV1RvTk9BR3hEZFlfRlF3M2FXdVhTYWZ1RkdReUR3NmVabURxZ3RqNGx3M2llR1JQQ0xOLTJ4QQ?oc=5",
-   "outlet": "Yahoo! Finance Canada",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "BE Semiconductor: Buy The HBM Opportunity Before The Orders Arrive (OTCMKTS:BESIY)",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenNUY29GY2ZhSmhjUWg1T21POG9KcjZoc2tFcUhGNEhFSnZhQnNjdTVtdDZVbDluc3JrZXN5anZicGJPYTctMnFrQVZldDR6U2cwT3N5X00tazNyakxpOS13RVZNemhvakh3YlFEdkM5RXgzWFNxTUVfbHZPSjlLanN3LUxMVUlHUVd4RHA0ZmVkSXh0Uzc3dWx3?oc=5",
-   "outlet": "Seeking Alpha",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "NAND Supercycle Reshapes Landscape: Kioxia Falls Out of Top Four, SanDisk's High-Margin Sustainability Sparks Debate",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub1lpX2hpdkt3TWtYWkJodXc5MVlRNlVrWjlwTy0xcmdpa1hYdjRXbFQ5SnFlMnBiTl9lQk4wWWpfY0NjNEthWGtqN0s2ajU3d2hETnoxcHpDZllLamM2R0NtTWlMSjZtenpMQURsWTBiVm5rUGc?oc=5",
-   "outlet": "BigGo Finance",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "DRAM Dec 2028 80.000 put (DRAM281215P00080000) stock price, news, quote and history",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qWHJvVzVWam40cC1kWlN0dFlFQ2Q3TXl5eXRmUlA4S0VnR2kwS2lXa3J5Zi1JQTN2emNGc1FfV1hncDZqOEpoZ0dxUkctOVd3U1dmbHZYX3VGNzRTX0FRYUNWcmpMZw?oc=5",
-   "outlet": "Yahoo Finance UK",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Key facts: Micron (MU) Q4 $54.23B rev; DRAM ASPs +140%",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0l5TXFLZWpzbXQzOEthdnNnNWVqd05BRlVYOEVWdEZVZ2lfblE1X0tTVHV1TDJyZUdtUGJ3UzBXSEc4TW5YNE1DUVV6TG1ndFFPSE9HZTZJOVJXcnlONzRkZkhLZFJsNWdab2tNNzhESnZwZzVfLVAyS0tBNDlqX0FoYUJHOHFZWEd3cE1Vb3FSXy1aRWY2ME5GaVoyTmtFM2xaX2lZenlEQktlNXc?oc=5",
-   "outlet": "TradingView",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Sandisk Stock Is Surging Wednesday: What's Going On?",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qM29uMW4xV0s3Y0RXd05TVWJya2d2NFFjVV9Cb21HbjRqZkhWTy03eFpObDVSOXhyQ3A0X01uOWdKcldiQloydkJWdVdXMEI5akY5dTZhNEZSLWFxcTU4empBNlVFUEY4?oc=5",
-   "outlet": "TradingView",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
+   "tag": "전망",
+   "score": 7
   },
   {
    "title": "Micron Locks In 2027 HBM Pricing Power While Clearing Legal Decks With $600 Million Netlist Truce",
@@ -412,7 +129,8 @@
    "lang": "en",
    "date": "2026-10-08",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 5
   },
   {
    "title": "HBM Prices to Double as Memory Shortage Drives Samsung Profit Surge",
@@ -421,185 +139,8 @@
    "lang": "en",
    "date": "2026-10-08",
    "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Samsung Q3 Operating Profit Surges Nearly 8-Fold to Record High: What Is the Outlook for Micron, Nvidia, and Memory Stocks?",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2drdFk1d3hSOHhXYURMV0M2UVhWWHFCRUx2a3RfdmtPOHNiZnRjV182cjlTNko1akJqS2g0eC1Dem1Lb1FBYVhFX2trY0lndExqMjJkd3NUUmxpaHNIaG9YLWhxUnFtTzZmOU4yNmlRZUFZQnVfZUV1MTA5SGNLaWJkbXRJZXdRQVlnRjRHMTFKT2hqV3Y3UnZPZ2p0LTZWVnVIaFg4TF94dw?oc=5",
-   "outlet": "TradingKey",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Nanya Technology stock gets a DRAM price increase of up to 20 percent",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmpZRzYzbU9oeWkwQkx5RmM4VXYwSVFBNUE3bm4tN3gtVWNGLTZwTVhIUFFzNl9zRUQ3NWMtR0FDRVgxTGhrSWZzMV82NUZUZF80Qzd6UUY3cXJ5MENMU0xPNWJxRlpSdEhHZTd3R3o5andkdUFValgxWkt1NGpYNm5WeVA1YWtSd2sxTHIxZFF0MmhRY3JpMDhUSVlpbE5JMjRwaTNJSFNXMDViYVctTnhSN3R6SHgtcUY2blpQZ0t5NU9DMmxLV19DV04?oc=5",
-   "outlet": "AD HOC NEWS",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Memory boom powers Samsung Electronics to record Q3 profit in South Korea - CHOSUNBIZ",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2NJU1pXSkk3SE5rRWR6b3AwT2xWMnBCZnlTRUZfdy1vcnVlazc4d1hULTFIZ0xwSHNOREgwaGNablJDN0pPUU9vdU5BQ01VWHhkWXd4ZHByNGo4Ynd1ZlREYmFPY0kxd25Gc2xaZFhNbnlCSW9qcU1zbXVmNXpwNjh3Z3ZwOHdtQzdxcHRn0gGOAUFVX3lxTFBfY0lTWldKSTdITmtFZHpvcDBPbFYycEJmeVNFRl93LW9ydWVrNzh3WFQtMUhnTHBIc05ESDBoY1puUkM3Sk9RT291TkFDTVVYeGRZd3hkcHI0ajhid3VmVERiYU9jSTF3bkZzbFpkWE1ueUJJb2pxTXNtdWY1enA2OHdndnA4d21DN3FwdGc?oc=5",
-   "outlet": "Chosunbiz",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth?",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMDgySmI2eXg0NUdTNVhUZ3RnOUZMenB6WTJHRmVqTml0bEt0dlN1ZXh5eW5XRmxlNGhYQU9IUENOWTV6R0RaVHlMRnJqcXNmWkdIQTM2SkxKZWZhVHRSeFF3WDhFaUI3Q18yaEFyY1pDdmtVVWV2bnBjeXpaZTktQVlmSQ?oc=5",
-   "outlet": "Yahoo Finance UK",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "범용 D램이 밀고 HBM4가 끌고…삼성 HBM 가격 두 배 전망",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQazh5ZDgyNEY2RzNqNEd2Nkp5M1JZTi04dnFZemswOUdMYm9RdG9CbS14NlRQWVRnOEJkMXV5eDhPdjdjWkplakd1UURLQWxZWXprZHczVkZ5Ml9mQ1JvRTV0VmFIZFRmcHVzbjVuaWpkSzR6WXVOSkNvclZDbk9YVnJTT0dIaEpfNzJyNVpXOA?oc=5",
-   "outlet": "Naver Blog",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": "전망"
-  },
-  {
-   "title": "삼성 100조 이익의 비밀…D램·낸드 '초고마진', HBM값도 뛴다",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qdmR3MmhNYzZCNm1vMnhXeVI5ejlFc0NWX1lmd3FuRGZScnpyRnZSQUwydVpIZEp0TG5XcFpqNFRjTGg3bmdTY091YXZiODVSVC1Vd3cxTmgwbkd3?oc=5",
-   "outlet": "뉴스핌",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "예상 웃돈 삼성전자 3Q 실적…증권가 \"막연한 우려, D램 사이클 연장\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYUU2eS1EWk1Nb1pEc1dEbGs1cW5EbmdyVUdHNDNXcUgxX181SlNFWGZkdVlqYTNiX01pYThLVFlZdzIyc3NlSkhPTnNhSmZEOU9Ndnc5X1Q5TmRrb3gyaVYzRExRcFdCLXhWcWxMVzI?oc=5",
-   "outlet": "연합인포맥스",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "삼성전자 영업익 100조 돌파 금자탑…D램·낸드가 다했다 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ldHU0czBwb1Z6cVlTYzZvMnFvak9BRVdrbTRwMF9FNzBNckZmLXA2aWNuTlhqSGFtYWZQTjhGT1JPTkdkQVl5Qm51OWRNelVzMWo4VzhXYW5jZTJkWndNUHhiaXZid2FjV0NrOWlTU2NENHJI?oc=5",
-   "outlet": "연합인포맥스",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "삼성전자, 분기 영업익 100조 시대 열었다…“HBM4 독주체제, HBM도 1위 넘본다”",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWS2hmTmx1SldSNzg0OVdvYUN0LUR3Sl8yYWhSdDF0dGMtZTRPYkU3NkNDX1hDOWM2MG1yUDhEcFlaOWRBYmwwRVNmVlpuY0dqY0Rucm16NXJMUGgyeEJjVG5GQzNIR3pB?oc=5",
-   "outlet": "CEO스코어데일리",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "꺾이지 않은 삼성전자…반도체 초호황, AI 수요에 HBM 업고 내년에도 좋다",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EX2hOcUdaOVYzcHkxX2FFcUktU0xXdmpndmtIdk5yclZ4RU9LZXZjZ3Z6YmlXSm1oakt2ZmU4b0FQX0pWT0o5TG05Wk1XQjRNcFNTZTByQWZ3dDhiNWo00gFfQVVfeXFMT0RfaE5xR1o5VjNweTFfYUVxSS1TTFd2amd2a0h2TnJyVnhFT0tldmNndnpiaVdKbWhqS3ZmZThvQVBfSlZPSjlMbTlaTVdCNE1wU1NlMHJBZnd0OGI1ajQ?oc=5",
-   "outlet": "경향신문",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "모바일·가전 적자에도 분기 영업익 100조 만든 삼성전자···'HBM 1등' 전망도",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZUtZdFRGVUNfa2xfdk93VndZc2J0TTZpMVVYQ2k1RFF6ZW9BeC1vUGRWcmQ0M0FXUUdOc00xNl9VaWUwdVF4NEpXVmtPZmUxbmxyYzgzOTdzWDZadFptdUg2YzJVM0lsb1NzbEd1Zm5xV0xiZVHSAXZBVV95cUxNZmVLWXRURlVDX2tsX3ZPd1Z3WXNidE02aTFVWENpNURRemVvQXgtb1BkVnJkNDNBV1FHTnNNMTZfVWllMHVReDRKV1ZrT2ZlMW5scmM4Mzk3c1g2WnRabXVINmMyVTNJbG9Tc2xHdWZucVdMYmVR?oc=5",
-   "outlet": "시사저널e",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "메모리 대호황 올라탄 삼성…엔비디아 넘어 영업익 세계1위 눈앞",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZjVBQVZ5Qkc5T1NXcVVqUERaRTVRZDA0V3UxWUN1SWtQNC1RbUlNOVhlMWROZ050Unk1bnZLM2NudzREUmFiR2twTmEtX21VWW5nbmMwcVUtbnNhbGE5M9IBYEFVX3lxTE1JZjVBQVZ5Qkc5T1NXcVVqUERaRTVRZDA0V3UxWUN1SWtQNC1RbUlNOVhlMWROZ050Unk1bnZLM2NudzREUmFiR2twTmEtX21VWW5nbmMwcVUtbnNhbGE5Mw?oc=5",
-   "outlet": "연합뉴스",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "삼성전자 3Q 영업익 107조…HBM 수요 둔화 우려에 카운터포인트 \"기우\"",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tUHpDY0JCMkJoNVVJZDhfY0RTaXg4a0dOUFotbVBrRFJLMW1zY3E2YmpLMDNiSmJGVUFjREdQZ0tLd05lRko2X09DVVh4LVVJYXhmUHRLTjBWVmNiN3JCNmJ3R2pqMmgz?oc=5",
-   "outlet": "www.ebn.co.kr",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "‘차이나 리스크’ 주의보… 中 D램, 韓 턱밑 추격",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ia3Z2UjVaUk9uY1VhZDdIZnJJRGVoVFVDdnVNRzNESFpJNFJxbnpZZWZEUVJaeVRKNjB1YU9QN2NVaVpOZGdPY0tKcXVGdlJX?oc=5",
-   "outlet": "문화일보",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": ""
-  },
-  {
-   "title": "삼성전자 HBM4 가격 협상 막바지…내년 HBM 평균가 2배 급등 전망",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJOVFjTTFaZUUtSHh5RXNRcWJaNWQ5cWtWZmdiTmtWaHhXa0tiLVhMbTU0UFhGejl0c3JJQzF3OUY3M2N5bEJkN3JWZHpjd1JSM2xZYzdOcGViM0gtN2drN2hXR080ckh3SXVSM3R4dG4weFnSAXNBVV95cUxQSTlRY00xWmVFLUh4eUVzUXFiWjVkOXFrVmZnYk5rVmh4V2tLYi1YTG01NFBYRno5dHNySUMxdzlGNzNjeWxCZDdyVmR6Y3dSUjNsWWM3TnBlYjNILTdnazdoV0dPNHJId0l1UjN0eHRuMHhZ?oc=5",
-   "outlet": "뉴스웍스",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": "전망"
-  },
-  {
-   "title": "1TB SSD从300涨到上千元！长江存储喊话：短缺至少持续三年",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MVUh4c3pYY3YzYk9iUnpEbGp2bldDdTVBbWgyMm1vWFRxS0RHZkRoVGl0S04yZS1xVXhOaG8tWkQ3eDA4ZklRXzZoZXM5anEta1BhM3FGdlU?oc=5",
-   "outlet": "驱动之家",
-   "lang": "zh",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "市值蒸发近2900亿元！长鑫科技遭遇上市以来最大单日跌幅",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObE54S05QVjFlSnk0NllULUctMUZJV1M4UzV4MEIwUndJNC01V3FpbGEwWU9McVdNWGtTUzZqLWtyQU5uVVRSY3kycmM5U21VeEk5UWpsWEJpRVJ1WTNHTFdubjY4T1FjR3BDVGtOalNvUTBkM1N3djhrSDdmM1JEUkdkdw?oc=5",
-   "outlet": "新浪网",
-   "lang": "zh",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "大跌7%！A股存储龙头长鑫科技放量跳水 濒临破位创近2个月新低 东芝扩产砸场 周期逻辑生变",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORy1aT0hQOXdTcS1LTUhvMUxZa1R1Ni04V01fZENtLUVUZnNjcWNyMFJ0NlhhMHpZYlpNS2ZBekpsWi01WmlnclYyNGZnaUVlRFRyeFNuYnFmaXhVZzNYNVNNRU95T0l4ZnRoME9rc1lOZXVZRWZoRUxoa0EyNzVYcHlOTXc2d0Ju?oc=5",
-   "outlet": "搜狐网",
-   "lang": "zh",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "三星股价预测：Q3利润暴增783%，AI存储需求还能推高股价吗？",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NdDlubGU5MHRFbElJNGFuSjJVVkdPcy1DMFFsN2hhYWtZQ1V0bG9FNHhYQWVkZjEzbmNZdFZQWkJfYmhaZ1FpLS1yYmxDNVhuQW1r?oc=5",
-   "outlet": "FX168财经",
-   "lang": "zh",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "长鑫G5平台落地，LPDDR6量产打开增长空间_行业新闻",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHYXBic3lBdHNOYjAtb0ppbHc2amhISjZsVkFJNWs2VDc2RGNhazlWbEhMUGZHc3Zjb2owZXdpb3UtWFFJOWdpOWhTMElISm0yNlRYQldxZ3dQc2R4M0JyT0U1U1M?oc=5",
-   "outlet": "证券之星",
-   "lang": "zh",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "中国长鑫存储为腾讯供应价值200亿元人民币的DRAM",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWM4STlIR01xM1JvdjB0TEJNM0M1UXlBNXNsMEFTWlgwYUpsc3JaNkVEeUNFQlVDSmpna0lqNkYwdnp2V0E3a2xSdnlkdWtUZGluSE5wSG1DYWxlVnhRNGg4ZlJlQUs3eGxxVl95ZnJIQzB1THJNU3RjV00wODhESWd5a0p0TXl0QTVPT2pSNktjelltNjJ0czVpLXotYkEx?oc=5",
-   "outlet": "朝鮮日報中文版",
-   "lang": "zh",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 5
   },
   {
    "title": "国产存储月产能突破120万颗，手机内存条价格终于降了",
@@ -608,25 +149,17 @@
    "lang": "zh",
    "date": "2026-10-08",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 5
   },
   {
-   "title": "今天，“存储”的悲喜并不相通：长鑫科技大跌，三星电子赚翻",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85UG02WUhvVUhZLXBwU0hJQTV5S3VPcG5rTHI1WVE2Z1ZPLXpDY29INk5TQmFkeW0zZ1hBRjNKQ0xfS0NhN3hKM24wR1RxZlV2TzRqTlJnOFlMdGlyR29ZaG5FbkhPYWtJTHpWZnpISGpJRThlOUliQw?oc=5",
-   "outlet": "新浪财经",
-   "lang": "zh",
+   "title": "범용 D램이 밀고 HBM4가 끌고…삼성 HBM 가격 두 배 전망",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQazh5ZDgyNEY2RzNqNEd2Nkp5M1JZTi04dnFZemswOUdMYm9RdG9CbS14NlRQWVRnOEJkMXV5eDhPdjdjWkplakd1UURLQWxZWXprZHczVkZ5Ml9mQ1JvRTV0VmFIZFRmcHVzbjVuaWpkSzR6WXVOSkNvclZDbk9YVnJTT0dIaEpfNzJyNVpXOA?oc=5",
+   "outlet": "Naver Blog",
+   "lang": "ko",
    "date": "2026-10-08",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "三星Q3营业利润增长近8倍创新高，美光、英伟达及存储股后市怎么看？",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xRzBOMHEzaEtkaG1aRlVQaGFuWXFJcUNxaEV5R3RSZDFRMTJyck1KNTUtQmlVRFNBNldxM2xjVEttT2ZMZC1TUHhXS2pmVFZuR09N?oc=5",
-   "outlet": "FX168财经",
-   "lang": "zh",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null
+   "tag": "전망",
+   "score": 4
   },
   {
    "title": "假期海外算力领涨，存储涨价与PCB/MLCC共振，关注节后国产算力订单验证期",
@@ -635,7 +168,152 @@
    "lang": "zh",
    "date": "2026-10-08",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "예상 웃돈 삼성전자 3Q 실적…증권가 \"막연한 우려, D램 사이클 연장\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYUU2eS1EWk1Nb1pEc1dEbGs1cW5EbmdyVUdHNDNXcUgxX181SlNFWGZkdVlqYTNiX01pYThLVFlZdzIyc3NlSkhPTnNhSmZEOU9Ndnc5X1Q5TmRrb3gyaVYzRExRcFdCLXhWcWxMVzI?oc=5",
+   "outlet": "연합인포맥스",
+   "lang": "ko",
+   "date": "2026-10-08",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "모바일·가전 적자에도 분기 영업익 100조 만든 삼성전자···'HBM 1등' 전망도",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZUtZdFRGVUNfa2xfdk93VndZc2J0TTZpMVVYQ2k1RFF6ZW9BeC1vUGRWcmQ0M0FXUUdOc00xNl9VaWUwdVF4NEpXVmtPZmUxbmxyYzgzOTdzWDZadFptdUg2YzJVM0lsb1NzbEd1Zm5xV0xiZVHSAXZBVV95cUxNZmVLWXRURlVDX2tsX3ZPd1Z3WXNidE02aTFVWENpNURRemVvQXgtb1BkVnJkNDNBV1FHTnNNMTZfVWllMHVReDRKV1ZrT2ZlMW5scmM4Mzk3c1g2WnRabXVINmMyVTNJbG9Tc2xHdWZucVdMYmVR?oc=5",
+   "outlet": "시사저널e",
+   "lang": "ko",
+   "date": "2026-10-08",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "삼성전자, 3분기 영업이익 107.4조…첫 100조 돌파",
+   "link": "https://www.thelec.kr/news/articleView.html?idxno=63449",
+   "outlet": "디일렉",
+   "lang": "ko",
+   "date": "2026-10-08",
+   "tag": "",
+   "score": 2
+  },
+  {
+   "title": "삼성전자, EHS 올인원 히트펌프 보급 계획 발표",
+   "link": "https://www.thelec.kr/news/articleView.html?idxno=63443",
+   "outlet": "디일렉",
+   "lang": "ko",
+   "date": "2026-10-08",
+   "tag": "",
+   "score": 2
+  },
+  {
+   "title": "삼성 100조 이익의 비밀…D램·낸드 '초고마진', HBM값도 뛴다",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qdmR3MmhNYzZCNm1vMnhXeVI5ejlFc0NWX1lmd3FuRGZScnpyRnZSQUwydVpIZEp0TG5XcFpqNFRjTGg3bmdTY091YXZiODVSVC1Vd3cxTmgwbkd3?oc=5",
+   "outlet": "뉴스핌",
+   "lang": "ko",
+   "date": "2026-10-08",
+   "tag": "",
+   "score": 2
+  },
+  {
+   "title": "삼성전자 영업익 100조 돌파 금자탑…D램·낸드가 다했다 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ldHU0czBwb1Z6cVlTYzZvMnFvak9BRVdrbTRwMF9FNzBNckZmLXA2aWNuTlhqSGFtYWZQTjhGT1JPTkdkQVl5Qm51OWRNelVzMWo4VzhXYW5jZTJkWndNUHhiaXZid2FjV0NrOWlTU2NENHJI?oc=5",
+   "outlet": "연합인포맥스",
+   "lang": "ko",
+   "date": "2026-10-08",
+   "tag": "",
+   "score": 2
+  },
+  {
+   "title": "Nanya Technology stock gets a DRAM price increase of up to 20 percent",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmpZRzYzbU9oeWkwQkx5RmM4VXYwSVFBNUE3bm4tN3gtVWNGLTZwTVhIUFFzNl9zRUQ3NWMtR0FDRVgxTGhrSWZzMV82NUZUZF80Qzd6UUY3cXJ5MENMU0xPNWJxRlpSdEhHZTd3R3o5andkdUFValgxWkt1NGpYNm5WeVA1YWtSd2sxTHIxZFF0MmhRY3JpMDhUSVlpbE5JMjRwaTNJSFNXMDViYVctTnhSN3R6SHgtcUY2blpQZ0t5NU9DMmxLV19DV04?oc=5",
+   "outlet": "AD HOC NEWS",
+   "lang": "en",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 2
+  },
+  {
+   "title": "中国长鑫存储为腾讯供应价值200亿元人民币的DRAM",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWM4STlIR01xM1JvdjB0TEJNM0M1UXlBNXNsMEFTWlgwYUpsc3JaNkVEeUNFQlVDSmpna0lqNkYwdnp2V0E3a2xSdnlkdWtUZGluSE5wSG1DYWxlVnhRNGg4ZlJlQUs3eGxxVl95ZnJIQzB1THJNU3RjV00wODhESWd5a0p0TXl0QTVPT2pSNktjelltNjJ0czVpLXotYkEx?oc=5",
+   "outlet": "朝鮮日報中文版",
+   "lang": "zh",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 2
+  },
+  {
+   "title": "U.S. DRAM Market Trends in AI and HPC Growth",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50eDEwdHR2ZUdRd2pWTEtGb2Z5Tl8tVXhZRDQzeWpfVUkzdnZyWVhsZUduS1lTNy13ak5nb3Z5cHNzb3hYbHNuUTVkcnVyTFdfdmhjUm5RclozSURlYzFCN2g1QUY0ZENQOHFQTFo1MnloT24wOHc?oc=5",
+   "outlet": "Kings Research",
+   "lang": "en",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 1
+  },
+  {
+   "title": "Key facts: Micron (MU) Q4 $54.23B rev; DRAM ASPs +140%",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0l5TXFLZWpzbXQzOEthdnNnNWVqd05BRlVYOEVWdEZVZ2lfblE1X0tTVHV1TDJyZUdtUGJ3UzBXSEc4TW5YNE1DUVV6TG1ndFFPSE9HZTZJOVJXcnlONzRkZkhLZFJsNWdab2tNNzhESnZwZzVfLVAyS0tBNDlqX0FoYUJHOHFZWEd3cE1Vb3FSXy1aRWY2ME5GaVoyTmtFM2xaX2lZenlEQktlNXc?oc=5",
+   "outlet": "TradingView",
+   "lang": "en",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 1
+  },
+  {
+   "title": "1TB SSD从300涨到上千元！长江存储喊话：短缺至少持续三年",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MVUh4c3pYY3YzYk9iUnpEbGp2bldDdTVBbWgyMm1vWFRxS0RHZkRoVGl0S04yZS1xVXhOaG8tWkQ3eDA4ZklRXzZoZXM5anEta1BhM3FGdlU?oc=5",
+   "outlet": "驱动之家",
+   "lang": "zh",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 1
+  },
+  {
+   "title": "市值蒸发近2900亿元！长鑫科技遭遇上市以来最大单日跌幅",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObE54S05QVjFlSnk0NllULUctMUZJV1M4UzV4MEIwUndJNC01V3FpbGEwWU9McVdNWGtTUzZqLWtyQU5uVVRSY3kycmM5U21VeEk5UWpsWEJpRVJ1WTNHTFdubjY4T1FjR3BDVGtOalNvUTBkM1N3djhrSDdmM1JEUkdkdw?oc=5",
+   "outlet": "新浪网",
+   "lang": "zh",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 1
+  },
+  {
+   "title": "大跌7%！A股存储龙头长鑫科技放量跳水 濒临破位创近2个月新低 东芝扩产砸场 周期逻辑生变",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORy1aT0hQOXdTcS1LTUhvMUxZa1R1Ni04V01fZENtLUVUZnNjcWNyMFJ0NlhhMHpZYlpNS2ZBekpsWi01WmlnclYyNGZnaUVlRFRyeFNuYnFmaXhVZzNYNVNNRU95T0l4ZnRoME9rc1lOZXVZRWZoRUxoa0EyNzVYcHlOTXc2d0Ju?oc=5",
+   "outlet": "搜狐网",
+   "lang": "zh",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 1
+  },
+  {
+   "title": "长鑫G5平台落地，LPDDR6量产打开增长空间_行业新闻",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHYXBic3lBdHNOYjAtb0ppbHc2amhISjZsVkFJNWs2VDc2RGNhazlWbEhMUGZHc3Zjb2owZXdpb3UtWFFJOWdpOWhTMElISm0yNlRYQldxZ3dQc2R4M0JyT0U1U1M?oc=5",
+   "outlet": "证券之星",
+   "lang": "zh",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 1
+  },
+  {
+   "title": "今天，“存储”的悲喜并不相通：长鑫科技大跌，三星电子赚翻",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85UG02WUhvVUhZLXBwU0hJQTV5S3VPcG5rTHI1WVE2Z1ZPLXpDY29INk5TQmFkeW0zZ1hBRjNKQ0xfS0NhN3hKM24wR1RxZlV2TzRqTlJnOFlMdGlyR29ZaG5FbkhPYWtJTHpWZnpISGpJRThlOUliQw?oc=5",
+   "outlet": "新浪财经",
+   "lang": "zh",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 1
   },
   {
    "title": "长鑫科技创上市以来最大跌幅，单日跌超6%，这个国庆假期全球存储龙头集体大跌",
@@ -644,33 +322,58 @@
    "lang": "zh",
    "date": "2026-10-08",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 1
   },
   {
-   "title": "삼성전자, 분기 영업익 100조 시대 열었다 “HBM4·범용 D램 쌍끌이 효과”",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WbzNCYkZCeUE5amZVZnlBU2gtNzY1VTBwS0hYNmctSk9IQ1RCVUdXNjdFNjBXQzBFeFRtRGZnYm9UUHdOTkhTMXlxbmJaNlRORFliNm9FZW1Ka0pGUmJtbmtONTFIUDAzd0l4RUdSLWNvZmRsdzJHOWhiVmJnQQ?oc=5",
-   "outlet": "비즈한국",
-   "lang": "ko",
+   "title": "Samsung’s Profit Just Rose Nearly Ninefold on Memory Chips",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlJnd3lPWFFVRGpJeUNEREljU3U2UWVFeUxJa1g4Tl9aZWttaVNCSW5MUFUtRHJwR3NFRlVhdVlPa1B0X3VaMUM1VmRRa1d1VTRWWGJJaGdlUWJLT2kySnBYMXozWklkWnhENFdVdlhweEZrbklxT05qQk1XdU10T1FiSVhaNUpiekNlQm9FSGNCSDllWFhSY3R0MkdXRkhjVGR3?oc=5",
+   "outlet": "24/7 Wall St.",
+   "lang": "en",
    "date": "2026-10-08",
-   "tag": ""
+   "tag": "",
+   "ko": null,
+   "score": 0
   },
   {
-   "title": "今天，“存储”的悲喜并不相通：长鑫科技大跌，三星电子赚翻",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wWFhkOVVhZWZXVU9JNDl2R1A2ZXNEVG00WFJXSmVUbFhZY0k3U1Q4djc5UW9oYm5SSFZjQXJvUTZuVDgwdG9RLUVVY2ZHYklqZ014SlNLY09wVk5Xd2VxaWc5OHdULTNpcG9RVFNoal9aa1hnTDVFOQ?oc=5",
-   "outlet": "finance.sina.com.cn",
+   "title": "SK hynix: How Long Can the AI-led Memory Supercycle Last?",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5scXF3NjdnbWxaYml0UHZyTHJKNlIwem1CZHc1VFZzbmM0bTJmOXFsQWwzbXRKRjdmNmo4MF9PTmVLVkd2N0FaMmxmcXB0UHA1a0J2ZmZUSjlINEU?oc=5",
+   "outlet": "Longbridge",
+   "lang": "en",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 0
+  },
+  {
+   "title": "Samsung Says the AI Memory Chip Shortage Will Not Ease Before 2028",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWQ3dXJUemZkbXgtbUhrR2NaZ2FOUXdCc2VuU0ttM0JJV1ZFQVFWRXZOUG5mdWhpbkM3RTNQMndTWmt6SWJ4QlFjVks2dDdLMUlRZVB2TlBwOU9ZUU9pQngtMFhlWGFJc0tMTmJhMkdxeHRSV0hQVURVYlg1S1ZybDZUd3ZHVzJ4enVDUVVGTWJiX09IRmF5ZV9B?oc=5",
+   "outlet": "Startup Fortune",
+   "lang": "en",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 0
+  },
+  {
+   "title": "Memory boom powers Samsung Electronics to record Q3 profit in South Korea - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2NJU1pXSkk3SE5rRWR6b3AwT2xWMnBCZnlTRUZfdy1vcnVlazc4d1hULTFIZ0xwSHNOREgwaGNablJDN0pPUU9vdU5BQ01VWHhkWXd4ZHByNGo4Ynd1ZlREYmFPY0kxd25Gc2xaZFhNbnlCSW9qcU1zbXVmNXpwNjh3Z3ZwOHdtQzdxcHRn0gGOAUFVX3lxTFBfY0lTWldKSTdITmtFZHpvcDBPbFYycEJmeVNFRl93LW9ydWVrNzh3WFQtMUhnTHBIc05ESDBoY1puUkM3Sk9RT291TkFDTVVYeGRZd3hkcHI0ajhid3VmVERiYU9jSTF3bkZzbFpkWE1ueUJJb2pxTXNtdWY1enA2OHdndnA4d21DN3FwdGc?oc=5",
+   "outlet": "Chosunbiz",
+   "lang": "en",
+   "date": "2026-10-08",
+   "tag": "",
+   "ko": null,
+   "score": 0
+  },
+  {
+   "title": "三星Q3营业利润增长近8倍创新高，美光、英伟达及存储股后市怎么看？",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xRzBOMHEzaEtkaG1aRlVQaGFuWXFJcUNxaEV5R3RSZDFRMTJyck1KNTUtQmlVRFNBNldxM2xjVEttT2ZMZC1TUHhXS2pmVFZuR09N?oc=5",
+   "outlet": "FX168财经",
    "lang": "zh",
    "date": "2026-10-08",
    "tag": "",
-   "ko": null
-  },
-  {
-   "title": "Taiwan's Nanya Technology Notifies Customers of Up to 20% DRAM Price Hike Amid Prolonged Supply Shortage",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pRFBwU3FkVzdlNVN5azRhbU9SN2RUNnlnTDZYQS02cmRlbkJ1dHpFVzhmWklPT0FZQTEzOWdaOWtUNjhIMjR4bXo1Y0RXWXBUeU1XTzh5dUZ2ZDhHLVM4VXBwV0lPNkhJenBMU1JmTTRpY29iREE?oc=5",
-   "outlet": "BigGo Finance",
-   "lang": "en",
-   "date": "2026-10-07",
-   "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 0
   },
   {
    "title": "Samsung's HBM prices tipped to more than double in 2027",
@@ -679,25 +382,8 @@
    "lang": "en",
    "date": "2026-10-07",
    "tag": "",
-   "ko": null
-  },
-  {
-   "title": "SanDisk shares rise 4.06% as BMO flags NAND shortage through 2028",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjBEZXhXa1VHdDBGb2lXN1FzS1BCTjFaWHVOS3NiLWZwSENKb0IyVHNlRWZnWElpTHdnTnY0VVh6VGlBMldBVDJZQnlSYnQ5Skl5WkVDQm5DYW5xV2hMVVd6ZjFQT2FlWHY1ZXYxVFJWeUpMVHlaSE1OMUgxWjRLaWk5aVRlYXhUV3hzemdOZ2pQMXhLUUR4SXVZOA?oc=5",
-   "outlet": "scanx.trade",
-   "lang": "en",
-   "date": "2026-10-07",
-   "tag": "",
-   "ko": null
-  },
-  {
-   "title": "三星Q3营业利润增长近8倍创新高，美光、英伟达及存储股后市怎么看？",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDVJODdvbWlQeHBsMFZYTllXSTlCWGxZQzhqWDJ0X3drdEx0NTluZk43czJfWWhRdGFOTHNOeHBsUDEtSVd6M2tUejZ1SUt4ZF9JcEpnN01rNWEyY2tvOURLS25MZGhScWhpdDhZUmZTQTF1NzRxQ2VGMmI0ODI1eElxclh3Y20yeDJ5VEV3YS15T2xveEdodDVybzlRZC1NZFBKX1VKZWFaSFU3VUlYQVBTNA?oc=5",
-   "outlet": "TradingKey",
-   "lang": "zh",
-   "date": "2026-10-07",
-   "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 5
   },
   {
    "title": "HBM: Hudbay Minerals Inc. Latest Stock Price, Analysis, News and Trading Ideas",
@@ -706,7 +392,18 @@
    "lang": "en",
    "date": "2026-10-07",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 2
+  },
+  {
+   "title": "Taiwan's Nanya Technology Notifies Customers of Up to 20% DRAM Price Hike Amid Prolonged Supply Shortage",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pRFBwU3FkVzdlNVN5azRhbU9SN2RUNnlnTDZYQS02cmRlbkJ1dHpFVzhmWklPT0FZQTEzOWdaOWtUNjhIMjR4bXo1Y0RXWXBUeU1XTzh5dUZ2ZDhHLVM4VXBwV0lPNkhJenBMU1JmTTRpY29iREE?oc=5",
+   "outlet": "BigGo Finance",
+   "lang": "en",
+   "date": "2026-10-07",
+   "tag": "",
+   "ko": null,
+   "score": 1
   },
   {
    "title": "AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists, Says TrendForce",
@@ -715,7 +412,8 @@
    "lang": "en",
    "date": "2026-09-30",
    "tag": "",
-   "ko": null
+   "ko": null,
+   "score": 8
   },
   {
    "title": "HBM supply constraints persist; 2027 blended ASP forecast revised up to +121% YoY",
@@ -724,16 +422,8 @@
    "outlet": "TrendForce",
    "lang": "en",
    "date": "2026-09-29",
-   "tag": "전망"
-  },
-  {
-   "title": "HBM Supply Constraints Persist, 2027 Price Outlook Revised Upward with Blended ASP Forecast to Rise 121% YoY, Says TrendForce",
-   "link": "https://www.trendforce.com/presscenter/news/20260929-13255.html",
-   "outlet": "TrendForce",
-   "lang": "en",
-   "date": "2026-09-29",
    "tag": "전망",
-   "ko": null
+   "score": 11
   }
  ]
 }

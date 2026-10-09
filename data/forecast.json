@@ -1,0 +1,24 @@
+{
+ "items": [
+  {
+   "product": "범용 DRAM",
+   "low": 10.0,
+   "high": 15.0,
+   "basis": "QoQ",
+   "period": "2026년 4분기",
+   "date": "2026-09-30",
+   "title": "AI server demand keeps memory contract prices rising in 4Q26",
+   "link": "https://www.trendforce.com/presscenter/news/20260930-13258.html"
+  },
+  {
+   "product": "HBM",
+   "low": 121.0,
+   "high": 121.0,
+   "basis": "YoY",
+   "period": "2027년",
+   "date": "2026-09-29",
+   "title": "HBM supply constraints persist; 2027 blended ASP forecast revised upward",
+   "link": "https://www.trendforce.com/presscenter/news/20260929-13255.html"
+  }
+ ]
+}

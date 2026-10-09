@@ -294,6 +294,49 @@ def translate(texts, src):
         return [None] * len(texts)
 
 
+PRICE_RE = re.compile(r"price|pricing|contract|spot|ASP|가격|고정거래|현물|价格|涨价|降价|报价", re.I)
+FCST_RE = re.compile(r"forecast|projected|expected|outlook|QoQ|YoY|전망|예상|预测|预计|预期", re.I)
+CORE_RE = re.compile(r"DRAM|NAND|HBM|D램|낸드|CXMT|YMTC|长鑫|长江存储|内存|闪存", re.I)
+GOOD_OUTLETS = re.compile(r"TrendForce|DigiTimes|디일렉|THE ELEC|Reuters|Bloomberg|Nikkei|매일경제|한국경제|전자신문|연합뉴스|조선비즈|集微|EE Times|TechInsights|Tom's Hardware|SemiAnalysis|财联社|第一财经", re.I)
+BAD_OUTLETS = re.compile(r"TradingKey|TradingView|Motley|Fool|Benzinga|Seeking Alpha|Yahoo|Investing\.com|Zacks|MarketBeat|InvestorPlace|BigGo|Blog|블로그|티스토리|Tistory|知乎|搜狐号", re.I)
+STOCKISH = re.compile(r"stock|shares|rally|buy|sell|target price|주가|목표가|매수|股价|涨停", re.I)
+
+
+def score_news(n):
+    t, o = n["title"], n.get("outlet", "")
+    sc = 0
+    if PRICE_RE.search(t): sc += 4
+    if FCST_RE.search(t): sc += 2
+    sc += min(2, len(set(m.lower() for m in CORE_RE.findall(t))))
+    if GOOD_OUTLETS.search(o): sc += 2
+    if o == "TrendForce": sc += 2
+    if BAD_OUTLETS.search(o): sc -= 4
+    if STOCKISH.search(t): sc -= 3
+    return sc
+
+
+def tokens(t):
+    return set(re.findall(r"[A-Za-z0-9]+|[가-힣]{2,}|[\u4e00-\u9fff]", t.lower()))
+
+
+def dedupe(items):
+    """비슷한 제목(같은 사건)은 점수 높은 것 하나만 남김"""
+    def sim(a, b):
+        best = 0
+        for ta in (a["title"], a.get("ko") or ""):
+            for tb in (b["title"], b.get("ko") or ""):
+                x, y = tokens(ta), tokens(tb)
+                if x and y:
+                    best = max(best, len(x & y) / len(x | y))
+        return best
+    kept = []
+    for n in sorted(items, key=lambda n: (n["score"], n["date"]), reverse=True):
+        if any(sim(n, k) > 0.45 for k in kept):
+            continue
+        kept.append(n)
+    return kept
+
+
 def collect_news(news):
     import feedparser
     items = {n["link"]: n for n in news.get("items", [])}
@@ -327,13 +370,151 @@ def collect_news(news):
                 added += 1
         except Exception as e:
             errors.append(f"{src}/{lang}: {e}")
-    # 최근 14일, 최대 120건 유지
-    cutoff = (NOW - timedelta(days=14)).strftime("%Y-%m-%d")
-    kept = sorted([n for n in items.values() if n["date"] >= cutoff], key=lambda n: n["date"], reverse=True)[:120]
+    # 점수 계산 → 최근 7일 → 중복 제거 → 언어별 상위 15건만 보관 (화면은 최근 3일 상위 10건)
+    cutoff = (NOW - timedelta(days=7)).strftime("%Y-%m-%d")
+    pool = [n for n in items.values() if n["date"] >= cutoff]
+    for n in pool:
+        n["score"] = score_news(n)
+    pool = dedupe(pool)
+    kept = []
+    for lang in ("ko", "en", "zh"):
+        kept += sorted([n for n in pool if n["lang"] == lang], key=lambda n: (n["score"], n["date"]), reverse=True)[:15]
+    kept.sort(key=lambda n: (n["date"], n["score"]), reverse=True)
     news["items"] = kept
     if not kept:
         raise RuntimeError("; ".join(errors) or "뉴스 없음")
     ok("뉴스", f"신규 {added}건" + (f" (일부 실패: {len(errors)})" if errors else ""))
+
+
+# ─────────────────────────────────────────────
+# 6. 기관 전망 (TrendForce 보도자료의 분기 가격 전망 % 추출)
+# ─────────────────────────────────────────────
+PRODUCTS = [("HBM", r"HBM"), ("NAND", r"NAND|enterprise SSD|eSSD"),
+            ("서버 DRAM", r"server DRAM"), ("모바일 DRAM", r"mobile DRAM|LPDDR"),
+            ("범용 DRAM", r"conventional DRAM|DRAM")]
+RANGE_RE = re.compile(r"(rise|rising|increase|grow|climb|up|gain|fall|falling|decline|drop|decrease|down)"
+                      r"[^.%]{0,60}?(\d+(?:\.\d+)?)\s*(?:%\s*)?(?:–|-|—|to|~)\s*(\d+(?:\.\d+)?)%\s*(QoQ|YoY)?", re.I)
+SINGLE_RE = re.compile(r"(rise|rising|increase|grow|climb|up|gain|fall|falling|decline|drop|decrease|down)"
+                       r"[^.%]{0,60}?(\d+(?:\.\d+)?)%\s*(QoQ|YoY)", re.I)
+QTR_RE = re.compile(r"\b([1-4])Q(\d{2})\b")
+
+
+def parse_forecasts(text):
+    out = []
+    ctx = ""  # 앞 문장에서 언급된 분기를 이어서 사용
+    for sent in re.split(r"(?<=[.!?])\s+", text):
+        q0 = QTR_RE.search(sent)
+        if q0:
+            ctx = f"20{q0.group(2)}년 {q0.group(1)}분기"
+        if "%" not in sent:
+            continue
+        prod = next((p for p, pat in PRODUCTS if re.search(pat, sent, re.I)), None)
+        if not prod:
+            continue
+        m = RANGE_RE.search(sent)
+        if m:
+            lo, hi, basis = float(m.group(2)), float(m.group(3)), (m.group(4) or "")
+        else:
+            m = SINGLE_RE.search(sent)
+            if not m:
+                continue
+            lo = hi = float(m.group(2)); basis = m.group(3)
+        if re.match(r"fall|decline|drop|decrease|down", m.group(1), re.I):
+            lo, hi = -hi, -lo
+        basis = "YoY" if basis.upper() == "YOY" else "QoQ"
+        y = re.search(r"\b(20\d{2})\b", sent)
+        period = ctx if basis == "QoQ" else (f"{y.group(1)}년" if y else "")
+        out.append({"product": prod, "low": lo, "high": hi, "basis": basis, "period": period})
+    return out
+
+
+def collect_forecast(fc):
+    r = requests.get("https://www.trendforce.com/presscenter/news", headers=UA, timeout=30)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "lxml")
+    links = {}
+    for a in soup.find_all("a", href=re.compile(r"/presscenter/news/\d{8}-\d+\.html")):
+        href = a["href"] if a["href"].startswith("http") else "https://www.trendforce.com" + a["href"]
+        title = norm(a.get_text(" "))
+        if title and len(title) > len(links.get(href, "")):
+            links[href] = title
+    known = {i["link"] for i in fc["items"]}
+    added = 0
+    for href, title in list(links.items())[:10]:
+        if href in known or not re.search(r"DRAM|NAND|HBM|memory|SSD", title, re.I):
+            continue
+        try:
+            page = requests.get(href, headers=UA, timeout=30)
+            page.raise_for_status()
+            body = norm(BeautifulSoup(page.text, "lxml").get_text(" "))[:20000]
+        except Exception as e:
+            print(f"[WARN] {href}: {e}")
+            continue
+        d = re.search(r"/(\d{4})(\d{2})(\d{2})-", href)
+        date = f"{d.group(1)}-{d.group(2)}-{d.group(3)}"
+        seen = set()
+        for f in parse_forecasts(body):
+            key = (f["product"], f["period"], f["basis"])
+            if key in seen:
+                continue
+            seen.add(key)
+            fc["items"].append({**f, "date": date, "title": title, "link": href})
+            added += 1
+    fc["items"].sort(key=lambda i: i["date"], reverse=True)
+    fc["items"] = fc["items"][:60]
+    ok("기관 전망", f"신규 {added}건")
+
+
+# ─────────────────────────────────────────────
+# 7. 가격 신호등 (공개 지표 방향 종합)
+# ─────────────────────────────────────────────
+def build_signal(spot, rev, fc):
+    stocks = load("stocks.json", {})
+    rows = []
+
+    def add(name, val, unit, up, down, note):
+        if val is None:
+            rows.append({"name": name, "value": None, "dir": 0, "note": note + " · 데이터 누적 중"})
+            return
+        d = 1 if val >= up else -1 if val <= down else 0
+        rows.append({"name": name, "value": round(val, 2), "unit": unit, "dir": d, "note": note})
+
+    # 1) DRAM 현물가 4주 추세 (DDR5 16Gb, DDR4 8Gb 평균)
+    ch = []
+    for k in ("DDR5 16Gb", "DDR4 8Gb"):
+        ser = spot["dramexchange"].get(k, {}).get("series", [])
+        cut = (NOW - timedelta(days=28)).strftime("%Y-%m-%d")
+        base = next((p for p in ser if p["date"] >= cut), None)
+        if base and ser and ser[-1]["date"] > base["date"] and base["date"] <= (NOW - timedelta(days=14)).strftime("%Y-%m-%d"):
+            ch.append((ser[-1]["avg"] / base["avg"] - 1) * 100)
+    add("DRAM 현물가 4주 변화", sum(ch) / len(ch) if ch else None, "%", 2, -2, "현물가는 고정가보다 먼저 움직입니다")
+
+    # 2) NAND 웨이퍼 현물가 최근 변화
+    w = spot["dramexchange"].get("512Gb TLC 웨이퍼", {}).get("series", [])
+    add("NAND 웨이퍼 최근 변화", w[-1]["chg"] if w else None, "%", 1, -1, "512Gb TLC 주간 변동")
+
+    # 3) 대만 업체 월매출 전월 대비 (평균)
+    moms = [c["series"][-1]["mom"] for c in rev.values() if c.get("series") and c["series"][-1].get("mom") is not None]
+    add("대만 업체 월매출 전월 대비", sum(moms) / len(moms) if moms else None, "%", 3, -3, "Nanya·Winbond·Phison·ADATA 평균")
+
+    # 4) 모듈 업체 매출 (재고 축적 신호)
+    ad = rev.get("3260", {}).get("series", [])
+    add("모듈 업체(ADATA) 전월 대비", ad[-1]["mom"] if ad else None, "%", 10, -10, "급증하면 가격 상승을 예상한 재고 축적 신호")
+
+    # 5) 메모리 주가 1개월 (5사 평균)
+    rets = [(v["series"][-1]["close"] / v["series"][-22]["close"] - 1) * 100 for v in stocks.values() if len(v.get("series", [])) > 22]
+    add("메모리 주가 1개월", sum(rets) / len(rets) if rets else None, "%", 5, -5, "시장 기대가 먼저 반영됩니다")
+
+    # 6) 최신 기관 전망 (범용 DRAM 우선)
+    latest = next((i for i in fc["items"] if i["product"] == "범용 DRAM"), None) or (fc["items"][0] if fc["items"] else None)
+    add("최신 기관 전망", (latest["low"] + latest["high"]) / 2 if latest else None, "%", 2, -2,
+        f"TrendForce {latest['product']} {latest['period']} {latest['basis']}" if latest else "TrendForce")
+
+    score = sum(r["dir"] for r in rows)
+    counted = sum(1 for r in rows if r["value"] is not None)
+    verdict = "상승" if score >= 2 else "하락" if score <= -2 else "보합"
+    save("signal.json", {"date": TODAY, "verdict": verdict, "score": score, "counted": counted, "rows": rows})
+    ok("신호등", f"{verdict} ({score:+d}, 지표 {counted}개)")
 
 
 # ─────────────────────────────────────────────
@@ -342,12 +523,14 @@ def main():
     spot = load("spot.json", {"dramexchange": {}, "cfm": {}})
     rev = load("revenue.json", {})
     news = load("news.json", {"items": []})
+    fc = load("forecast.json", {"items": []})
 
     for name, fn in [("DRAMeXchange", lambda: collect_dramexchange(spot)),
                      ("CFM", lambda: collect_cfm(spot)),
                      ("대만 월매출", lambda: collect_revenue(rev)),
                      ("주가", collect_stocks),
-                     ("뉴스", lambda: collect_news(news))]:
+                     ("뉴스", lambda: collect_news(news)),
+                     ("기관 전망", lambda: collect_forecast(fc))]:
         try:
             fn()
         except Exception as e:
@@ -356,6 +539,11 @@ def main():
     save("spot.json", spot)
     save("revenue.json", rev)
     save("news.json", news)
+    save("forecast.json", fc)
+    try:
+        build_signal(spot, rev, fc)
+    except Exception as e:
+        fail("신호등", e)
     save("status.json", status)
     print(json.dumps(status, ensure_ascii=False, indent=1))
 

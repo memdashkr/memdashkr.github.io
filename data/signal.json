@@ -1,0 +1,49 @@
+{
+ "date": "2026-10-09",
+ "verdict": "보합",
+ "score": 0,
+ "counted": 5,
+ "rows": [
+  {
+   "name": "DRAM 현물가 4주 변화",
+   "value": null,
+   "dir": 0,
+   "note": "현물가는 고정가보다 먼저 움직입니다 · 데이터 누적 중"
+  },
+  {
+   "name": "NAND 웨이퍼 최근 변화",
+   "value": -2.45,
+   "unit": "%",
+   "dir": -1,
+   "note": "512Gb TLC 주간 변동"
+  },
+  {
+   "name": "대만 업체 월매출 전월 대비",
+   "value": 2.74,
+   "unit": "%",
+   "dir": 0,
+   "note": "Nanya·Winbond·Phison·ADATA 평균"
+  },
+  {
+   "name": "모듈 업체(ADATA) 전월 대비",
+   "value": 2.97,
+   "unit": "%",
+   "dir": 0,
+   "note": "급증하면 가격 상승을 예상한 재고 축적 신호"
+  },
+  {
+   "name": "메모리 주가 1개월",
+   "value": -3.03,
+   "unit": "%",
+   "dir": 0,
+   "note": "시장 기대가 먼저 반영됩니다"
+  },
+  {
+   "name": "최신 기관 전망",
+   "value": 12.5,
+   "unit": "%",
+   "dir": 1,
+   "note": "TrendForce 범용 DRAM 2026년 4분기 QoQ"
+  }
+ ]
+}

@@ -73,6 +73,19 @@ tbody tr{cursor:pointer}
 .news .m{font:11px "IBM Plex Mono",monospace;color:var(--sub);margin-top:3px;display:flex;gap:8px;flex-wrap:wrap}
 .tag{background:var(--accent);color:#fff;border-radius:4px;padding:0 5px;font-size:11px}
 .lang{background:var(--chip);border-radius:4px;padding:0 5px}
+
+.fc{display:grid;grid-template-columns:1fr 1.3fr;gap:12px}
+.verdict{display:flex;align-items:center;gap:14px;margin-bottom:12px}
+.light{width:54px;height:54px;border-radius:50%;display:grid;place-items:center;font-weight:600;color:#fff;font-size:15px;flex:none}
+.light.up{background:var(--up)} .light.down{background:var(--down)} .light.flat{background:var(--flat)}
+.verdict .t{font-size:13px;color:var(--sub)}
+.sig td:first-child{white-space:normal}
+.sig .n{display:block;font-size:11px;color:var(--sub);font-family:"IBM Plex Sans KR",sans-serif}
+.fcard{padding:12px 0;border-bottom:1px solid var(--line)} .fcard:last-child{border:0}
+.fcard .p{font-size:12px;color:var(--sub)} .fcard .r{font:500 22px "IBM Plex Mono",monospace;margin:2px 0}
+.fcard a{font-size:12px;color:var(--sub)}
+.disc{font-size:11px;color:var(--sub);margin-top:10px}
+@media (max-width:760px){.fc{grid-template-columns:1fr}}
 footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-size:12px;color:var(--sub)}
 footer a{color:var(--sub)}
 @media (max-width:760px){
@@ -94,6 +107,15 @@ footer a{color:var(--sub)}
   <h2>오늘의 요약</h2>
   <div class="kpis" id="kpis"></div>
   <div id="headline"></div>
+</section>
+
+<section>
+  <h2>가격 전망 <span class="note">공개 전망 취합 + 지표 신호</span></h2>
+  <div class="fc">
+    <div class="panel"><div style="font-size:13px;font-weight:600;margin-bottom:4px">기관 전망 (고정거래가)</div><div id="fcList"></div></div>
+    <div class="panel"><div class="verdict" id="verdict"></div><div class="scroll"><table class="sig" id="sigTable"></table></div></div>
+  </div>
+  <p class="disc">기관 전망은 TrendForce 공개 보도자료의 수치이며, 신호등은 공개 지표의 방향을 단순 합산한 것입니다. 가격을 예측·보장하지 않습니다.</p>
 </section>
 
 <section>
@@ -124,7 +146,7 @@ footer a{color:var(--sub)}
 </section>
 
 <section>
-  <h2>뉴스 <span class="note">최근 14일 · 헤드라인과 원문 링크</span></h2>
+  <h2>뉴스 <span class="note">최근 3일 주요 뉴스 10건 · 원문 링크</span></h2>
   <div class="tabs" id="newsTabs"></div>
   <div class="panel"><ul class="news" id="news"></ul></div>
 </section>
@@ -241,6 +263,24 @@ function renderStocks(st){
     return {label:c.name, data:labels.map(d=>m[d]??null), borderColor:css(PAL[i]), backgroundColor:css(PAL[i]), spanGaps:true}; }), {labels, dec:1});
 }
 
+/* ── 전망 ── */
+function renderForecast(fc, sg){
+  const items = fc?.items || [];
+  const latest = []; const seen = new Set();
+  for (const i of items){ const k=i.product+i.basis; if(seen.has(k)) continue; seen.add(k); latest.push(i); }
+  const rng = i => { const f=v=>(v>0?'+':'')+v; return i.low===i.high ? f(i.low)+'%' : f(i.low)+'~'+f(i.high)+'%'; };
+  $('#fcList').innerHTML = latest.length ? latest.slice(0,4).map(i=>`<div class="fcard"><div class="p">${i.product} · ${i.period||''} ${i.basis==='QoQ'?'전분기 대비':'전년 대비'}</div>
+    <div class="r ${i.high>0?'up':i.low<0?'down':'flat'}">${rng(i)}</div><a href="${i.link}" target="_blank" rel="noopener">TrendForce ${i.date}</a></div>`).join('')
+    : '<div class="empty">아직 수집된 전망이 없습니다.</div>';
+  if(!sg){ $('#verdict').innerHTML='<div class="empty">첫 자동 수집 후 표시됩니다.</div>'; return; }
+  const cls = sg.verdict==='상승'?'up':sg.verdict==='하락'?'down':'flat';
+  $('#verdict').innerHTML = `<div class="light ${cls}">${sg.verdict}</div><div><div style="font-weight:600">지표 신호: ${sg.verdict}</div>
+    <div class="t">반영된 지표 ${sg.counted}개 · 합계 ${sg.score>0?'+':''}${sg.score} · ${sg.date}</div></div>`;
+  const arrow = d => d>0?'<span class="up">▲ 상승</span>':d<0?'<span class="down">▼ 하락</span>':'<span class="flat">– 중립</span>';
+  $('#sigTable').innerHTML = '<tbody>' + sg.rows.map(r=>`<tr style="cursor:default"><td>${r.name}<span class="n">${r.note}</span></td>
+    <td>${r.value==null?'–':(r.value>0?'+':'')+r.value+(r.unit||'')}</td><td>${r.value==null?'<span class="flat">대기</span>':arrow(r.dir)}</td></tr>`).join('') + '</tbody>';
+}
+
 /* ── 뉴스 ── */
 let newsData, newsLang = 'all';
 function renderNews(){
@@ -248,16 +288,18 @@ function renderNews(){
   const L = {all:'전체', ko:'한국', en:'영문', zh:'중국'};
   $('#newsTabs').innerHTML = Object.entries(L).map(([k,v])=>`<button class="tab ${k===newsLang?'on':''}" data-l="${k}">${v}</button>`).join('');
   document.querySelectorAll('#newsTabs .tab').forEach(b=>b.onclick=()=>{newsLang=b.dataset.l;renderNews();});
-  const list = items.filter(n=>newsLang==='all'||n.lang===newsLang).slice(0,40);
+  const dates = [...new Set(items.map(n=>n.date))].sort().reverse().slice(0,3);
+  const list = items.filter(n=>(newsLang==='all'||n.lang===newsLang) && dates.includes(n.date))
+    .sort((a,b)=>(b.score??0)-(a.score??0) || b.date.localeCompare(a.date)).slice(0,10);
   $('#news').innerHTML = list.length ? list.map(n=>`<li><a href="${n.link}" target="_blank" rel="noopener">${n.ko||n.title}</a>
     ${n.ko&&n.ko!==n.title?`<div class="orig">${n.title}</div>`:''}
     <div class="m">${n.tag?`<span class="tag">${n.tag}</span>`:''}<span class="lang">${L[n.lang]}</span><span>${n.outlet}</span><span>${n.date}</span></div></li>`).join('')
     : '<li class="empty">해당 뉴스가 없습니다.</li>';
 }
 
-Promise.all(['status.json','spot.json','revenue.json','stocks.json','news.json'].map(get)).then(([st,sp,rv,sk,nw])=>{
+Promise.all(['status.json','spot.json','revenue.json','stocks.json','news.json','forecast.json','signal.json'].map(get)).then(([st,sp,rv,sk,nw,fc,sg])=>{
   spotData=sp; newsData=nw;
-  renderStatus(st); renderKpis(sp,nw); renderSpot(); renderRev(rv); renderStocks(sk); renderNews();
+  renderStatus(st); renderKpis(sp,nw); renderForecast(fc,sg); renderSpot(); renderRev(rv); renderStocks(sk); renderNews();
 });
 </script>
 </body>
