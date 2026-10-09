@@ -89,33 +89,49 @@ def collect_dramexchange(spot):
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "lxml")
     found = 0
+    done = set()
+    dates = []
     for table in soup.find_all("table"):
-        # 표 바로 앞의 "Last Update" 날짜 찾기
-        date = TODAY
-        prev = table.find_previous(string=DATE_RE)
-        if prev:
-            m = DATE_RE.search(prev)
-            try:
-                date = datetime.strptime(f"{m.group(1)} {m.group(2)} {m.group(3)}", "%b %d %Y").strftime("%Y-%m-%d")
-            except ValueError:
-                pass
+        # 표를 감싼 가장 가까운 블록에서 "Last Update" 날짜 찾기 (태그가 나뉘어 있어도 인식)
+        date = None
+        node = table
+        for _ in range(5):
+            node = node.parent
+            if node is None:
+                break
+            m = DATE_RE.search(norm(node.get_text(" ")))
+            if m:
+                try:
+                    date = datetime.strptime(f"{m.group(1)} {m.group(2)} {m.group(3)}", "%b %d %Y").strftime("%Y-%m-%d")
+                except ValueError:
+                    pass
+                break
+        if not date:
+            continue  # 날짜를 모르는 표는 건너뜀 (잘못된 날짜로 저장 방지)
         for tr in table.find_all("tr"):
             cells = [norm(td.get_text(" ")) for td in tr.find_all(["td", "th"])]
             if len(cells) < 5:
                 continue
             key = next((k for k in DX_ITEMS if norm(k).lower() == cells[0].lower()), None)
-            if not key:
+            if not key or key in done:
                 continue
-            high, low, avg, chg = num(cells[1]), num(cells[2]), num(cells[3]), num(cells[4])
+            # 열 구성: 품목 | 고가 | 저가 | (세션 고가 | 세션 저가) | 평균 | 변동(%)
+            pct_idx = max((i for i, c in enumerate(cells) if "%" in c), default=None)
+            if pct_idx is None or pct_idx < 2:
+                continue
+            high, low = num(cells[1]), num(cells[2])
+            avg, chg = num(cells[pct_idx - 1]), num(cells[pct_idx])
             if avg is None:
                 continue
+            done.add(key)
+            dates.append(date)
             group, label = DX_ITEMS[key]
             s = spot["dramexchange"].setdefault(label, {"group": group, "series": []})
             upsert(s["series"], {"date": date, "high": high, "low": low, "avg": avg, "chg": chg})
             found += 1
     if found == 0:
         raise RuntimeError("표에서 품목을 찾지 못함 (페이지 구조 변경 가능성)")
-    ok("DRAMeXchange", f"{found}개 품목")
+    ok("DRAMeXchange", f"{found}개 품목 (기준일 {', '.join(sorted(set(dates)))})")
 
 
 # ─────────────────────────────────────────────
