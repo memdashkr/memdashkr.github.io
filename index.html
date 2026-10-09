@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>메모리 현황판</title>
+<meta name="description" content="DRAM·NAND 현물가, 대만 메모리 업체 월매출, 메모리 주가, 업계 뉴스를 매일 자동으로 모아 보여줍니다.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{
+  --bg:#f6f5f1; --panel:#ffffff; --ink:#16181d; --sub:#5d6470; --line:#e3e1da;
+  --accent:#1f5eff; --up:#d23c3c; --down:#2563eb; --flat:#8a8f98; --chip:#efeee8;
+  --s1:#1f5eff; --s2:#e07a1f; --s3:#16a37f; --s4:#a33fd1; --s5:#c2185b;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0f1115; --panel:#171a20; --ink:#e8eaee; --sub:#9aa1ad; --line:#272b33;
+    --accent:#6f95ff; --up:#ff6b6b; --down:#6ea8ff; --flat:#7c8290; --chip:#21252d;
+    --s1:#6f95ff; --s2:#f0a050; --s3:#3fd0a6; --s4:#c47aea; --s5:#f06292;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0f1115; --panel:#171a20; --ink:#e8eaee; --sub:#9aa1ad; --line:#272b33;
+  --accent:#6f95ff; --up:#ff6b6b; --down:#6ea8ff; --flat:#7c8290; --chip:#21252d;
+  --s1:#6f95ff; --s2:#f0a050; --s3:#3fd0a6; --s4:#c47aea; --s5:#f06292;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 "IBM Plex Sans KR",system-ui,sans-serif}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px 48px}
+header{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:28px 0 18px;border-bottom:2px solid var(--ink)}
+h1{margin:0;font-size:26px;letter-spacing:-.02em}
+h1 small{display:block;font-size:13px;font-weight:400;color:var(--sub);letter-spacing:0;margin-top:2px}
+.meta{font:12px "IBM Plex Mono",monospace;color:var(--sub);text-align:right}
+.dots{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end;margin-top:4px}
+.dot{display:inline-flex;align-items:center;gap:4px}
+.dot i{width:7px;height:7px;border-radius:50%;background:var(--s3);display:inline-block}
+.dot.bad i{background:var(--up)}
+section{margin-top:30px}
+h2{font-size:17px;margin:0 0 4px;display:flex;align-items:baseline;gap:8px}
+h2 .note{font-size:12px;font-weight:400;color:var(--sub)}
+.desc{color:var(--sub);font-size:13px;margin:0 0 12px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px}
+.kpi .l{font-size:12px;color:var(--sub)}
+.kpi .v{font:500 24px "IBM Plex Mono",monospace;margin-top:4px}
+.kpi .c{font:13px "IBM Plex Mono",monospace;margin-top:2px}
+.kpi .d{font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--sub);margin-top:6px}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
+.headline{margin-top:10px;padding:12px 14px;border-left:3px solid var(--accent);background:var(--panel);border-radius:0 8px 8px 0;font-size:14px}
+.headline b{color:var(--accent);font-weight:600;margin-right:6px}
+.tabs{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap}
+.tab{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:999px;padding:5px 12px;font:inherit;font-size:13px;cursor:pointer}
+.tab.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{font-size:12px;font-weight:500;color:var(--sub);text-align:right;padding:6px 8px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:8px;border-bottom:1px solid var(--line);text-align:right;font-family:"IBM Plex Mono",monospace;white-space:nowrap}
+th:first-child,td:first-child{text-align:left;font-family:"IBM Plex Sans KR",sans-serif}
+tr.sel td{background:var(--chip)}
+tbody tr{cursor:pointer}
+.scroll{overflow-x:auto}
+.chartbox{position:relative;height:260px;margin-top:14px}
+.empty{color:var(--sub);font-size:13px;padding:20px 0;text-align:center}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.news{list-style:none;margin:0;padding:0}
+.news li{padding:10px 0;border-bottom:1px solid var(--line)}
+.news li:last-child{border:0}
+.news a{color:var(--ink);text-decoration:none;font-weight:500}
+.news a:hover{color:var(--accent)}
+.news .orig{font-size:12px;color:var(--sub);margin-top:2px}
+.news .m{font:11px "IBM Plex Mono",monospace;color:var(--sub);margin-top:3px;display:flex;gap:8px;flex-wrap:wrap}
+.tag{background:var(--accent);color:#fff;border-radius:4px;padding:0 5px;font-size:11px}
+.lang{background:var(--chip);border-radius:4px;padding:0 5px}
+footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-size:12px;color:var(--sub)}
+footer a{color:var(--sub)}
+@media (max-width:760px){
+  .kpis{grid-template-columns:repeat(2,1fr)}
+  .grid2{grid-template-columns:1fr}
+  .kpi .v{font-size:20px}
+  .meta{text-align:left}.dots{justify-content:flex-start}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1 id="siteName">메모리 현황판<small>DRAM · NAND 공개 시장 정보 매일 자동 취합</small></h1>
+  <div class="meta"><div id="updated">불러오는 중…</div><div class="dots" id="dots"></div></div>
+</header>
+
+<section>
+  <h2>오늘의 요약</h2>
+  <div class="kpis" id="kpis"></div>
+  <div id="headline"></div>
+</section>
+
+<section>
+  <h2>현물가 <span class="note">USD · 행을 누르면 추이 차트</span></h2>
+  <p class="desc">DRAMeXchange 무료 공개 현물가(평균가)와 중국 CFM 채널가를 함께 표시합니다. DRAM 칩은 매일, 웨이퍼·모듈은 주간 업데이트입니다.</p>
+  <div class="tabs" id="spotTabs"></div>
+  <div class="panel">
+    <div class="scroll"><table id="spotTable"></table></div>
+    <div class="chartbox"><canvas id="spotChart"></canvas></div>
+  </div>
+</section>
+
+<section>
+  <h2>월간 업황 지표 <span class="note">대만 메모리 업체 월매출</span></h2>
+  <p class="desc">대만 상장사는 매월 10일까지 전월 매출을 공시합니다. 분기 실적보다 먼저 업황을 확인할 수 있습니다.</p>
+  <div class="panel">
+    <div class="scroll"><table id="revTable"></table></div>
+    <div class="chartbox"><canvas id="revChart"></canvas></div>
+  </div>
+</section>
+
+<section>
+  <h2>주가 <span class="note">1년 전 = 100 기준</span></h2>
+  <div class="panel">
+    <div class="scroll"><table id="stockTable"></table></div>
+    <div class="chartbox"><canvas id="stockChart"></canvas></div>
+  </div>
+</section>
+
+<section>
+  <h2>뉴스 <span class="note">최근 14일 · 헤드라인과 원문 링크</span></h2>
+  <div class="tabs" id="newsTabs"></div>
+  <div class="panel"><ul class="news" id="news"></ul></div>
+</section>
+
+<footer>
+  공개 자료를 자동으로 취합한 페이지이며 투자 권유가 아닙니다. 번역은 기계 번역입니다.<br>
+  출처: <a href="https://www.dramexchange.com/" target="_blank" rel="noopener">DRAMeXchange</a> ·
+  <a href="https://www.chinaflashmarket.com/" target="_blank" rel="noopener">CFM 中国闪存市场</a> ·
+  <a href="https://mops.twse.com.tw/" target="_blank" rel="noopener">TWSE/TPEx 공시</a> ·
+  Yahoo Finance · <a href="https://www.trendforce.com/presscenter/news" target="_blank" rel="noopener">TrendForce</a> · 디일렉 · Google News
+</footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const PAL = ['--s1','--s2','--s3','--s4','--s5'];
+const fmt = (v, d=2) => v==null ? '–' : Number(v).toLocaleString('ko-KR',{minimumFractionDigits:d,maximumFractionDigits:d});
+const pct = v => v==null ? '<span class="flat">–</span>' :
+  `<span class="${v>0?'up':v<0?'down':'flat'}">${v>0?'▲':v<0?'▼':''}${Math.abs(v).toFixed(2)}%</span>`;
+const get = f => fetch('data/'+f+'?v='+Date.now()).then(r=>r.ok?r.json():null).catch(()=>null);
+const last = s => s && s.length ? s[s.length-1] : null;
+const charts = {};
+
+function lineChart(id, datasets, opts={}){
+  charts[id]?.destroy();
+  const grid = css('--line'), sub = css('--sub');
+  charts[id] = new Chart(document.getElementById(id), {
+    type: opts.type || 'line',
+    data: { labels: opts.labels, datasets },
+    options: {
+      responsive:true, maintainAspectRatio:false, interaction:{mode:'index',intersect:false},
+      plugins:{ legend:{labels:{color:sub,boxWidth:10,font:{size:11}}},
+        tooltip:{callbacks:{label:c=>`${c.dataset.label}: ${fmt(c.parsed.y, opts.dec ?? 2)}${opts.unit||''}`}} },
+      scales:{
+        x:{ type: opts.labels ? 'category' : 'category', ticks:{color:sub,maxTicksLimit:8,font:{size:11}}, grid:{display:false} },
+        y:{ ticks:{color:sub,font:{size:11}}, grid:{color:grid} }
+      },
+      elements:{ point:{ radius: c => (c.dataset.data.length < 15 ? 3 : 0) }, line:{tension:.2,borderWidth:2} }
+    }
+  });
+}
+
+/* ── 상태 ── */
+function renderStatus(st){
+  if(!st) return;
+  $('#updated').textContent = '업데이트 ' + st.updated_at;
+  $('#dots').innerHTML = Object.entries(st.sources).map(([k,v]) =>
+    `<span class="dot ${v.ok?'':'bad'}" title="${v.msg||''}"><i></i>${k}</span>`).join('');
+}
+
+/* ── 요약 ── */
+function renderKpis(spot, news){
+  const pick = [['DDR5 16Gb','DDR5 16Gb 칩'],['DDR4 8Gb','DDR4 8Gb 칩'],['512Gb TLC 웨이퍼','NAND 512Gb TLC 웨이퍼'],['DDR5 RDIMM 32GB','DDR5 RDIMM 32GB']];
+  $('#kpis').innerHTML = pick.map(([k,l]) => {
+    const p = last(spot?.dramexchange?.[k]?.series);
+    return `<div class="kpi"><div class="l">${l}</div><div class="v">$${p?fmt(p.avg, p.avg>=100?1:2):'–'}</div>
+      <div class="c">${p?pct(p.chg):''}</div><div class="d">${p?p.date:'–'} 기준</div></div>`;
+  }).join('');
+  const f = news?.items?.find(n => n.tag==='전망');
+  if (f) $('#headline').innerHTML = `<div class="headline"><b>최근 전망</b><a href="${f.link}" target="_blank" rel="noopener" style="color:inherit">${f.ko||f.title}</a> <span style="color:var(--sub);font-size:12px">· ${f.outlet} ${f.date}</span></div>`;
+}
+
+/* ── 현물가 ── */
+let spotData, spotGroup = 'DRAM', spotSel = null;
+function renderSpot(){
+  const dx = spotData?.dramexchange || {}, cf = spotData?.cfm || {};
+  const groups = [...new Set([...Object.values(dx), ...Object.values(cf)].map(v=>v.group))];
+  $('#spotTabs').innerHTML = groups.map(g=>`<button class="tab ${g===spotGroup?'on':''}" data-g="${g}">${g}</button>`).join('');
+  document.querySelectorAll('#spotTabs .tab').forEach(b=>b.onclick=()=>{spotGroup=b.dataset.g;spotSel=null;renderSpot();});
+  const names = [...new Set([...Object.keys(dx), ...Object.keys(cf)])].filter(n => (dx[n]||cf[n]).group===spotGroup);
+  if(!spotSel || !names.includes(spotSel)) spotSel = names[0];
+  $('#spotTable').innerHTML = `<thead><tr><th>품목</th><th>DRAMeXchange 평균</th><th>변동</th><th>고가–저가</th><th>CFM(중국)</th><th>기준일</th></tr></thead><tbody>` +
+    names.map(n => {
+      const a = last(dx[n]?.series), c = last(cf[n]?.series);
+      return `<tr data-n="${n}" class="${n===spotSel?'sel':''}"><td>${n}</td><td>${a?'$'+fmt(a.avg,a.avg>=100?1:3):'–'}</td><td>${a?pct(a.chg):'–'}</td>
+        <td>${a?fmt(a.low,a.low>=100?0:2)+'–'+fmt(a.high,a.high>=100?0:2):'–'}</td><td>${c?'$'+fmt(c.avg):'–'}</td><td>${(a||c)?.date||'–'}</td></tr>`;
+    }).join('') + '</tbody>';
+  document.querySelectorAll('#spotTable tbody tr').forEach(tr=>tr.onclick=()=>{spotSel=tr.dataset.n;renderSpot();});
+  const sA = dx[spotSel]?.series || [], sC = cf[spotSel]?.series || [];
+  const labels = [...new Set([...sA,...sC].map(p=>p.date))].sort();
+  const map = s => labels.map(d => s.find(p=>p.date===d)?.avg ?? null);
+  const ds = [];
+  if (sA.length) ds.push({label:'DRAMeXchange 평균', data:map(sA), borderColor:css('--s1'), backgroundColor:css('--s1'), spanGaps:true});
+  if (sC.length) ds.push({label:'CFM 중국 채널', data:map(sC), borderColor:css('--s2'), backgroundColor:css('--s2'), spanGaps:true});
+  lineChart('spotChart', ds, {labels, unit:' USD'});
+}
+
+/* ── 월매출 ── */
+function renderRev(rev){
+  const cos = Object.entries(rev||{});
+  if(!cos.length){ $('#revTable').innerHTML='<tr><td class="empty">첫 자동 수집 후 표시됩니다.</td></tr>'; $('#revChart').parentElement.style.display='none'; return; }
+  $('#revTable').innerHTML = `<thead><tr><th>업체</th><th>사업</th><th>최근 월</th><th>매출(NT$억)</th><th>전년 대비</th><th>전월 대비</th></tr></thead><tbody>` +
+    cos.map(([code,c])=>{ const p=last(c.series);
+      return `<tr><td>${c.name} <span style="color:var(--sub);font-size:12px">${c.zh}</span></td><td style="font-family:inherit;color:var(--sub);font-size:13px">${c.desc}</td>
+      <td>${p.ym}</td><td>${fmt(p.rev/100000,1)}</td><td>${pct(p.yoy)}</td><td>${pct(p.mom)}</td></tr>`;}).join('') + '</tbody>';
+  const labels = [...new Set(cos.flatMap(([,c])=>c.series.map(p=>p.ym)))].sort();
+  lineChart('revChart', cos.map(([,c],i)=>({label:c.name+' 전년 대비', data:labels.map(m=>c.series.find(p=>p.ym===m)?.yoy ?? null),
+    borderColor:css(PAL[i]), backgroundColor:css(PAL[i]), spanGaps:true})), {labels, unit:'%', dec:1});
+}
+
+/* ── 주가 ── */
+function renderStocks(st){
+  const ts = Object.entries(st||{});
+  if(!ts.length){ $('#stockTable').innerHTML='<tr><td class="empty">첫 자동 수집 후 표시됩니다.</td></tr>'; $('#stockChart').parentElement.style.display='none'; return; }
+  const chg = (s, n) => s.length>n ? (s.at(-1).close/s.at(-1-n).close-1)*100 : null;
+  const ytd = s => { const y=s.at(-1).date.slice(0,4); const b=s.find(p=>p.date.startsWith(y)); return b?(s.at(-1).close/b.close-1)*100:null; };
+  $('#stockTable').innerHTML = `<thead><tr><th>종목</th><th>종가</th><th>1일</th><th>1개월</th><th>올해</th><th>기준일</th></tr></thead><tbody>` +
+    ts.map(([t,c])=>{ const s=c.series;
+      return `<tr><td>${c.name} <span style="color:var(--sub);font-size:12px">${t}</span></td><td>${fmt(s.at(-1).close, c.cur==='USD'?2:0)} ${c.cur}</td>
+      <td>${pct(chg(s,1))}</td><td>${pct(chg(s,21))}</td><td>${pct(ytd(s))}</td><td>${s.at(-1).date}</td></tr>`;}).join('') + '</tbody>';
+  const labels = [...new Set(ts.flatMap(([,c])=>c.series.map(p=>p.date)))].sort();
+  lineChart('stockChart', ts.map(([,c],i)=>{ const b=c.series[0].close; const m=Object.fromEntries(c.series.map(p=>[p.date,p.close/b*100]));
+    return {label:c.name, data:labels.map(d=>m[d]??null), borderColor:css(PAL[i]), backgroundColor:css(PAL[i]), spanGaps:true}; }), {labels, dec:1});
+}
+
+/* ── 뉴스 ── */
+let newsData, newsLang = 'all';
+function renderNews(){
+  const items = newsData?.items || [];
+  const L = {all:'전체', ko:'한국', en:'영문', zh:'중국'};
+  $('#newsTabs').innerHTML = Object.entries(L).map(([k,v])=>`<button class="tab ${k===newsLang?'on':''}" data-l="${k}">${v}</button>`).join('');
+  document.querySelectorAll('#newsTabs .tab').forEach(b=>b.onclick=()=>{newsLang=b.dataset.l;renderNews();});
+  const list = items.filter(n=>newsLang==='all'||n.lang===newsLang).slice(0,40);
+  $('#news').innerHTML = list.length ? list.map(n=>`<li><a href="${n.link}" target="_blank" rel="noopener">${n.ko||n.title}</a>
+    ${n.ko&&n.ko!==n.title?`<div class="orig">${n.title}</div>`:''}
+    <div class="m">${n.tag?`<span class="tag">${n.tag}</span>`:''}<span class="lang">${L[n.lang]}</span><span>${n.outlet}</span><span>${n.date}</span></div></li>`).join('')
+    : '<li class="empty">해당 뉴스가 없습니다.</li>';
+}
+
+Promise.all(['status.json','spot.json','revenue.json','stocks.json','news.json'].map(get)).then(([st,sp,rv,sk,nw])=>{
+  spotData=sp; newsData=nw;
+  renderStatus(st); renderKpis(sp,nw); renderSpot(); renderRev(rv); renderStocks(sk); renderNews();
+});
+</script>
+</body>
+</html>

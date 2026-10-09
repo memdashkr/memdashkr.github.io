@@ -1,0 +1,213 @@
+{
+ "dramexchange": {
+  "DDR5 16Gb": {
+   "group": "DRAM",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "high": 70,
+     "low": 44,
+     "avg": 58.667,
+     "chg": 0.46
+    }
+   ]
+  },
+  "DDR5 16Gb eTT": {
+   "group": "DRAM",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "high": 28.3,
+     "low": 26,
+     "avg": 26.6,
+     "chg": 0.76
+    }
+   ]
+  },
+  "DDR4 16Gb": {
+   "group": "DRAM",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "high": 117,
+     "low": 45.5,
+     "avg": 83.64,
+     "chg": 0.06
+    }
+   ]
+  },
+  "DDR4 8Gb": {
+   "group": "DRAM",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "high": 85.3,
+     "low": 25,
+     "avg": 46.4,
+     "chg": 0.09
+    }
+   ]
+  },
+  "DDR4 8Gb eTT": {
+   "group": "DRAM",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "high": 6.3,
+     "low": 5.8,
+     "avg": 5.95,
+     "chg": 0.0
+    }
+   ]
+  },
+  "512Gb TLC 웨이퍼": {
+   "group": "NAND",
+   "series": [
+    {
+     "date": "2026-09-28",
+     "high": 22,
+     "low": 17.2,
+     "avg": 19.396,
+     "chg": -2.45
+    }
+   ]
+  },
+  "256Gb TLC 웨이퍼": {
+   "group": "NAND",
+   "series": [
+    {
+     "date": "2026-09-28",
+     "high": 20,
+     "low": 16,
+     "avg": 17.885,
+     "chg": 0.0
+    }
+   ]
+  },
+  "128Gb TLC 웨이퍼": {
+   "group": "NAND",
+   "series": [
+    {
+     "date": "2026-09-28",
+     "high": 15,
+     "low": 8,
+     "avg": 9.967,
+     "chg": 0.0
+    }
+   ]
+  },
+  "MLC 64Gb": {
+   "group": "NAND",
+   "series": [
+    {
+     "date": "2026-09-28",
+     "high": 54,
+     "low": 37,
+     "avg": 41.587,
+     "chg": 2.05
+    }
+   ]
+  },
+  "DDR5 RDIMM 32GB": {
+   "group": "모듈",
+   "series": [
+    {
+     "date": "2026-09-28",
+     "high": 2400,
+     "low": 2100,
+     "avg": 2163.5,
+     "chg": 3.02
+    }
+   ]
+  },
+  "DDR5 UDIMM 16GB": {
+   "group": "모듈",
+   "series": [
+    {
+     "date": "2026-09-28",
+     "high": 265,
+     "low": 223,
+     "avg": 239,
+     "chg": 0.0
+    }
+   ]
+  },
+  "GDDR6 8Gb": {
+   "group": "그래픽",
+   "series": [
+    {
+     "date": "2026-09-28",
+     "high": 18,
+     "low": 9.8,
+     "avg": 12.288,
+     "chg": 3.75
+    }
+   ]
+  }
+ },
+ "cfm": {
+  "1Tb QLC 웨이퍼": {
+   "group": "NAND",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "avg": 26
+    }
+   ]
+  },
+  "1Tb TLC 웨이퍼": {
+   "group": "NAND",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "avg": 29
+    }
+   ]
+  },
+  "512Gb TLC 웨이퍼": {
+   "group": "NAND",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "avg": 22
+    }
+   ]
+  },
+  "256Gb TLC 웨이퍼": {
+   "group": "NAND",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "avg": 11
+    }
+   ]
+  },
+  "DDR5 16Gb": {
+   "group": "DRAM",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "avg": 45
+    }
+   ]
+  },
+  "DDR4 16Gb": {
+   "group": "DRAM",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "avg": 50
+    }
+   ]
+  },
+  "DDR4 8Gb": {
+   "group": "DRAM",
+   "series": [
+    {
+     "date": "2026-10-08",
+     "avg": 22
+    }
+   ]
+  }
+ }
+}
