@@ -317,7 +317,8 @@ def collect_news(news):
                 if src == "Google News" and " - " in title:
                     title, outlet = title.rsplit(" - ", 1)
                 new.append({"title": title, "link": link, "outlet": outlet, "lang": lang, "date": date,
-                            "tag": "전망" if re.search(r"forecast|projected|outlook|QoQ|전망|预测|预计", title, re.I) else ""})
+                            "tag": "전망" if (re.search(r"price|pricing|ASP|contract|가격|고정거래|价格|涨价|报价", title, re.I)
+                                             and re.search(r"forecast|projected|expected|QoQ|YoY|전망|예상|预测|预计|预期", title, re.I)) else ""})
             if lang != "ko" and new:
                 for n, ko in zip(new, translate([n["title"] for n in new], lang)):
                     n["ko"] = ko
