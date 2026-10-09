@@ -127,6 +127,10 @@ def collect_dramexchange(spot):
             dates.append(date)
             group, label = DX_ITEMS[key]
             s = spot["dramexchange"].setdefault(label, {"group": group, "series": []})
+            prev = [p for p in s["series"] if p["date"] < date]
+            if prev and prev[-1].get("avg") == avg and prev[-1].get("chg") == chg:
+                found += 1
+                continue  # 주간 품목처럼 아직 갱신 안 된 값은 새 날짜로 중복 저장하지 않음
             upsert(s["series"], {"date": date, "high": high, "low": low, "avg": avg, "chg": chg})
             found += 1
     if found == 0:
