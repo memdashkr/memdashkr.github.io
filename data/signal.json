@@ -1,5 +1,5 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "verdict": "보합",
  "score": -1,
  "counted": 5,
@@ -12,14 +12,14 @@
   },
   {
    "name": "NAND 웨이퍼 최근 변화",
-   "value": -2.45,
+   "value": -2.9,
    "unit": "%",
    "dir": -1,
    "note": "512Gb TLC 주간 변동"
   },
   {
    "name": "대만 업체 월매출 전월 대비",
-   "value": -1.16,
+   "value": -1.05,
    "unit": "%",
    "dir": 0,
    "note": "Nanya·Winbond·Phison·ADATA 평균"
