@@ -1,7 +1,7 @@
 {
  "date": "2026-10-11",
  "verdict": "보합",
- "score": 0,
+ "score": -1,
  "counted": 5,
  "rows": [
   {
@@ -19,16 +19,16 @@
   },
   {
    "name": "대만 업체 월매출 전월 대비",
-   "value": 2.74,
+   "value": -1.16,
    "unit": "%",
    "dir": 0,
    "note": "Nanya·Winbond·Phison·ADATA 평균"
   },
   {
    "name": "모듈 업체(ADATA) 전월 대비",
-   "value": 2.97,
+   "value": -16.88,
    "unit": "%",
-   "dir": 0,
+   "dir": -1,
    "note": "급증하면 가격 상승을 예상한 재고 축적 신호"
   },
   {
