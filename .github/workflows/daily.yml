@@ -2,7 +2,7 @@ name: daily-collect
 
 on:
   schedule:
-    - cron: "20 10 * * *"   # 매일 19:20 KST (DRAMeXchange 당일 현물가 반영 후)
+    - cron: "30 11 * * *"   # 매일 20:30 KST (DRAMeXchange 당일 현물가 19:10 KST 게시 후 여유)
     - cron: "50 22 * * *"   # 매일 07:50 KST (미국·일본 주가, 밤사이 뉴스)
   workflow_dispatch:         # Actions 탭에서 수동 실행 가능
 
