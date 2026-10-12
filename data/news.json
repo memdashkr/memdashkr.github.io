@@ -1,6 +1,109 @@
 {
  "items": [
   {
+   "title": "반도체대전 14일 개막...삼성·SK, HBM 전시",
+   "link": "https://www.thelec.kr/news/articleView.html?idxno=63572",
+   "outlet": "디일렉",
+   "lang": "ko",
+   "date": "2026-10-13",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "삼성전자, 예상 웃돈 D램 가격…LPDDR 공급 부족 심화",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45TENuUDJ2S0Q5cnZQOWNPMVRpTzJ6cERXZjVLR1gtUHZuQ2JJcWpjenZfVWlnbUtwQW9FX0tWYmxGN25DTVRUUzlLbFJQT0t3TXV6M29iMXkxcHF2UV9ZLUZQTkhPLTB3cHFwRW4yYU0?oc=5",
+   "outlet": "리드경제",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "전망",
+   "score": 7
+  },
+  {
+   "title": "[News] CXMT Accelerates 4F² DRAM Push, Eyes Year-End Server DDR5 RDIMM Launch",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTl6M2JfdlFiQktGUV94OFpqalFrSjBaa3ZqYVRWTk1lYUJGdXpQYUd5ejU3NnBfbVVPV3EwMW10WTM5TklSVVFoSGd5QVVqbmtSSVNYNzdvVFdTT3NmVnNYLTFEMTBrSHZlZGJGMU5GbFA1NFRoSXRGOWhKTmZvOF9ZblAxY0dJZzNwVkRaX0hpQ05oeUlpYjFVMEtJRElheVBoUTVaNkE0SGxsRW41cjUwRFlLTjVPWXJFaTRMSDk?oc=5",
+   "outlet": "TrendForce",
+   "lang": "en",
+   "date": "2026-10-12",
+   "tag": "",
+   "ko": null,
+   "score": 6
+  },
+  {
+   "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?oc=5",
+   "outlet": "财联社",
+   "lang": "zh",
+   "date": "2026-10-12",
+   "tag": "",
+   "ko": null,
+   "score": 6
+  },
+  {
+   "title": "SK Hynix is expected to resume its share price rally in the third quarter with earnings exceeding ma..",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WDNvek9WZnFwVHlodnQyMmZwNm1rX193b0txOVk0dnpISFdhV0c2bzJtbnB1cmVraHBHdl9PUmExcmZjdEF6QXVCMnQzOFU?oc=5",
+   "outlet": "매일경제",
+   "lang": "en",
+   "date": "2026-10-12",
+   "tag": "전망",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "手机又涨千元 内存条像黄金1天1个价 存储成本激增引发涨价潮",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKcDFBZmE1QU9rTW0wRk9RREMtMHk3VmptUHRLdUZfTnJtUEZfVGE4ZVRtcVJkemVQWnFMSTVQcjFITWtKV09MeTFoTUxmWVc1SWI5b2NLbDdfUGMwa09icV96SWVINVc2QTlvYXNhREg?oc=5",
+   "outlet": "中华网",
+   "lang": "zh",
+   "date": "2026-10-12",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "中CXMT, 차세대 D램기술 진전…\"삼전닉스에 서버용 메모리 도전\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CNjFYOXZ5eVF6RUdwQU1IV3dTX25ONGJfQkptRzF3UkF0X0ViSGJPNm5HRkF0bGxUNVFibVZ6WDlHWjZldjZ4NUlnVlBxazRRTUE2RHh1ZkNVaE1nNG04ONIBYEFVX3lxTE1CNjFYOXZ5eVF6RUdwQU1IV3dTX25ONGJfQkptRzF3UkF0X0ViSGJPNm5HRkF0bGxUNVFibVZ6WDlHWjZldjZ4NUlnVlBxazRRTUE2RHh1ZkNVaE1nNG04OA?oc=5",
+   "outlet": "연합뉴스",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "CXMT “차세대 구조 D램 제품 올해 내 상용화 목표”",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHanA4a0RZdTJkVnBjZ05lcmo4RnVLQk56LS1lTTZ6S013aGZvSERXY0cyMmc3ZTh1X0JsU2IyYTBhQ2RfNG9nWDVCaUpoUQ?oc=5",
+   "outlet": "전자신문",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "CXMT \"차세대 서버용 D램 연내 공개할 것\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ejlsVHJFVjJvX1hfZ3lGdDJSMDViUkEzTER3ampoQW9OLWVXbzQ3dC0zVzF3ajZkOVRMOFdyQlZ6dTcwbUx1c0N5TTMwOWtwTURuZk8yUXlyUQ?oc=5",
+   "outlet": "한국경제",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "차세대 D램 선전포고한 中 CXMT ··· “삼성 보다 2년 앞서겠다”",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aeXRDVzRMRW82THNYSXp1WXpSeWFxY3l2VG03U19lYTJMdFY4cEhFaHAtVVcxLXJPUjFRNmstZWJnOGhybk84VlZsUlZaakRuUTNEVUln?oc=5",
+   "outlet": "매일경제",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "“삼성보다 2년 빨리” 중국의 D램 도발…CXMT, 차세대메모리 연내출시",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Ybk5DUVR0NE9NSmFxVXcteHN4T01ZYkJhRzdrRUNUY3JJSWVJenA3bklubmhONDBBVUhNQzhYeUNGVEcyX0E?oc=5",
+   "outlet": "매일경제",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "",
+   "score": 4
+  },
+  {
    "title": "TV Prices Could Be Set To Rise As Soaring Memory Costs Hit Manufacturers",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUR1ZXBhMl81bXlCckNrSGtVZFp6bkxPY1lqYjBGOTZ5cTlkRUhxc0RxbWx6M3NEekpKQ3d5UXQzNURReGpDRk5NbVAySVZJcm51WUp2d3hWeXhHM1RXZ1AwSDhIWXI4OXBsNFhGTWZPYXduLWZUR0ZWYnJOVGEzUFpkaWJGSWpPUGZZRGhaSEliTXRlQUlBTkNHZWJ0d29rSFViNkZOTQ?oc=5",
    "outlet": "ChannelNews.com.au",
@@ -9,6 +112,43 @@
    "tag": "",
    "ko": null,
    "score": 4
+  },
+  {
+   "title": "“比三星早两年”中国挑战DRAM……长鑫存储年内推出下一代存储器",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZelBkNnlnM0pJRHpEdVBzMjdmN0xGeXNvOFZtZHlFT1V2MlhKX05kcVY4ZU45blNfbGVsaGxuQWY5bkNTNlpQZFFJWGpUamFTZ0xN?oc=5",
+   "outlet": "매일경제",
+   "lang": "zh",
+   "date": "2026-10-12",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "오드리 찰스 \"韓 반도체 생태계 매력적…HBM패키징·초미세공정에 투자\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84a1d2ZWVwQVBJSlQxU1dFd3dPNXgybEd2ck9taXEzRnNOTzlDNzZfN2JkRDRjU2Z4cm9pa1A5ZXZqT0dKaXBVbGZ0cEctTm1ZaXZtVTcxTG8wUQ?oc=5",
+   "outlet": "한국경제",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "창신메모리 “차세대 D램 기술 진전”…삼전닉스 긴장?",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PckhWRGUxR2MzblMyZ1dBaXFjZ0s4TmU5eWExaHFOblZvUzc1clZGb3FOc25uZHFiYm5aYWZEQmh3RnVKbzhMQmFjZnc1TDV5dnVUb0xn?oc=5",
+   "outlet": "매일경제",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "韓산업 '마지막 보루' D램마저 … 中 기술굴기에 따라잡힐 판",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1fUnFpN084c0JZcU5vVGdoMVRuQU9LVG83N19kUHNYczFKSUgwdWx1NDlIY2dyaW1URjk0dWRJMTRIbEIxQXc?oc=5",
+   "outlet": "매일경제",
+   "lang": "ko",
+   "date": "2026-10-12",
+   "tag": "",
+   "score": 3
   },
   {
    "title": "KB증권, 삼성전자 내년 HBM 가격 100% 상승 전망",
@@ -48,51 +188,6 @@
    "tag": "",
    "ko": null,
    "score": 4
-  },
-  {
-   "title": "휴머노이드 로봇용 D램 수요, 2030년 20배 증가 전망",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzSzBqbGpiYkw3Z0kxT1cxd0lkeDRnbXZUdEhybU1zTHJ0U19Fc0xZdWdpUkNMeTlTcmdLenZ3TEtoWks0NGVBakllMUw2RmlqUF9Ic0J3d3ppY2tYMHRQeVNjSTdUU3R5OXpCbDdxUER3c3pu0gF0QVVfeXFMUGRJT05hVWIwQW41VFNYVGJxZlkyOGRXMnVVVkRIOEN0X2xKM3hXSEEwTVI1Y0tDUm1fS19HZnFrN2FOc0lmdkxuLXdMRWhGN1Q1TjlCbEdlVzFPWk5DOFYxRzZqalRHRGRIdFMtb2Rib3NMMUI?oc=5",
-   "outlet": "MBC 뉴스",
-   "lang": "ko",
-   "date": "2026-10-11",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "“삼전닉스 또 돈 벌 곳 생겼다”…로봇 D램 수요 4년 뒤 20배 폭증 전망",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0o2ejJVSXNvcXU0WEVuZ0VIN3dUaDRoRzREYWVuUFRDWjkzamd5NGl5SWtyVWdmYWpzeF9sal9EemNWQURVUFcxRDc1NmMwMzFZcy16ekRxQU9XVmNON3drMWxwTlVPR3hDZ1dHYmswUlhDbkNnekpXMFhhQ1FHRQ?oc=5",
-   "outlet": "이데일리",
-   "lang": "ko",
-   "date": "2026-10-11",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "로봇용 D램 2030년까지 20배 성장 전망..로봇, 메모리 성장동력 되나",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PVllYZV9zVTdQS1NOR19lREt3OGZlWVRmSl9DUXotc0s2TF8zSjZnUU1pTk5ZYmNEWVYyemM3M2g1eWlwTGE0VU1jVFZUYUR0SFpIdVJ5WEkydw?oc=5",
-   "outlet": "파이낸셜뉴스",
-   "lang": "ko",
-   "date": "2026-10-11",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "로봇용 D램 수요, 2030년 20배로…삼성·SK 새 먹거리 부상",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52Z0MyRHpxNnU3d3FTeVVLRExFZGU4LVo1S0NPa2pXdW9QcEs2ZlhPNnV2aFJkT0NHMXZMTjA1cE9BSlRkRk4tWjluUzhHOG1qVVE0aHMyR2NTRWfSAWBBVV95cUxPU0VJNEVnb2tXY3lSdWRrVG82VGRYaUtWS3J1WE1IWFhNT1M3aGlhcEJzRHdydi1xdG9fRGFiU0tzeC1vN2NQYWNSNlpMSHhaVkI4RTI1bU1ZeVR3V0Y5T08?oc=5",
-   "outlet": "연합뉴스",
-   "lang": "ko",
-   "date": "2026-10-11",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "연간 영업익 300조 넘보는 삼성전자…D램·낸드 호황에 HBM4 가세",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pMXFkZ0Z0WEVzNGZFLVpwbVdHQUZHMVZrS0U1dXdrZzZPMVUxRlZSMkU3ZU9QYjQwMjFrY19fOVZTT1NkSzU4RkRqZ0lCMkVQRWZHS0FSTWZNbVgtM3Uyeks3aXdIbnBNSnRRcC1R?oc=5",
-   "outlet": "아시아투데이",
-   "lang": "ko",
-   "date": "2026-10-11",
-   "tag": "",
-   "score": 2
   },
   {
    "title": "SK Hynix Buyback Rolls On as IBK and Bernstein Diverge on HBM Pricing",
@@ -253,63 +348,6 @@
    "score": 4
   },
   {
-   "title": "存储巨头三星电子Q3利润暴增近800%！四季度存储价格有望延续强势丨盘中雷达- 21世纪经济报道",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUmlpNmNXcExIenkyemdSQ0p4S0pVaEFNTDBtY1ktUjZjRWFDazd2S0hYRHFqN0ZhZGZ4NmgtelVjOHB0Rjdzam12a09PZDhpNjc1a2lVVEdzMG9xZTBBeEY5YUREZmdISmhDeHpnZzVqM0MtcVU1SGIwZnBkeE9CMllqMVBvRHU3ajA4dDkzVmRlVHN1?oc=5",
-   "outlet": "21财经",
-   "lang": "zh",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "存储芯片巨头，利润暴增近800%|三星电子|营业利润|价格|销售额|增幅",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaC0xZFFDQVljMDdjcmZtLTdWSzJmU1pvT1NTcVRmV2pUaHJHVmswMUgtcEZpVkt2Nk9YUS13dDJNRThYTU1MYWNJS0ZCaE5UMmRqLUVJWVVTeEdFVjNIQVZsQUt1bkN0V05IRWVHVklXTWZWMmtwTDUwbTVEbG5CbXZKWmVEYzdOWTJBLUp4TTR4azAycUM4cHpRWDBNNEpycmprR2Z3SQ?oc=5",
-   "outlet": "finance.sina.com.cn",
-   "lang": "zh",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "“十一”手机消费“冰与火”：存储涨价下的一场系统性大考- 21世纪经济报道",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ieUtMVXhLeGpaN002RVpiR0daODNXTDhNVzZaUmhuQ1lUSXFEOWdBakNVWjdicXFwYkJPaTg4dnlwbFlQNTgzaXVDZW5MMWQ0VlpNTmlzeVdXWlRwVlhUZ2h5Ni1mTGl3RGp2ZUU1a2dHS25lRnFN?oc=5",
-   "outlet": "ZAKER新闻",
-   "lang": "zh",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "삼성전자, HBM에 '블랙박스' 심는다",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KR2puTm9jYUd3MjcteU85WnFmY21OMXl3SzQ2NkxiMHRrZkJXNDhuMVFGZG0wUzFwS0todk8wSVZXajNVWXlEXzRvcTVNOVpWVHQ3dTJ3?oc=5",
-   "outlet": "매일경제",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "엔비디아, '루빈' HBM4 12단 유지 전망...\"HBM 수요 둔화 우려 기우\"",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMVNhNDdEVWFua3A4NWo2SUpqX1V5RkVzSW5HZDdmMWRCTVU4cWw0WjE3Vkxaem10OGVveTdzLWVocE51WjZzZVJ3aGV5Q0NEU1pkQ0tfQ25JMU93dmdJMTN1dUF5SWs2WFUwVg?oc=5",
-   "outlet": "메디컬투데이",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "\"지금도 저평가\"...마이크론(MU), HBM 독점 공급난 타고 3배 '점프' 전망",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvUzVDZHhOUTdlQ1g4VUpndHI2RTlqeThkOTZlNUZnaE1QSFh0a0ZBYlphTDN6YzI4WjF0UlQycHBmWTdPVmdleHBB?oc=5",
-   "outlet": "코인리더스",
-   "lang": "ko",
-   "date": "2026-10-09",
-   "tag": "",
-   "score": 3
-  },
-  {
    "title": "Best SSDs 2026: From blazing-fast M.2 NVMe down to budget SATA",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FQXZMbUN1bW0wbFQtZ2ZiSEVtYXNwcGtxdWpTcFRoVV9PM2tXVjlkbnZYRkhVQU9jRjM1T0R5Q19kUWc5ODJhSkVBNHVRTEZnMU5VU2c4UG5kdE1qYXNkUFdERjB6Z2s?oc=5",
    "outlet": "Tom's Hardware",
@@ -323,16 +361,6 @@
    "title": "Samsung’s $80.2 Billion Q3 Profit Forecast Signals a New AI Memory Chip Boom - Expert View by Spherical Insights",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHRuTHZ2SDB6WTFWZ1VJcW5rT29NQzdpR1l4ZFlEczBKdUtBNG4tTWRLR0oySHBNVzM2NmtJZUZqb2ZVX253Qkl0UHUzSzVXMU5WVjNLa281VzVaZmFoNktTc2sxcmxTT09lNUt4a0pmckY0b0NZdEtfNXVkUFpON3NvN0E4Z0ZBR09JVmY2eDZUenllUXQydjJiMVlTSXM5YlhqUmV0SHdoVUlKODBiclFsa3J4dw?oc=5",
    "outlet": "Spherical Insights",
-   "lang": "en",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null,
-   "score": 2
-  },
-  {
-   "title": "The Best PS5 SSDs in 2026: Speedy NVMe storage for your console",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQcGhMUmxocjFOQ281SVFUY21QSW5NUmJSdFBfTWNOVnR5Y2kxT1o2d0h6U3FmV3ExSHBkTURjbmFtYTk1NHU3ZkhSbl9aWkgwa05aLUdKUUdnb0JfRDJCREl3bw?oc=5",
-   "outlet": "Tom's Hardware",
    "lang": "en",
    "date": "2026-10-09",
    "tag": "",
@@ -396,34 +424,6 @@
    "date": "2026-10-08",
    "tag": "전망",
    "score": 4
-  },
-  {
-   "title": "예상 웃돈 삼성전자 3Q 실적…증권가 \"막연한 우려, D램 사이클 연장\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYUU2eS1EWk1Nb1pEc1dEbGs1cW5EbmdyVUdHNDNXcUgxX181SlNFWGZkdVlqYTNiX01pYThLVFlZdzIyc3NlSkhPTnNhSmZEOU9Ndnc5X1Q5TmRrb3gyaVYzRExRcFdCLXhWcWxMVzI?oc=5",
-   "outlet": "연합인포맥스",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "모바일·가전 적자에도 분기 영업익 100조 만든 삼성전자···'HBM 1등' 전망도",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZUtZdFRGVUNfa2xfdk93VndZc2J0TTZpMVVYQ2k1RFF6ZW9BeC1vUGRWcmQ0M0FXUUdOc00xNl9VaWUwdVF4NEpXVmtPZmUxbmxyYzgzOTdzWDZadFptdUg2YzJVM0lsb1NzbEd1Zm5xV0xiZVHSAXZBVV95cUxNZmVLWXRURlVDX2tsX3ZPd1Z3WXNidE02aTFVWENpNURRemVvQXgtb1BkVnJkNDNBV1FHTnNNMTZfVWllMHVReDRKV1ZrT2ZlMW5scmM4Mzk3c1g2WnRabXVINmMyVTNJbG9Tc2xHdWZucVdMYmVR?oc=5",
-   "outlet": "시사저널e",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "Nanya Technology stock gets a DRAM price increase of up to 20 percent",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmpZRzYzbU9oeWkwQkx5RmM4VXYwSVFBNUE3bm4tN3gtVWNGLTZwTVhIUFFzNl9zRUQ3NWMtR0FDRVgxTGhrSWZzMV82NUZUZF80Qzd6UUY3cXJ5MENMU0xPNWJxRlpSdEhHZTd3R3o5andkdUFValgxWkt1NGpYNm5WeVA1YWtSd2sxTHIxZFF0MmhRY3JpMDhUSVlpbE5JMjRwaTNJSFNXMDViYVctTnhSN3R6SHgtcUY2blpQZ0t5NU9DMmxLV19DV04?oc=5",
-   "outlet": "AD HOC NEWS",
-   "lang": "en",
-   "date": "2026-10-08",
-   "tag": "",
-   "ko": null,
-   "score": 2
   },
   {
    "title": "Samsung's HBM prices tipped to more than double in 2027",
