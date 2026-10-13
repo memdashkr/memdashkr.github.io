@@ -1,13 +1,23 @@
 {
  "items": [
   {
-   "title": "SEMI \"2030년까지 D램 생산능력 41% 증가\"",
-   "link": "https://www.thelec.kr/news/articleView.html?idxno=63632",
-   "outlet": "디일렉",
+   "title": "D램 가격 둔화에 중국 추격까지…K-반도체 다가오는 경고음",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLWFRMmwwbHh0WEtxS2NnS2xJSFVibkdOVVJjOWtnRWVwVEhTaHVqOWxTY3FlZnB2aGlHU3RycXZGYVNwMXVXTE9MS0tBQzBBZEpZS0R1ZGh6cW9fdkdsNdIBeEFVX3lxTFA2amxzamxvOU5wczlGWTJPMG9XQjZvaUpiNHV3MDdfbTA4WEJkZ19YNF8zdVV5dnJtT18xTlNCczhjZFJGWkVQYnpLNDBNNFE2bVFmeUt1SEhrRFpVU0x6LWJfTE1sOWdhMm9OVm1OSkhENk4yNFYtOA?oc=5",
+   "outlet": "뉴시스",
    "lang": "ko",
    "date": "2026-10-14",
    "tag": "",
-   "score": 3
+   "score": 5
+  },
+  {
+   "title": "RAMageddon — Smartphone Prices Surge 20% Amid Global Memory Shortage",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2xWSUhRRU04cWpVWWw1VkF5T1gwS0o1WURUTVZjZzlUQklZdW94SkFWelR0anJkdmdYaHN2SUtkbHpHTHF4dWdmRE51a1A3RE11QXF3bjBiOVBTVDVVQXgyTDVqRGI4bTRRbGVVTVRudl81ZnRpVFBSc3lWeENrWkVudw?oc=5",
+   "outlet": "The Korea Daily",
+   "lang": "en",
+   "date": "2026-10-14",
+   "tag": "",
+   "ko": null,
+   "score": 4
   },
   {
    "title": "Hana Securities expected SK Hynix on the 13th that higher DRAM prices and shipments will offset the",
@@ -23,6 +33,16 @@
    "title": "深圳华强：今年下半年存储芯片价格涨幅预计会收敛",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjaFNpeUx0VjctcDFHNlU1TjRHNHpnWkN4YVdSUlpoSWE4ZFBWaXl0WHAtM0xTZDdoUm9iUXliM0RrdFZ6S2ZCanFnSnE?oc=5",
    "outlet": "凤凰网科技",
+   "lang": "zh",
+   "date": "2026-10-13",
+   "tag": "전망",
+   "ko": null,
+   "score": 6
+  },
+  {
+   "title": "君正股份：存储市场Q4价格继续有所上涨 预计27年供需仍会比较紧张",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00N0NDU1hHUU1waVlNN3YyS0NLdUFRRTRNcWNVcS1Jb1prMFN3c3JiVnlndDNOdjMxR2pvMzItalc4YmFHQ0o2d0JvR2tjQWJsM2hvRDA5NG1DbDl0Vm0yZERTUQ?oc=5",
+   "outlet": "东方财富",
    "lang": "zh",
    "date": "2026-10-13",
    "tag": "전망",
@@ -231,16 +251,6 @@
    "score": 4
   },
   {
-   "title": "TV Prices Could Be Set To Rise As Soaring Memory Costs Hit Manufacturers",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUR1ZXBhMl81bXlCckNrSGtVZFp6bkxPY1lqYjBGOTZ5cTlkRUhxc0RxbWx6M3NEekpKQ3d5UXQzNURReGpDRk5NbVAySVZJcm51WUp2d3hWeXhHM1RXZ1AwSDhIWXI4OXBsNFhGTWZPYXduLWZUR0ZWYnJOVGEzUFpkaWJGSWpPUGZZRGhaSEliTXRlQUlBTkNHZWJ0d29rSFViNkZOTQ?oc=5",
-   "outlet": "ChannelNews.com.au",
-   "lang": "en",
-   "date": "2026-10-12",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
    "title": "“比三星早两年”中国挑战DRAM……长鑫存储年内推出下一代存储器",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZelBkNnlnM0pJRHpEdVBzMjdmN0xGeXNvOFZtZHlFT1V2MlhKX05kcVY4ZU45blNfbGVsaGxuQWY5bkNTNlpQZFFJWGpUamFTZ0xN?oc=5",
    "outlet": "매일경제",
@@ -318,16 +328,6 @@
    "tag": "",
    "ko": null,
    "score": 5
-  },
-  {
-   "title": "大存储手机涨价千元，16GB+512GB还有哪些“价格雪崩”捡漏机？2026购机指南+FAQ",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSnJfSExWYldwTDlSTTFfTFB2bHFTN0pEZnh5Q1Y1ZW1vZWs1VEpjUGo4ZG5ZcGQwTTVQM3cwbXRSYkZpTkNzaVNITUFlajlTdGFoNldQSGRLaElKRFY4?oc=5",
-   "outlet": "手机新浪网",
-   "lang": "zh",
-   "date": "2026-10-10",
-   "tag": "",
-   "ko": null,
-   "score": 4
   },
   {
    "title": "D램도 HBM도 가격 뛴다… 삼성, 年 영업이익 세계 1위 꿰차나",
