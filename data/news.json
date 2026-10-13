@@ -1,6 +1,35 @@
 {
  "items": [
   {
+   "title": "SEMI \"2030년까지 D램 생산능력 41% 증가\"",
+   "link": "https://www.thelec.kr/news/articleView.html?idxno=63632",
+   "outlet": "디일렉",
+   "lang": "ko",
+   "date": "2026-10-14",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "Hana Securities expected SK Hynix on the 13th that higher DRAM prices and shipments will offset the",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUFcyemtBTXFJZ3VwNkt1N1AzTXZhOWlpRV9oY2NTWVZBdlZFRU4zTmhzSTRWUnRFUnk3Ti04aHlXa0VqRkI3eE5fcW9lQTA?oc=5",
+   "outlet": "매일경제",
+   "lang": "en",
+   "date": "2026-10-13",
+   "tag": "전망",
+   "ko": null,
+   "score": 9
+  },
+  {
+   "title": "深圳华强：今年下半年存储芯片价格涨幅预计会收敛",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjaFNpeUx0VjctcDFHNlU1TjRHNHpnWkN4YVdSUlpoSWE4ZFBWaXl0WHAtM0xTZDdoUm9iUXliM0RrdFZ6S2ZCanFnSnE?oc=5",
+   "outlet": "凤凰网科技",
+   "lang": "zh",
+   "date": "2026-10-13",
+   "tag": "전망",
+   "ko": null,
+   "score": 6
+  },
+  {
    "title": "D램ㆍSSD값 급등에 노트북 가격 압박⋯PC 출하 21% 줄었다 [AI 호황의 역설]",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtREtBSVlBLTZPd2NETDM0YmplUFh3Rkw3Ykc4aVZZRzhNX0hGQ0dLNlF2TzhqOW5jY0dqbFYxUzZxSFBhcUFDVV8xMmJTOTAxRUpwd3lIOThRMzBVSWxLeEkxSG40cVlQcjdyODFn?oc=5",
    "outlet": "이투데이",
@@ -8,6 +37,54 @@
    "date": "2026-10-13",
    "tag": "",
    "score": 5
+  },
+  {
+   "title": "Tasting A Midwinter Night’s Dram Act 14, Now With Sherry Casks And A Lower Price Point",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1BTal9yZGJZZlRFSWlieGZHTnhnRzk3OFFCMGpJVm43czNCX1BSNnc3X2VqcWRueWkta0pNX0tXWU9kN041VHRVS0F5cXdTS09EQU1oaTZSZTZxTGp6R0JUM0QwcU80VUdIbFBwRGNoVGgzc0I0dHcyUG45bUZJVlVGSTVvd2otM0VRSjM5TFFmcDRReHM4YW5STFNac2RNVzR1TjA1aExNMTFsT1c2VGdWcnFFdHNEeklzRzBRRVQ3TTNfMWFjZHhLMFd6c29E?oc=5",
+   "outlet": "Forbes",
+   "lang": "en",
+   "date": "2026-10-13",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "Nanya Says DRAM Pricing Is Staying Firm",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SaDZvcDRtVHlhZHV4S3hXOERzd3h4bld2cHFaTlpFS29qZzJPLXBHaEVPX1dEbXljb3ZsOThmbWFySV90YnU0MF9yTTB4ek9pamQ3dHFRS1d1RWJoaEY0SHI0RXI3VElGNFZUbFFnWmpHaTZod09R?oc=5",
+   "outlet": "Finimize",
+   "lang": "en",
+   "date": "2026-10-13",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "Taiwan's Nanya expects DRAM prices to climb further in Q4",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamNXLTJidTRxVGlsbUlxNl84d1pyejh2bjlUR210TGFUcEdfQU8wb00wMFJfblVYSU1MZlNacm5VblpKYkV0eXR2YW9KU3ppWTRJYWVkb0cyc3VNenBUN2xiQzdld3E3cVJHQmJnSTA5UF95bHpYQVZUWm1VcGZKRGJsMFdSLVVVZ1ZGZy1rX1JvSU5DSzhZZw?oc=5",
+   "outlet": "IntelliNews",
+   "lang": "en",
+   "date": "2026-10-13",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "中 CXMT, 차세대 D램 연말 출시…고집적 메모리 경쟁 확대 전망",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tMTJuOXlpYWhRZFNIWS1BU0MyQ3VaeDc3NmU0T1hXeXVnd0tyX0twejFxMFVTYzhxbDdBRkNuLWhWb0pwXzlQaW9ySEZoLVVuNW9HYVJxaWJ5dmxkZFEtUmFUOVI?oc=5",
+   "outlet": "매일일보",
+   "lang": "ko",
+   "date": "2026-10-13",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "中 CXMT ‘차세대 D램’ 쇼크…삼성전자·SK하이닉스 급락",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTE9DUENiZlFDSTdnRWc4M1U3MnhlS1RYVGR1UUxqUThsOU11dldxWWREcHlmUjBlb3hiVzM2Z0JLZk1EYl8wZk1SUUJFc0JjNThuUTlR?oc=5",
+   "outlet": "매일경제",
+   "lang": "ko",
+   "date": "2026-10-13",
+   "tag": "",
+   "score": 4
   },
   {
    "title": "Micron (NASDAQ: MU) stock price forecast: MU falls as China raises DRAM competition",
@@ -30,31 +107,24 @@
    "score": 4
   },
   {
-   "title": "반도체대전 14일 개막...삼성·SK, HBM 전시",
-   "link": "https://www.thelec.kr/news/articleView.html?idxno=63572",
-   "outlet": "디일렉",
-   "lang": "ko",
+   "title": "Smartphone Market Shrinks Amid Memory Price Surge",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUl9nR0pjYnBqNXBNQUltTzVTcWR3cXhQRkxSSXZYU25sM3ROVW9KUzRwTUlKa0g1VDdxN3VBMGdOeVlkQS0zSFhrRFZBTlRRUUVvYzlSQXhFVzVYRW1jTEVla2p2R3prN3pGWjJuVGFmTURwaDBLbkRvcmxNcGxoMWd1Qkpsdzk0?oc=5",
+   "outlet": "조선일보",
+   "lang": "en",
    "date": "2026-10-13",
    "tag": "",
-   "score": 3
+   "ko": null,
+   "score": 4
   },
   {
-   "title": "中 \"D램 기술 진전\" 주장에 반도체주 약세…국제유가도 급등 [뉴욕증시 브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RUluNmthcE5OV3VQV0U1ZVZ5MEdPaVZjZ3hDS2daRHFVRF9CVTJkOVc5aHNMZ0hrNktnX19OdzdySWVFNFFsUVA0MVBUbGJaaVJ5dmk3R1RlZw?oc=5",
-   "outlet": "한국경제",
-   "lang": "ko",
+   "title": "存储价格持续狂飚！独自贡献全球半导体超80%营收成长",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZMmdNS295WUNEMEtic3docjNrN0VpT2M1MkxLWmVCbnNDVFoxdlp0aHpQQjJLUUt3MFB6M1UyMERwMDRud21VSTE1RmQtMTNieHhWbW1qcnY?oc=5",
+   "outlet": "驱动之家",
+   "lang": "zh",
    "date": "2026-10-13",
    "tag": "",
-   "score": 3
-  },
-  {
-   "title": "[동향과 전망] 중국 CXMT '4F 메모리 셀 구조'가 소환한 '반도체 치킨게임'",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zYW1LdzNEZTFNU0E1RmcxN1liLVpIeGhuWFNuQTBFa1ViVkczTi1lRUk0cXpjVExSQTFIZV9pYmJQOFh4TUxab0FDckx5bzdBVW5ueXM4anFQMEhicEZlaVhTVlBPeC1pWmI3dg?oc=5",
-   "outlet": "https://www.climatepol.com/",
-   "lang": "ko",
-   "date": "2026-10-13",
-   "tag": "",
-   "score": 3
+   "ko": null,
+   "score": 4
   },
   {
    "title": "[News] Nanya’s 3Q DRAM ASPs Surge Over 60% QoQ as Gross Margin Hits 85.7%; Further Gains Seen in 4Q",
@@ -102,26 +172,6 @@
    "lang": "en",
    "date": "2026-10-12",
    "tag": "전망",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "Nanya Technology expects DRAM prices, margins to rise in Q4",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mYXpycGdiSFhuN0J4T0FJTnRSd3gwX1JSd3QydkdwX255R0x5X2x3MVJSM0gxWlVJa0lfMWJBejdYNGRadmdsSW50ZDg3TDg4d2ZJeXVlcw?oc=5",
-   "outlet": "Focus Taiwan",
-   "lang": "en",
-   "date": "2026-10-12",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "Taiwan’s Nanya Technology sees DRAM prices rising in Q4",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uTVY5LThVOGRQMUZWQ210RmxWUE9DT0pUbVBHam8wRF91elJaYnhqY3I3MVoweWJfWC1zamhuR0dXU2ZySEpxZmlVc2NrMWFyQlhUSDB0T1Q?oc=5",
-   "outlet": "Taiwan News",
-   "lang": "en",
-   "date": "2026-10-12",
-   "tag": "",
    "ko": null,
    "score": 5
   },
@@ -260,16 +310,6 @@
    "score": 4
   },
   {
-   "title": "SK Hynix Buyback Rolls On as IBK and Bernstein Diverge on HBM Pricing",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeW03Rm9NUjFnZ2duMHRLSUxaa2pNNjBkNnQ2dVZyTi1YUVowUW1BOGVuVmNrMXh1X3p6amhybkd3RUFiNmpUZTZQZ3ZaazdsR25icEhwa2gyR0Q2WmppVXl3NXZnc2lMUGVkcENqMDJWakFEamIzS240bVR0d1VlbkxwdTFRdU91ZHlhdEdIdFhZekZvbUNrNHJfVTU5akIybnZ3dU1aam8zM04xT2FseUxGUVBDcGY1eEl1NWxEcEVndzJSOHpucnhfNk50YjNTRFpIUVhrMnQ?oc=5",
-   "outlet": "ad-hoc-news.de",
-   "lang": "en",
-   "date": "2026-10-11",
-   "tag": "",
-   "ko": null,
-   "score": 2
-  },
-  {
    "title": "受内存、存储芯片短缺推高价格，游戏硬件销量跌至13年新低",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2RBMHNRdFNPRHNOcEdRSVYwT0pNcU9CRDRVRWVxUmVNdkY0bVY0ZnFESFlNVmhab2p6ekNVT1JGalVEdjFpYXVwRXBDNm9SU2xmaDRiNGx1MW0xaHBwZ1ZCOGpBeHlobmEzdTV6NzlzTS0xQWVyTU1ndVBicEppZzdMWGxpSjA?oc=5",
    "outlet": "新浪财经",
@@ -288,36 +328,6 @@
    "tag": "",
    "ko": null,
    "score": 4
-  },
-  {
-   "title": "存储芯片涨价潮背后的真相 AI需求推高成本",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02OE5KLUZDaFZYWUZOblJxN1R0X3FQLXR1bF9RSFpkVlowdUNuWVpqZ1QtV1FMWXRpeFJPZDY1c2hnUHR1eTE0M3B1Y3NBUWFyZWFYeXNXaFJIejA2Z1FUQms3OTVkMUZBbnJmUXNKdzM?oc=5",
-   "outlet": "中华网",
-   "lang": "zh",
-   "date": "2026-10-10",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "存储芯片暴涨！华为官宣手机涨价，余承东坦言：亏损业务无法持续",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0ZXc3FOOVRkMnFCWURiVXpMMmkzMzVEVVQ2V1RreF9JVmE1UVZfdjlxQlhYU01FOWtUeUZjZ0xvVDFCVGhCeXFGMVQ3bnZKcnhHb2RSMVh0b21Ic1FVSnJXYWpCZjJtVHo5N21PdGNRTWtMcnpWa1piUWVoQ3hrSHo4UTBzeUNhNHRmWA?oc=5",
-   "outlet": "搜狐网",
-   "lang": "zh",
-   "date": "2026-10-10",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "HBMNE Forecast — Price Target — Prediction for 2027",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EaktaTldtNW1fNE5Mal9qeFpOMVBMTVkwQ3FYdDhoZWFDTGRGRlY0LWFVcFVOaGE1UzM3dDhvT2JGbkRpMHNJbkpJazRGcnNUN1huR2xBUHVWaHRtY0JHUzlUXzI5MFRqR3BYaXV4T04tdVRFRWZZ?oc=5",
-   "outlet": "TradingView",
-   "lang": "en",
-   "date": "2026-10-10",
-   "tag": "전망",
-   "ko": null,
-   "score": 3
   },
   {
    "title": "D램도 HBM도 가격 뛴다… 삼성, 年 영업이익 세계 1위 꿰차나",
@@ -356,16 +366,6 @@
    "tag": "",
    "ko": null,
    "score": 5
-  },
-  {
-   "title": "China's AI chipmakers raise prices as high-bandwidth memory shortage bites",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZXlCOUZPNGdYWEh1aU0tTGdxNHlkeDhlNHVscTdRNWhLVjltUS1NQ3EtT2diQmZidjVxVEZZYzlXUDNHdm9Xa1NPMW9jc3VOQmdmQXZtMDZxaGhrczlocjB0aEluS25QYmQ4cU1fWUVjZTc0SW1pandFeVVNWmE2bU4tLW11M0dPMlNOTTdHVzF5WTF5eVgyYi1mTXZoY245TkE3ZHhKNzRmbVd3X0tENWtkd24tMkI4THM5dFZPcnREcTZPcnc?oc=5",
-   "outlet": "The Standard (HK)",
-   "lang": "en",
-   "date": "2026-10-09",
-   "tag": "",
-   "ko": null,
-   "score": 4
   },
   {
    "title": "삼성전자 HBM4 가격 협상 막바지…내년 HBM 평균가 2배 급등 전망",
