@@ -1,6 +1,35 @@
 {
  "items": [
   {
+   "title": "낸드가 AI 연산...SK하이닉스, 3D FeNAND A-CiM 연구 성과 공개",
+   "link": "https://www.thelec.kr/news/articleView.html?idxno=63722",
+   "outlet": "디일렉",
+   "lang": "ko",
+   "date": "2026-10-15",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "HBM capacity shift sends DDR4 contract prices rising faster than DDR5",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFdXeG91dFdsVXQ5a3IwLUowOFQyVGRlNlBqS3A5N1VyOTh3SmRfczFSRXNlQ04xdHpxdF8xTDFNSGZJcWRCZ19VUmstVFFPNDBsRGFlWlBaXzA2dHAybVlkYUV1NW0wTkUyN3BtX3BOcEZPZUhoY3ExLUtzNnJXbTI1Yk5fV3M?oc=5",
+   "outlet": "digitimes",
+   "lang": "en",
+   "date": "2026-10-14",
+   "tag": "",
+   "ko": null,
+   "score": 7
+  },
+  {
+   "title": "Samsung, SK hynix, and Micron Sued Over DRAM Price Fixing Amid Samsung's Expected 20% Price Hike",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNek96Q3hJZDJ1YkZSX25fUnNla0x2TDFxT2V5VGdMMHl2RklHcjB6aHIzY29KWnZNR19remJBMWpYSGZheUFXYlNacVJqSHNwVE9EMEpHYVV3MUNLejBYNUFMR25DYUpfNkRVdlhub2hpbmJJSVdBYWNVd3Q2NFV2WEZHcVM0VFhYMDBjRDA2cURIZDIwa05pSFd6bGQ3VUsxaWhDRG4xZy12OFNkcVFqNThhdTFTSUpXb1ZZdw?oc=5",
+   "outlet": "scanx.trade",
+   "lang": "en",
+   "date": "2026-10-14",
+   "tag": "전망",
+   "ko": null,
+   "score": 7
+  },
+  {
    "title": "D램 가격 둔화에 중국 추격까지…K-반도체 다가오는 경고음",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLWFRMmwwbHh0WEtxS2NnS2xJSFVibkdOVVJjOWtnRWVwVEhTaHVqOWxTY3FlZnB2aGlHU3RycXZGYVNwMXVXTE9MS0tBQzBBZEpZS0R1ZGh6cW9fdkdsNdIBeEFVX3lxTFA2amxzamxvOU5wczlGWTJPMG9XQjZvaUpiNHV3MDdfbTA4WEJkZ19YNF8zdVV5dnJtT18xTlNCczhjZFJGWkVQYnpLNDBNNFE2bVFmeUt1SEhrRFpVU0x6LWJfTE1sOWdhMm9OVm1OSkhENk4yNFYtOA?oc=5",
    "outlet": "뉴시스",
@@ -10,10 +39,49 @@
    "score": 5
   },
   {
-   "title": "RAMageddon — Smartphone Prices Surge 20% Amid Global Memory Shortage",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2xWSUhRRU04cWpVWWw1VkF5T1gwS0o1WURUTVZjZzlUQklZdW94SkFWelR0anJkdmdYaHN2SUtkbHpHTHF4dWdmRE51a1A3RE11QXF3bjBiOVBTVDVVQXgyTDVqRGI4bTRRbGVVTVRudl81ZnRpVFBSc3lWeENrWkVudw?oc=5",
-   "outlet": "The Korea Daily",
+   "title": "HBM4 Shortage: Price Jumps 117% as AMD Chases Supply [2026]",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNWg3RGdwelI5czVENFlIaVhMYmlIZURfbHZ4cnZ5SlBSa2hjYUtkdlBfMlJzU3hvYnNaMkttM2RhVzRxOWRHOURNd0FzR0xTSTA0M3E0LXNmSEFsbzlIME4tWkotR2p3U2ZBcWhKbDI1RWxxNGJXeWMtTk5JenQyNlhiRUdyNWhHZ3BLSw?oc=5",
+   "outlet": "https://tech-insider.org/",
    "lang": "en",
+   "date": "2026-10-14",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "内存价格飙升威胁廉价手机，重塑全球市场格局",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3JOR2pUT09JczZ3cy1vU18xMnF4dk5OSVRrYURfa3RQUUlfNDBjdjdPUTNxZlVmWnRjeVAxNGpYVUpDQl9LMUtRLUZKOUNhQXh4M3VtT0JwTzZaX3dyNWZNVVlNS1FiUmF5bk9xSzZyMzRPTHdoWk0tdkNmb0dLOXkzckFLSWJD?oc=5",
+   "outlet": "搜狐",
+   "lang": "zh",
+   "date": "2026-10-14",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "삼성보다 먼저?…중국 CXMT, D램 판 흔드나",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwZ0VSZ1RUTkN5cG9fMzc2dlF0S2VEYnlvMjIwMFI3enFUelo0Q1ZNa3QtWkVNYm5PTVlPckpHaG5vYlhkVklDNEwwTHJ3NjV5OVJpQmJVTWp2UmhDdzBVdmVjdmJ5UkE?oc=5",
+   "outlet": "연합뉴스TV",
+   "lang": "ko",
+   "date": "2026-10-14",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "三星证券：存储芯片价格涨势放缓不代表利润见顶 维持三星、SK海力士“买入”评级",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2JkbEVKNjhsMnJUNEp0VzQtR1BFLVg5aEFwbkJwazJoQ0tLRGl4M1ZieVJRZHJ0M0NyTGEtZ2VxVFI2WHozSHUyeWxGX21HZ3hHVElEQ2VpTFJ1elNSN1F4UHdDcG52Ymw3UHFPV09aZVI3OE1FbUlHaWhPVjRlT2o1SmRNS2dQbzQ0UQ?oc=5",
+   "outlet": "搜狐",
+   "lang": "zh",
+   "date": "2026-10-14",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "台积电营收强劲、存储涨价延续，科创半导体设备ETF华泰柏瑞（588710）交投升温",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4Yzdkc21qNU9GckVGOUgtRV94Y0FCSVhVd0FTU0RJTktuSVljSkRoWnVDQUVHZ0Ztd0FnREZSZXphUXdZcG5UTTNLeUdBVERRVXp2NlE0M3hrMDdZMmJ2cTdn?oc=5",
+   "outlet": "手机网易网",
+   "lang": "zh",
    "date": "2026-10-14",
    "tag": "",
    "ko": null,
@@ -89,6 +157,16 @@
    "score": 5
   },
   {
+   "title": "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further?",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb3NFTU9VX0lwcC1LUWVuZ1lJS1BEZDhTbzB2aUtmTHZRZThZQVhrQzVkQTBfYjlLRlVuUVM3d21ob0Q1YjhxRTF0V0c2SWVuM0JVSGdsVkNLV01MUlR5azZwMHZSUGdZMXZvYnBrdDM4XzY5YkpHaVRXSzZjTEc2bkFqcnIwUDVJX1hDdGlQM1diZTJSTnQ0V1h5UGxoWWg1cWpEOUxPMmdoX3c3X0xGdEVLbk1Tak4yRnhKazRXOVhNNWJYY3VxRXNoUFhLazcwcEpRTk1QV1ozZE44Q213?oc=5",
+   "outlet": "The Globe and Mail",
+   "lang": "en",
+   "date": "2026-10-13",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
    "title": "中 CXMT, 차세대 D램 연말 출시…고집적 메모리 경쟁 확대 전망",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tMTJuOXlpYWhRZFNIWS1BU0MyQ3VaeDc3NmU0T1hXeXVnd0tyX0twejFxMFVTYzhxbDdBRkNuLWhWb0pwXzlQaW9ySEZoLVVuNW9HYVJxaWJ5dmxkZFEtUmFUOVI?oc=5",
    "outlet": "매일일보",
@@ -104,36 +182,6 @@
    "lang": "ko",
    "date": "2026-10-13",
    "tag": "",
-   "score": 4
-  },
-  {
-   "title": "Micron (NASDAQ: MU) stock price forecast: MU falls as China raises DRAM competition",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jS093WHRQUm12bDRPUE1TVUszRnMwa2NkQ25adkZQQ2lhOEdFRU51Uzl1YVNzRS1oaG14c1lDSHl1Z0FSelVLcGZra25TQ1pxTkU4eWt3SF9uM0dZaDg2cE9qV1M?oc=5",
-   "outlet": "Beinsure",
-   "lang": "en",
-   "date": "2026-10-13",
-   "tag": "전망",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "DDR4 Memory Chip Contract Prices Surge 24% In Three Months, Outpacing DDR5 As Barclays Warns Micron’s Memory Shortage Runs Until 2028",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQajJoUENnN2hjRG5YaXk4RXE1YmgxMDhrRDFwc1dsNXF6Qm95T1hxZDBnOS1xOXhfcFhBdk9pLVJiUlUxeTZXS1p4YXlTdy1LTW9KNDJwbXdLelBlMzRHWmJKaWpxYWt1TjlrWHlMT01aTDJOU3dEZTNuaEc1S0diekthRUJQZTF6TzAzQ2JIaUdQZ2IyaDFMOFdjVGJMRkV5RVhCdWNUQ3Rvd2RJVlpzX0FvUm80Qkl2R2pXTXlnMjlXcHF1bEtweWxwM0VuR29WNDRlcXhQNzJOMkx2azZxSTR5Q1JEUDTSAewBQVVfeXFMT0FidXdBYUw0dE5qb3Q1Sm1iQ2NxTTFPWGdONnp6NjJ3QkFuaGNJU0ZSTWM0SDNxS3F0bzZabHJMd0s1NW9oZERmbm82R3ZFSnlzSEUxV3JuS0NGX0EtRHJyOUN2dk9fU0xJX2loZkhaN0xDbHdpX1R0RU1LSWhVbHBjNGdYczlxeU9tTmpZNndETFpwQ2VySWpwby0zVkpwZVM0VmtvemJncUplOGM3ekQ1dnhuOWczM3IwM24tR0VRR3A3dkZLcVdsTjRScHBZb0Z4Zk1ueVdGaTFjWEw2WHdBQXNBckxvYVhscTA?oc=5",
-   "outlet": "Wccftech",
-   "lang": "en",
-   "date": "2026-10-13",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "Smartphone Market Shrinks Amid Memory Price Surge",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUl9nR0pjYnBqNXBNQUltTzVTcWR3cXhQRkxSSXZYU25sM3ROVW9KUzRwTUlKa0g1VDdxN3VBMGdOeVlkQS0zSFhrRFZBTlRRUUVvYzlSQXhFVzVYRW1jTEVla2p2R3prN3pGWjJuVGFmTURwaDBLbkRvcmxNcGxoMWd1Qkpsdzk0?oc=5",
-   "outlet": "조선일보",
-   "lang": "en",
-   "date": "2026-10-13",
-   "tag": "",
-   "ko": null,
    "score": 4
   },
   {
@@ -169,6 +217,16 @@
    "title": "[News] CXMT Accelerates 4F² DRAM Push, Eyes Year-End Server DDR5 RDIMM Launch",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTl6M2JfdlFiQktGUV94OFpqalFrSjBaa3ZqYVRWTk1lYUJGdXpQYUd5ejU3NnBfbVVPV3EwMW10WTM5TklSVVFoSGd5QVVqbmtSSVNYNzdvVFdTT3NmVnNYLTFEMTBrSHZlZGJGMU5GbFA1NFRoSXRGOWhKTmZvOF9ZblAxY0dJZzNwVkRaX0hpQ05oeUlpYjFVMEtJRElheVBoUTVaNkE0SGxsRW41cjUwRFlLTjVPWXJFaTRMSDk?oc=5",
    "outlet": "TrendForce",
+   "lang": "en",
+   "date": "2026-10-12",
+   "tag": "",
+   "ko": null,
+   "score": 6
+  },
+  {
+   "title": "RAM price tracking 2026 — lowest price on DDR5 and DDR4 memory of all capacities",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVh3NVV3T3lJamtVNE5sUE1jUHFXeW85ZGgzblZ4LTlBTnZzNlRQRUtXZ21yamIyX2swZGh2STNIZFNpMXVQTEstLWxuSlczdlJScmI1NkltMHRyTGpaZ2hfel82TGZDcE03TW5GdnJSU1A5XzFkRlRIZF9GdXpMQ0lXclotazRKangxZmQ5UXNMTHBENjRVNmJfYVFBT2ZQLWhGZmJXODUtMGpvdXdienZ3STVucV9BSUpGd05Vdw?oc=5",
+   "outlet": "Tom's Hardware",
    "lang": "en",
    "date": "2026-10-12",
    "tag": "",
@@ -242,15 +300,6 @@
    "score": 4
   },
   {
-   "title": "“삼성보다 2년 빨리” 중국의 D램 도발…CXMT, 차세대메모리 연내출시",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Ybk5DUVR0NE9NSmFxVXcteHN4T01ZYkJhRzdrRUNUY3JJSWVJenA3bklubmhONDBBVUhNQzhYeUNGVEcyX0E?oc=5",
-   "outlet": "매일경제",
-   "lang": "ko",
-   "date": "2026-10-12",
-   "tag": "",
-   "score": 4
-  },
-  {
    "title": "“比三星早两年”中国挑战DRAM……长鑫存储年内推出下一代存储器",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZelBkNnlnM0pJRHpEdVBzMjdmN0xGeXNvOFZtZHlFT1V2MlhKX05kcVY4ZU45blNfbGVsaGxuQWY5bkNTNlpQZFFJWGpUamFTZ0xN?oc=5",
    "outlet": "매일경제",
@@ -288,36 +337,6 @@
    "tag": "",
    "ko": null,
    "score": 5
-  },
-  {
-   "title": "苹果CEO蒂姆·库克：存储芯片短缺涨价不可避免…100年一遇的大洪水级别",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2RWZnNjSmdjYWZNd1B1ejV5bm9MalZvYnJxZEJnRFN2TjkxY3Atb19VX0NVVjVoZ0ZWMkxSaWlkbkNoajZ4QjE1cUlBVVM4dlRHRU5PQmhDd190b2l4Q0NQX0ZkWWFyVmFqY1lMNWJUY09yam9tNUNtUVNiLThUUmprVlNqVzZGOWZ6WkVkWVJIMWdRem45eWdPZ18zeFMt?oc=5",
-   "outlet": "朝鮮日報中文版",
-   "lang": "zh",
-   "date": "2026-10-11",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "价格亲民的Alldocube 平板电脑发布，配备 2.5K 显示屏、Android 17，并支持最高1TB microSD 扩展存储",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWZyanZKOFQzdHJ1aG1maDdPZmQ1TmlsUFF1eF9zWGtianZWMVdGMTFQRzFnXy1QZzYtX3JiNTZEN3FXLThkcU9nZnJCMXozNTExMUNVUVhMQjBRQkdHbXdjNGpUMEhuYjlfUUFNczV6N2hjY2hLYXlLNWNzMzQ2Z0lLSnZEcHM3eExQc3hR?oc=5",
-   "outlet": "Notebookcheck CN",
-   "lang": "zh",
-   "date": "2026-10-11",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "存储芯片疯狂涨价，手机迎来第四轮涨价潮！等等党这次彻底输麻了",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNkp6MG9CSngzVmV0ZXUwc3ZSTWoxWkdza3dQNVN2V00yRUxzVFVZc0pMN0FOLW1VTEN1blpfdnRzTk5uNmVIaU52U0FlRG03OEpoVk10anFnSU1BTWpoUEFyVkFLY19BU3NHdEplYkxLQ1N3NUY3eVFROW15YlY5ZnlLSGZQOGZNak9ENw?oc=5",
-   "outlet": "搜狐",
-   "lang": "zh",
-   "date": "2026-10-11",
-   "tag": "",
-   "ko": null,
-   "score": 4
   },
   {
    "title": "受内存、存储芯片短缺推高价格，游戏硬件销量跌至13年新低",
@@ -412,25 +431,6 @@
    "outlet": "手机网易网",
    "lang": "zh",
    "date": "2026-10-08",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "범용 D램이 밀고 HBM4가 끌고…삼성 HBM 가격 두 배 전망",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQazh5ZDgyNEY2RzNqNEd2Nkp5M1JZTi04dnFZemswOUdMYm9RdG9CbS14NlRQWVRnOEJkMXV5eDhPdjdjWkplakd1UURLQWxZWXprZHczVkZ5Ml9mQ1JvRTV0VmFIZFRmcHVzbjVuaWpkSzR6WXVOSkNvclZDbk9YVnJTT0dIaEpfNzJyNVpXOA?oc=5",
-   "outlet": "Naver Blog",
-   "lang": "ko",
-   "date": "2026-10-08",
-   "tag": "전망",
-   "score": 4
-  },
-  {
-   "title": "Samsung's HBM prices tipped to more than double in 2027",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFlOWVZxcjVtSlJpb0pieEI1dDNQa1N4d1VKMmNuS1lkYnpZTGxISDAtVmE4R1B4TkNrRkh4TERPQklhdG02TlRDeVdYN2xkcnh4aXd1dDNINmZFN21lVUU0ODR4U0ljUmoxNHN5bUtaLUV1WEpjVmozRXRwQ0tmUVdybGFmaEkwQTd1bGNoRUZYOGJDa01jaGI0RGQxR1ZUNzFFb25MRXlEWWJCS1hPOWgzSDhZWFBhUFZxSHctNHlzZVZCTDdGQzh2VUdUU0l3QlHSAdIBQVVfeXFMTXBZTllWcXI1bUpSaW9KYnhCNXQzUGtTeHdVSjJjbktZZGJ6WUxsSEgwLVZhOEdQeE5Da0ZIeExET0JJYXRtNk5UQ3lXWDdsZHJ4eGl3dXQzSDZmRTdtZVVFNDg0eFNJY1JqMTRzeW1LWi1FdVhKY1ZqM0V0cENLZlFXcmxhZmhJMEE3dWxjaEVGWDhiQ2tNY2hiNERkMUdWVDcxRW9uTEV5RFliQktYTzloM0g4WVhQYVBWcUh3LTR5c2VWQkw3RkM4dlVHVFNJd0JR?oc=5",
-   "outlet": "ET CIO",
-   "lang": "en",
-   "date": "2026-10-07",
    "tag": "",
    "ko": null,
    "score": 5
