@@ -1,6 +1,35 @@
 {
  "items": [
   {
+   "title": "[Insights] Memory Spot Price Update: DDR5 Supply Tight, DDR4 Trading Weak Despite 0.84% Gain in Mainstream Prices",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGJLSkhTSHZOZFBzNWRNNVZyeFpZbC1ad0E5NklXaUF5dWRNdTJWOHZnQmt2OWQxUHRUMkVlRmdxalpmZVR5Q2pKT1RXWTcwVUo5RVE0TW03MktiLUpVbkoyNFI5WjNMSEhDSDNQUTRvYlFpRThjcWJoaWlVaEtRNUZlTjdUZjNfSFFQbGdFLVBCV2JFdmEySFdXRzFaSDZld1ptNVJ5bGhCbGJ2N1hRanNlTHBUSEkwWTVNZnJEejgybVcwZ3ByamRwNHZIb2ZON3pST0dFZ201WUIxcXZmTE9nUnZfeklNaW9V?oc=5",
+   "outlet": "TrendForce",
+   "lang": "en",
+   "date": "2026-10-21",
+   "tag": "",
+   "ko": null,
+   "score": 8
+  },
+  {
+   "title": "'29일 실적 발표' 샌디스크, 개장 전 반등…\"낸드 가격 견조\"",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nbnpfVUI2Mm5wWFVhZkJtaWMzSko4RlhXVnc1ZzNzMDVLM2RrQUxYZGY3bU52NkNoWEN1RFgtVVBmTkVOVGwtelRmS0pELXBTVG92VWFHODZ1RVJ5dzlpMVoyUXhFT3phaGNyN0NkMm1VUUU?oc=5",
+   "outlet": "마켓인",
+   "lang": "ko",
+   "date": "2026-10-21",
+   "tag": "",
+   "score": 5
+  },
+  {
+   "title": "财经调查｜存储芯片股暴跌，华强北内存条价格依然坚挺",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWU4aHBDM3VMbHMyN2ZyRWhBVVlKczVrMWhSMEgxTGFHb2RWend0R2N5VkpSVTljblZaRjVRcUctMFJiMHdkYTJhWElCRkVPc2tDaExtQ1ZQSFRiQ1dzbC1zSFhKRHAwNUJpLTZnaEFVMGUzQlY4MXJURmNHUmRHSUpFX0NrTFlqS3c0bQ?oc=5",
+   "outlet": "搜狐",
+   "lang": "zh",
+   "date": "2026-10-21",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
    "title": "[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV3lnMFNjd3BkNzVHMXdDUVhoZHA0MmhLSnI0TUkteEJFQ0dEUVdnVjdTSE14R2p4TG03dGZRUEpBMWx6bGYzNklNcjBNRjd1RXotcXM5MkNkNzNuZ3hfOVdpTVp4bTJ3cVJ6QUlsYmpXZElxVXZuenlBamY2T1VGc2dJeVVQZ19NUEFUQXlVbUN5VlBIUkozRGFDVzduQlNDNm9CaHFlektTUTVOSVh0NTczZm5paWx3R3FjQXhqbGFXckdHREVvVXhUSVB0YkhRd1N4bUNVLVhJT293Z3FZeg?oc=5",
    "outlet": "TrendForce",
@@ -78,6 +107,16 @@
    "score": 6
   },
   {
+   "title": "国产存储板块结构分化 板块定价逻辑从价格普涨预期转向业绩验证",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKXzNhcGJLeUdCdGZnYTNzalJ0NF9JQUh2RlRZaVplZjd2eXB6OGNyTVBuQTY3d2taZjhic1lWbVdoMG1iMFNPNGZHRG5EcDg?oc=5",
+   "outlet": "手机新浪网",
+   "lang": "zh",
+   "date": "2026-10-20",
+   "tag": "전망",
+   "ko": null,
+   "score": 6
+  },
+  {
    "title": "낸드 반도체 내년 하반기 수급 완화설…삼성·SK 가격 주도권 흔들리나",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVbjNrd1hfSWlURHd0enZSUkJ2Tm9KRml3dlJoSzRyNnRReTk1VkpYNFpJZFQ2VDZmdExyOGRnMEdaRGtNeVBmTjlzc2Nocy1Oc1JvTExYeTNLRmxO?oc=5",
    "outlet": "뉴스핌",
@@ -105,16 +144,6 @@
    "tag": "",
    "ko": null,
    "score": 5
-  },
-  {
-   "title": "苹果CEO蒂姆·库克：存储芯片短缺涨价不可避免…100年一遇的大洪水级别",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2RWZnNjSmdjYWZNd1B1ejV5bm9MalZvYnJxZEJnRFN2TjkxY3Atb19VX0NVVjVoZ0ZWMkxSaWlkbkNoajZ4QjE1cUlBVVM4dlRHRU5PQmhDd190b2l4Q0NQX0ZkWWFyVmFqY1lMNWJUY09yam9tNUNtUVNiLThUUmprVlNqVzZGOWZ6WkVkWVJIMWdRem45eWdPZ18zeFMt?oc=5",
-   "outlet": "朝鮮日報中文版",
-   "lang": "zh",
-   "date": "2026-10-20",
-   "tag": "",
-   "ko": null,
-   "score": 4
   },
   {
    "title": "하나증권 \"DRAM 가격 상승폭 확대 전망…낙폭 과대 활용해야\"",
@@ -155,16 +184,6 @@
    "score": 6
   },
   {
-   "title": "国产存储板块结构分化，板块定价逻辑从价格普涨预期转向业绩验证",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zVDFMTjFGQWxueHpiOHA1VFNFSlNkLU5IRXUxVWxwc1hjak5ieDliLW5VUHhhUmJsbVBXN05LQXV2T0lYQ3dndXpBZk85bGRDb3lGN3JMNGM?oc=5",
-   "outlet": "36Kr",
-   "lang": "zh",
-   "date": "2026-10-19",
-   "tag": "전망",
-   "ko": null,
-   "score": 6
-  },
-  {
    "title": "중국 D램 생산능력 내년 31% 급증…메모리 가격 주도권 흔드나 [메모리 패권, 가격전쟁의 서막]",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wM2ZZNnhNZkowY0FEMWpTRjRpVE83Mk9kVkZoQWJtcjVjUFFhbklRVjJGbERHbXJOWTd4OG5yYWRPLXhlMEdJNzF6S29JeDJLbGo1bmNsMDczQjRfeko2NUI5cU80VjF6dTktRTNB?oc=5",
    "outlet": "이투데이",
@@ -189,16 +208,6 @@
    "lang": "ko",
    "date": "2026-10-19",
    "tag": "",
-   "score": 5
-  },
-  {
-   "title": "Musk Calls Memory Pricing Extortionate as SK Hynix Maps Out Life After HBM",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZjhaVkpzdDlBWS1HdVJlTndHX21kWjBQbWQ1TS12bVFReDdjREhMb1U0VDlJZ3NUZUhyOTBvdWVvUHRHVHpNVkp5dm5RVUNUNDliRnZIYnpRNm16cTlGZ0loUzIxSktBOWlfbVlzV0xzWE5tSDV0a091Z2Y2cWFfakRLNEdZVU5MdDIwNGdhazltRjFLQkd0X1MyQ29hUUxvN3JvdEF5ZGJVQm0zQ3Nud3lzNmhvVkhIQ05vaFhMRDRNRTJqUlhSMUxTeDFKZXFJX08zanJsbUJ2UHJXR2ZN?oc=5",
-   "outlet": "ad-hoc-news.de",
-   "lang": "en",
-   "date": "2026-10-19",
-   "tag": "",
-   "ko": null,
    "score": 5
   },
   {
@@ -425,15 +434,6 @@
    "tag": "전망",
    "ko": null,
    "score": 7
-  },
-  {
-   "title": "D램 가격 둔화에 중국 추격까지…K-반도체 다가오는 경고음",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLWFRMmwwbHh0WEtxS2NnS2xJSFVibkdOVVJjOWtnRWVwVEhTaHVqOWxTY3FlZnB2aGlHU3RycXZGYVNwMXVXTE9MS0tBQzBBZEpZS0R1ZGh6cW9fdkdsNdIBeEFVX3lxTFA2amxzamxvOU5wczlGWTJPMG9XQjZvaUpiNHV3MDdfbTA4WEJkZ19YNF8zdVV5dnJtT18xTlNCczhjZFJGWkVQYnpLNDBNNFE2bVFmeUt1SEhrRFpVU0x6LWJfTE1sOWdhMm9OVm1OSkhENk4yNFYtOA?oc=5",
-   "outlet": "뉴시스",
-   "lang": "ko",
-   "date": "2026-10-14",
-   "tag": "",
-   "score": 5
   }
  ]
 }
