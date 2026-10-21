@@ -1,6 +1,25 @@
 {
  "items": [
   {
+   "title": "삼성·SK하닉, 3분기 영업익 합산 180조 돌파 전망…HBM4·메모리 가격 상승 효과",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GbVp4eE95d1NSSm96UTdocktaTXdLMDRoOXBJVnNnMFBaT0dOSTZsYzd3bm02UTdLZHBHbjIzNUdBd3dyeERsNnIzdHpmU3pXeEtGcQ?oc=5",
+   "outlet": "이투데이",
+   "lang": "ko",
+   "date": "2026-10-22",
+   "tag": "전망",
+   "score": 7
+  },
+  {
+   "title": "NAND flash shortage is quietly doubling SSD and laptop prices",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDdia2hjbFNXMERaRFBDSFFyNXM3X2hZUE0taTdLLVhnT0RZbmlaV1IzQnlzRktnZzBxaGZBbG1raHh2RzlZUnE1TjJtdWg1MkFyQXF3emQ2ODd3amgyWFdQVlI3YllwbERtaU5IWVB1MTdlWG1CbUxFcFphcERXNUxQMEw5M2xMQm1sS2o0Z0VWOXM?oc=5",
+   "outlet": "Startup Fortune",
+   "lang": "en",
+   "date": "2026-10-22",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
    "title": "[Insights] Memory Spot Price Update: DDR5 Supply Tight, DDR4 Trading Weak Despite 0.84% Gain in Mainstream Prices",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGJLSkhTSHZOZFBzNWRNNVZyeFpZbC1ad0E5NklXaUF5dWRNdTJWOHZnQmt2OWQxUHRUMkVlRmdxalpmZVR5Q2pKT1RXWTcwVUo5RVE0TW03MktiLUpVbkoyNFI5WjNMSEhDSDNQUTRvYlFpRThjcWJoaWlVaEtRNUZlTjdUZjNfSFFQbGdFLVBCV2JFdmEySFdXRzFaSDZld1ptNVJ5bGhCbGJ2N1hRanNlTHBUSEkwWTVNZnJEejgybVcwZ3ByamRwNHZIb2ZON3pST0dFZ201WUIxcXZmTE9nUnZfeklNaW9V?oc=5",
    "outlet": "TrendForce",
@@ -9,6 +28,16 @@
    "tag": "",
    "ko": null,
    "score": 8
+  },
+  {
+   "title": "YMTC Warns Memory Shortage Will Last Until 2029, Confirms NAND Chip Price Hikes",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUGlGZjFqamlMVnFMZ1BJRzJIQUc0ampiZ1FqWVU2QXVoNEJoejZNcURYckhIMGNueTZMSHBLYnpiLUlsandkLWl2SGR4QzczSXhoYTN1a29jdEp5MWF0VDVGdjBWVExWTDJ6YTJYNHVIaFM1TXdvSG5GemI5dExiQlZVVXZlMWFLZVY0aEp5cU9QZFpjUnVvSW1ydUgzdmpfNk1ZMm9R?oc=5",
+   "outlet": "eTeknix",
+   "lang": "en",
+   "date": "2026-10-21",
+   "tag": "",
+   "ko": null,
+   "score": 6
   },
   {
    "title": "'29일 실적 발표' 샌디스크, 개장 전 반등…\"낸드 가격 견조\"",
@@ -405,35 +434,6 @@
    "tag": "",
    "ko": null,
    "score": 6
-  },
-  {
-   "title": "중국 창신메모리의 역습?...'반도체 선행지표' D램 현물 가격은 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UEpEY0dlWlNrVXB5dmlreWJqcXZfRUZkWHZQZmY5TFBCeElyNzZXMU5ZQURBaEZaQlJnX2NqTlQyVGNNMWFBYmxMdmNHa2JseU0yWEotT2l6NlIxWTNLU2N0TEk1WHlEWlN1ZNIBckFVX3lxTE53dmNkQXNLNGdIbXZidGFsWjk5UnBwTmZFZ05uVXJWWEM4WHFVREo3M3FuYk9fR3dGVzNHWUdDRkNBV2RrbnYyTHlsMWhfNENjaE45dG9wQ045Rk5BYVFhLU5Bc3lMTlowQk41MEpLT05zZw?oc=5",
-   "outlet": "머니투데이",
-   "lang": "ko",
-   "date": "2026-10-15",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "HBM capacity shift sends DDR4 contract prices rising faster than DDR5",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFdXeG91dFdsVXQ5a3IwLUowOFQyVGRlNlBqS3A5N1VyOTh3SmRfczFSRXNlQ04xdHpxdF8xTDFNSGZJcWRCZ19VUmstVFFPNDBsRGFlWlBaXzA2dHAybVlkYUV1NW0wTkUyN3BtX3BOcEZPZUhoY3ExLUtzNnJXbTI1Yk5fV3M?oc=5",
-   "outlet": "digitimes",
-   "lang": "en",
-   "date": "2026-10-14",
-   "tag": "",
-   "ko": null,
-   "score": 7
-  },
-  {
-   "title": "Samsung, SK hynix, and Micron Sued Over DRAM Price Fixing Amid Samsung's Expected 20% Price Hike",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNek96Q3hJZDJ1YkZSX25fUnNla0x2TDFxT2V5VGdMMHl2RklHcjB6aHIzY29KWnZNR19remJBMWpYSGZheUFXYlNacVJqSHNwVE9EMEpHYVV3MUNLejBYNUFMR25DYUpfNkRVdlhub2hpbmJJSVdBYWNVd3Q2NFV2WEZHcVM0VFhYMDBjRDA2cURIZDIwa05pSFd6bGQ3VUsxaWhDRG4xZy12OFNkcVFqNThhdTFTSUpXb1ZZdw?oc=5",
-   "outlet": "scanx.trade",
-   "lang": "en",
-   "date": "2026-10-14",
-   "tag": "전망",
-   "ko": null,
-   "score": 7
   }
  ]
 }
