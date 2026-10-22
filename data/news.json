@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "title": "[News] PSMC Q3 Gross Margin Hits 48% on Memory Price Gains; Eyes 10–20% Mature-Node Price Hikes in 2027",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUEdEcWprMW95eG5qUUR3b250aThnSlFFME9YYXMyTklwRVBrZC0zdDFFbGhNU085TmZ4Ujdzdk1NN2lyUTB4TU42YWRSZjJZOENneWNJaXVrc0hvM2s5X3lJemFCR3dGZENjSnJHdkUySHA2TjVsZkZaSWhZeWV1Tms5b200TmlEckVRNEhBdFdHc05qV2Q2a3BUZGU1YWItU0J0YXlvaXVTMVcyTTVRU0wxYnFKNGRzOXlBS2l0dExtWHNpNC1UdVUzd2pVZ0o1UnluU2VDY3lOeHREZHdrZTFOX253Zw?oc=5",
+   "outlet": "TrendForce",
+   "lang": "en",
+   "date": "2026-10-22",
+   "tag": "",
+   "ko": null,
+   "score": 8
+  },
+  {
    "title": "삼성·SK하닉, 3분기 영업익 합산 180조 돌파 전망…HBM4·메모리 가격 상승 효과",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GbVp4eE95d1NSSm96UTdocktaTXdLMDRoOXBJVnNnMFBaT0dOSTZsYzd3bm02UTdLZHBHbjIzNUdBd3dyeERsNnIzdHpmU3pXeEtGcQ?oc=5",
    "outlet": "이투데이",
@@ -8,6 +18,15 @@
    "date": "2026-10-22",
    "tag": "전망",
    "score": 7
+  },
+  {
+   "title": "[오늘의 삼전닉스] '마이크론 파업' 반도체 공급 부족·D램 가격 가속되나?",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwNGd3b0VvcG52dGRtQUxlNWs3SUNnUzFpRW9BamxYR1l0ZGhBcTlkRG15eW5aMEZ1ek9MRHNpdUxCcHZQRXBpbnlJR3VDc0d6VzdoMzdCZDZDdldQdXdoQlV3?oc=5",
+   "outlet": "이코노미스트",
+   "lang": "ko",
+   "date": "2026-10-22",
+   "tag": "",
+   "score": 5
   },
   {
    "title": "NAND flash shortage is quietly doubling SSD and laptop prices",
@@ -155,16 +174,6 @@
    "score": 5
   },
   {
-   "title": "SNDK Rallies As NAND Pricing And AI Hype Fuel Bull Run",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGVkNJVEk1aDdmc21XdGNIT3p4c1RDcVBvblp5ZHphU09iZWdLaV9CMzJRZUR1dWpweEFpdW0zVG82ZEpYUnBTMkd3NmF6TDRHWnF2al9KTkNUaHBKTWdtUlVEWmRhbG5rNFE3T2xkWDBvUlhnbjZhRmZXVEk?oc=5",
-   "outlet": "StocksToTrade",
-   "lang": "en",
-   "date": "2026-10-20",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
    "title": "美国亚马逊内存和存储设备价格上涨85%至553%——The National",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0ZiVXdpOTFwWEtPdENKamZIV1VaY0szbmFpLU5mMTVpVFNGR1VJT1Npb2FfSWVKbVdzZDdtZEZIZDA2TmFNM1Q3RWJ2OFZ0dHNyMFlObkM2YWdlR3p2blZvaUFXRkY2R090Wm1HVFczdE1uWW1XSUs0bkg0dEpPT0RLaG1HdkR1R0ZwUWpteGNNT3NUZUUxYm5oVGtOVmh4TUlqME1ETDBqcW5FS1E4LQ?oc=5",
    "outlet": "UA.NEWS",
@@ -253,15 +262,6 @@
    "title": "범용D램 공급난 내년 지속… 삼전닉스 가격협상력 커진다",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VWpGbjlqenpMbUJUeDVGWmZIdlZ3T05fMUExZXJQYkdVVktqX0JKTEUzM29WS09lQTdKU3BVOEg0d1ZLR1hqNXlGZExQT2R0eDFRY3RMWlZsZw?oc=5",
    "outlet": "파이낸셜뉴스",
-   "lang": "ko",
-   "date": "2026-10-18",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "일론머스크, \"2028년 중국 D램 대량생산\" 예고…삼성전자·SK하이닉스 가격 견제구",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01TVBKN1ZKcEpJZDJpWDhQb0VtWXdBYTlYSFBZVV96bHI5cjgyT1VwZmNPem9PckYzbXdSdk1Kb1ZSVi02c0ExZl9UbTlORjFoTUY4bzl4NXp6Qmk0NzdYbmZR?oc=5",
-   "outlet": "CWN",
    "lang": "ko",
    "date": "2026-10-18",
    "tag": "",
