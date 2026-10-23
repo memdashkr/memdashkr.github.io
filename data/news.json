@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "title": "(HBM) Financial Trading Report (HBM:CA)",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEZpSVNmWngyVEFEZTVibnZybk5Ocms5dEFkQTU1QzktTmhnYUVIM2lxMHdGRmY2cm85TzJvbEFpYjJ1Wnc2aUkxTVZnMDJScTZqTGUtVDhUT1A0MGdoVk5mQmxNNFJIYjdJX3lpNVJmSS1LQ0l5VW11ZjdLdTcyYldHZm5kbnBveEYwR1B0QQ?oc=5",
+   "outlet": "Stock Traders Daily",
+   "lang": "en",
+   "date": "2026-10-24",
+   "tag": "",
+   "ko": null,
+   "score": 1
+  },
+  {
    "title": "HBM 질주에 성숙공정 품귀…대만 파워칩 순익 4배 뛰자 가격 줄인상 예고",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1MzUTNROV9Vb3JyQ2R5VHFPNHJGWUkzenU0WEZnUExPb2RSMkdGVFJJVU9TTjFDaWp2ZDFsMHdjeW9JTlMyMXQyd2ZxcksyZ2FIZENKQUZYSU1pY2NTQnZxTTRBTTVsN1E0NTdpc2R1ZzkyNTNpLWxndE9CV2lFbnVXcVFBZGVS?oc=5",
    "outlet": "글로벌이코노믹",
@@ -28,6 +38,56 @@
    "tag": "",
    "ko": null,
    "score": 5
+  },
+  {
+   "title": "国科微年内第二次上调合封KGD存储产品价格，11月起按美元绝对值提价",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85NHhNQ09KRjZuZjl1Z3JuWlJxTTREX2JuY3hpVzliMndoYi15OUN4b1R5SjRDdzBvWi1XakJpeEM0QlBHMTI1bmFkbVpiUVhIQWFITEdCaUF0WnA2?oc=5",
+   "outlet": "电子工程专辑",
+   "lang": "zh",
+   "date": "2026-10-23",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "存储价格翻天覆地…中国人从旧智能手机取出芯片再售卖",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnZ6cWJhYkpyTENJejVXU1F0ZWl3RUVCbWZMSGFsNnk4X0tQYjhLalZLRjJ5d1RZbHhhczJDM19CMEdGcnczajRsQzVrZU9fRmNwdHQyczJoR19TU1J3RmZkb2J1WkV6dnNQeHZ0eWFHcnBTTDB4LXZYWmpXdDd0cmVUeDNIVHA1QS1DVko0OWIwVUlqSGxtaA?oc=5",
+   "outlet": "朝鲜日报",
+   "lang": "zh",
+   "date": "2026-10-23",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "透视22份半导体成绩单：存储独占九成利润，涨价边际效应退潮",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13RmdfXzJ2ZnJ5U01pdFp5WW1mRDQ5V2RkcEdQelBkYU5CalVhbWY2Y29xcnlVSkJfSzd1YnlmQnJlblNNRG9tdUVSNTV0VktGUXUyZm1uQnp2SXRDYVhPMA?oc=5",
+   "outlet": "证券之星",
+   "lang": "zh",
+   "date": "2026-10-23",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "Bernstein Research Breakdown: After Memory Stocks Pull Back, Slowing Price Hikes Misread as Topping Out",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZRXF3OVpfSmpMdzBPQmlFR1I2akQ4dG9sY0RldlBOdlhNNTE0SzY4VXU4SlEtaUYzbVZhbUJES2RaWEJ2SmhMbUFzSlVxMk1ORmwtVHNBc2ZNSi1P?oc=5",
+   "outlet": "深潮TechFlow",
+   "lang": "en",
+   "date": "2026-10-23",
+   "tag": "",
+   "ko": null,
+   "score": 1
+  },
+  {
+   "title": "HBM Holdings Limited (HBMHF) Analyst insights, Price targets and Recommendations",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9USkxkVFlVczhOYUV3LWRoMExJcHR6cEs0cV9SaFc3c29ySVJGUFhMakVjNURqYm9NYXQyRS12RTRDWmpZeV9vVlZCX1l3TUwtd3R2bC1BLTlmM2VnWmV3c0RSRGtHU0YwUWc?oc=5",
+   "outlet": "Yahoo Finance Australia",
+   "lang": "en",
+   "date": "2026-10-23",
+   "tag": "",
+   "ko": null,
+   "score": 1
   },
   {
    "title": "[News] PSMC Q3 Gross Margin Hits 48% on Memory Price Gains; Eyes 10–20% Mature-Node Price Hikes in 2027",
@@ -86,6 +146,34 @@
    "tag": "",
    "ko": null,
    "score": 5
+  },
+  {
+   "title": "머크, 낸드 넘어 D램과 로직에도 몰리브덴 확대",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lT243OUlWZk9OS0xyclVjZHdOQ1MwUGlxaFpSN1RjSWpLWnpxek52TXdKTGJSLTJaN1ZtZ0ZyYkN4R3R1X09vQmVtRHRjUExnbHdhWUt3WWF2ckd1U2s5UnJpWjRNUQ?oc=5",
+   "outlet": "디일렉",
+   "lang": "ko",
+   "date": "2026-10-22",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "키옥시아·마이크론 다 제쳤다...中 YMTC 낸드 출하량 3위",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTUF0cDlwWTVMY0tKVnVTVmNvXzJDaExvdi05QnRIbHZZMzdCYnQyWDNHZXU3b2dNcXdUaE4wR1piVS1UUzV1TW5EYmYwVVVyYnZGNnZR?oc=5",
+   "outlet": "매일경제",
+   "lang": "ko",
+   "date": "2026-10-22",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "Micron’s DRAM, HBM4 Push Hits 400-Layer NAND [2026]",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwT1lLNVpLNHJkcEVrRDF0NVh1eVhlaGR1enYzbE95ckJNSDFadW5SNFI1MURFUnFnb2d3dllxclpBcU1OTmlpb1VrYU5aV1Ewc05Zdkc1UFJGVVZIRDdoZmJaVTZ4cENsUVZpdW15RmdBVFJPOHc?oc=5",
+   "outlet": "https://tech-insider.org/",
+   "lang": "en",
+   "date": "2026-10-22",
+   "tag": "",
+   "ko": null,
+   "score": 2
   },
   {
    "title": "[Insights] Memory Spot Price Update: DDR5 Supply Tight, DDR4 Trading Weak Despite 0.84% Gain in Mainstream Prices",
@@ -346,94 +434,6 @@
    "tag": "",
    "ko": null,
    "score": 5
-  },
-  {
-   "title": "China's chip earnings boom masks a widening gap between AI processor demand, fading DRAM, NAND price gains",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTR1UHRRbVpTUzZOM1VlVXMydHhvMFkzR18wQjVxek9uOFgxWWZXTG1BQnV3Nng1dG5jTXJPVGpDY0NJeFZ5UHNWSjFrMVA4b2hST1RlOHNLWFZxaGZ2REFFRXFZT3AtTWx3UnV0ZTdMRGRBaEUwbXpYU1ZrMUk2UUF3MWRtb1RBYkt1RQ?oc=5",
-   "outlet": "digitimes",
-   "lang": "en",
-   "date": "2026-10-16",
-   "tag": "",
-   "ko": null,
-   "score": 8
-  },
-  {
-   "title": "서버용 쏠림에 씨마른 범용 D램 … 4분기 가격 최대 15% 뛴다",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zS216dEk5QzlySWpQaEVXVHA0QTY3RjN6YUlGUjh0ZnZvWkgtNmVCM2FGYzdDNWZETzhYZUpaZ1FBenhuaGZKQVNzRFp4ckJKb09xMGlR?oc=5",
-   "outlet": "매일경제",
-   "lang": "ko",
-   "date": "2026-10-16",
-   "tag": "",
-   "score": 7
-  },
-  {
-   "title": "中 D램 공습? 현물가는 뛰었다…내년 삼전닉스 합산익 '964조' 전망 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yS1h6TlVvRTZfX3ZheENXbFl3U19Kb2hQZHdUWHVIYkotVDV6d3hKMUl2RHN6NmRYVmRqZzhIb0JXOG9hNUk5UE9hYXRLMXcxUWpYeE4teXNXQjE5ejhMb1JPM0tOd1dodWJLSlhfOVZhZ9IBckFVX3lxTE0yS1h6TlVvRTZfX3ZheENXbFl3U19Kb2hQZHdUWHVIYkotVDV6d3hKMUl2RHN6NmRYVmRqZzhIb0JXOG9hNUk5UE9hYXRLMXcxUWpYeE4teXNXQjE5ejhMb1JPM0tOd1dodWJLSlhfOVZhZw?oc=5",
-   "outlet": "머니투데이",
-   "lang": "ko",
-   "date": "2026-10-16",
-   "tag": "",
-   "score": 7
-  },
-  {
-   "title": "General purpose DRAM that's thin for server... Price jumps up to 15% in Q4",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LaEVOTzJVMXZGc0RiNEI0TGhBNV9tMzFRU2JnTVZUNUNaWGJFUkZEWGt5NVhYQzEtUHY0azkyRHB5TjRvWC1QUlVUMnQ3d211T1hN?oc=5",
-   "outlet": "매일경제",
-   "lang": "en",
-   "date": "2026-10-16",
-   "tag": "",
-   "ko": null,
-   "score": 7
-  },
-  {
-   "title": "Institutional forecast: HBM prices are expected to rise by 80%–100% in Q1 next year, with long-term memory supply agreements potentially locked in until 2035.",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczJHd2xvcXBSZmF5QXdvd3RiaUxNdUw3QW1NejhidmtyZkx5WGg4ZGRuU09SVGVVeTlKVzNhbVZPY09nVEp6d0FCa1l1OGhfY1J1VXNiV01heGRVamNRTFFEeXFzX0J0clNGN1UwUFVUdkpnZzVVYVR1RG04MGxiUDM4b1l6YWVEMVdESlktU3NVb2V6b1Fxa0VwQmVUSnFaalFhS0F3?oc=5",
-   "outlet": "富途牛牛",
-   "lang": "en",
-   "date": "2026-10-16",
-   "tag": "전망",
-   "ko": null,
-   "score": 7
-  },
-  {
-   "title": "机构：预计HBM明年Q1涨价80%–100%，存储长协有望锁定至2035年",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TYU9tTm1PakJkbHB4YzZfdWJDMlU2bUlUTFJrM2pYbnFha3V3ajNTVDRINzVrekhGTFNaU0pDWGZLRDVIQXZUYjBHRlNzemk4c3p3?oc=5",
-   "outlet": "华尔街见闻",
-   "lang": "zh",
-   "date": "2026-10-16",
-   "tag": "전망",
-   "ko": null,
-   "score": 7
-  },
-  {
-   "title": "SSD price tracking 2026 — Lowest price on every M.2 SSD from Samsung, Western Digital, Crucial, and more",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTXRmYzhQeTJGODFpdVhXMHdRNExQMVVfZDFHS2tVcHdlODNBQ09kaHI3bm9HcUVOc09aR181blg2OTEzNXpKTUJQeWlFN3FIUDhhc200azR0LUx2TjdWN3pRdThmQ2N0WnpPcC1ad01QcUNNVnFmOVVDUnpRbWJkNzZsbjN2SFdaUEF3T1oyVkRaRG4weVhNRXdxUzEyM1JkYms4?oc=5",
-   "outlet": "Tom's Hardware",
-   "lang": "en",
-   "date": "2026-10-16",
-   "tag": "",
-   "ko": null,
-   "score": 6
-  },
-  {
-   "title": "江波龙：预计前三季度净利润同比增长1865%-1991% 存储价格上涨对盈利的边际贡献显著趋缓",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VZFY0d0pQRWlBbm53SnEyN1JuLTM5amYycWRiVVNWOVN0MHpDaUNnYXc2bzBpRElySDZNT0dKVHVyQXFLRWEtRE5RMVF5bTBSaXZTcEdybG52eFhtcWtYSG1Dcw?oc=5",
-   "outlet": "东方财富",
-   "lang": "zh",
-   "date": "2026-10-16",
-   "tag": "전망",
-   "ko": null,
-   "score": 6
-  },
-  {
-   "title": "存储涨价赚翻了！江波龙：预计前三季度净利润增长1991%|非经常性损益|资产负债|现金流|高通|上市公司",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wRmw3YzZKNFVTbEhhQWttZ0dwNFd4TjMyM3hXUm9vVGlsMExhR2RYVjNxREtiWENZX0lYaWFXVV9FU1gwOEY2d2NBVTc3SXFFNDhOci1FQ0RkQXg5REIyNG8yd0E1cUIxV19rWDU4T0NpUFBnSmdlb01SbFc0NGs?oc=5",
-   "outlet": "finance.sina.com.cn",
-   "lang": "zh",
-   "date": "2026-10-16",
-   "tag": "전망",
-   "ko": null,
-   "score": 6
   }
  ]
 }
