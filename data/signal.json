@@ -1,7 +1,7 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "verdict": "보합",
- "score": 0,
+ "score": -1,
  "counted": 6,
  "rows": [
   {
@@ -13,9 +13,9 @@
   },
   {
    "name": "NAND 웨이퍼 최근 변화",
-   "value": 0.0,
+   "value": -1.28,
    "unit": "%",
-   "dir": 0,
+   "dir": -1,
    "note": "512Gb TLC 주간 변동"
   },
   {
