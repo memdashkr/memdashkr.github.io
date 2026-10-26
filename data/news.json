@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "title": "HD현대, SK하이닉스 전력기기 수주 릴레이",
+   "link": "https://www.thelec.kr/news/articleView.html?idxno=64263",
+   "outlet": "디일렉",
+   "lang": "ko",
+   "date": "2026-10-27",
+   "tag": "",
+   "score": 2
+  },
+  {
+   "title": "삼성전자, 첫 클립형 이어폰 '갤럭시 버즈 온' 출시",
+   "link": "https://www.thelec.kr/news/articleView.html?idxno=64231",
+   "outlet": "디일렉",
+   "lang": "ko",
+   "date": "2026-10-27",
+   "tag": "",
+   "score": 2
+  },
+  {
    "title": "[반도체포커스] 엔비디아 루빈, HBM4 12단 하향 없을 듯…차세대 루빈 울트라는 가격 급등에 8단 전망",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RdWJxTnlYMXpqdy1LRHRZckpna2REOUtaUzQyMUtTNGJGV0FLWTZQWmpualRPY25hdlRLbTcwc2piRlB4aW9UNjlQcUJVbjI1SWVWR2FXM0k3eEljZmlUcXNTSV9kd21VWkJWcjFabVNrZkhjZW13?oc=5",
    "outlet": "이코노미트리뷴",
@@ -100,6 +118,53 @@
    "score": 5
   },
   {
+   "title": "CXMT拒绝以更低价格向苹果供应存储芯片——ECNS",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMVhLSW9NVGlxb2RsbXVIUHUxazhwQlU5ZmNrOUN5YzRDaEVKakY0dDZ5RFBaaGRsSHpJc2tkelJGYjVZa2l2a2d1bF9xcE15VGVEQnFSWnVKTm5oQlVRNHh0RXloWGZOalJVREUySDg3emU0SVNTeDQyMGtBSTF4clVmYVN1U2dLSS1WUnZJTW1RVUJKdENGZU15NnRfcGduMmY3emp0NVRidw?oc=5",
+   "outlet": "UA.NEWS",
+   "lang": "zh",
+   "date": "2026-10-26",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "\"반도체 호황, 더 가파르고 길게 간다\"…대신證, 범용 D램·HBM 동반 성장 전망",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4RHFDMUVlZjdhS1Jjc0dRY196MGg5Zm41ZnJnRl9aV2hsY1JHN3FvbVp1YVo5eTQ1TUhfY2ZTOU5NbGZ1eWVwSjRZMW1oLV9tRnpGeVBlWTB2Y1VpblQzWkhKRC0xdjBRYkJfX2NiWm9DVEcxMDNretIBeEFVX3lxTFA4RHFDMUVlZjdhS1Jjc0dRY196MGg5Zm41ZnJnRl9aV2hsY1JHN3FvbVp1YVo5eTQ1TUhfY2ZTOU5NbGZ1eWVwSjRZMW1oLV9tRnpGeVBlWTB2Y1VpblQzWkhKRC0xdjBRYkJfX2NiWm9DVEcxMDNreg?oc=5",
+   "outlet": "뉴시스",
+   "lang": "ko",
+   "date": "2026-10-26",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "存储价格翻天覆地…中国人从旧智能手机取出芯片再售卖",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnZ6cWJhYkpyTENJejVXU1F0ZWl3RUVCbWZMSGFsNnk4X0tQYjhLalZLRjJ5d1RZbHhhczJDM19CMEdGcnczajRsQzVrZU9fRmNwdHQyczJoR19TU1J3RmZkb2J1WkV6dnNQeHZ0eWFHcnBTTDB4LXZYWmpXdDd0cmVUeDNIVHA1QS1DVko0OWIwVUlqSGxtaA?oc=5",
+   "outlet": "朝鮮日報中文版",
+   "lang": "zh",
+   "date": "2026-10-26",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "삼성전자, 3분기 HBM 매출서 SK하이닉스 추월 전망…번스타인 분석",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWJxNnVLMXc1dERVV1NHMjVRQWJabGVZZE9OV0JJT1d2R1lmMXZYQTJCQ0pYSXE4Zk1SeWFxLTZra3d1ZjQ1UG5pVQ?oc=5",
+   "outlet": "아이뉴스24",
+   "lang": "ko",
+   "date": "2026-10-26",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "[기획] SK하이닉스, 3Q 최대실적 전망…D램 점유율은 주춤",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uN3JLUUs1OXBLVjNlLTFPWmQyUUh2Q1VSMGZobmpodnlmeVBKQlJzVmg3R01LMEJUNERBdzNERF9ieWliUW53QV81S0NXcEdnbXZTSVNvWUtrT3RMcVF6aWJjalNuRjNaMGctd9IBcEFVX3lxTFBweWg2bXp6ZTljLXMyd0NSS0VydTl2TC04UmV1cFlTdmdkM2JES1psSUFDVE9INjg5c0RET19WQ2NNZnpySkVmU3l4M2F0SDViU2hYU1I2M0lzNHd0MF93Z0FOVVlqMWhrTVpuMUxtYzI?oc=5",
+   "outlet": "한국금융경제신문",
+   "lang": "ko",
+   "date": "2026-10-26",
+   "tag": "",
+   "score": 3
+  },
+  {
    "title": "CXMT’s Rigid DRAM Pricing Means Rejecting Lucrative Global Giants Like Apple, But That’s Because The Company Has A Far Greater Goal; Achieving China’s Self-Sufficiency",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXbnE4U3pYcFh6aV8zV1FsMzUzY2U4LVo1QnhSWE1Dek5obHAyZm9EclpRTlBTN0FHODV1LVpHVGZCWDRhUDk0WUdhTDJTeXNRdGk2NUV2dy12SVgtY296dUZiVzBUNHJoeFB4UlMtQTZqOU1uZmVv0gF8QVVfeXFMTnVGMHlYQ05oa0RsdDliQUVEeFd5WmZSYm5pRVhlNzRMbnRUd3U1SXprdFlKaUREUWFGbFR2S09jYm51NnJjTEFYdzFuOFByMzdIVFRDckdQNFNvLWNHR21UR29KUV9QNUtwM1Jqd1BnZ2FZdDBqUjAxYUVfSg?oc=5",
    "outlet": "Wccftech",
@@ -142,6 +207,16 @@
    "title": "SanDisk's Two-Pronged Story: Firm NAND Pricing Into 2027 and an Exclusive Meta Role",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTdQaDdkdjYzOG1Ic1daRlI5NmQyemVUOUhFWHF6TGY5UWJ1NXdsclNELXpWV2ljZ05GZEE0YWhEMWFxRk9MNlYzMzNucWZ4YTNRdjVJVWxsZWR3Vzk5RUotdmlNYzd1TkJyTGRpTTRGcHd3MGRGV3FOTXd6NC1GbEl5VXJpejgybzZndXpOR2E3dFR3Q2wyTzlpclFRblNlMkM3Q3RtVFNJZWduN1ZtbVpDTWx6OFItT3I3cXBjanYteHFYZmNSZUtSWU1oblBGNXZKQlhTWGZfWlFYS0VqdVBlMXNmdll0QkE?oc=5",
    "outlet": "ad-hoc-news.de",
+   "lang": "en",
+   "date": "2026-10-25",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "Roundhill Memory ETF (Derivatives) Price (DRAM/USD) Today | Live Price, Market Cap & Chart",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ycDBzeXNheWdWRDNlUHBFU1luSWRYQjJjV2cwQWJNeHN4bzI1QXhvRzJodFlON2xRTlhUaGhpemZKb3hHRDh6blpBcmJvanBtLVNFSU5NYU54VUQxV3EzUWFmVDR5UnA3dDlPcm1ZLVRMNlU?oc=5",
+   "outlet": "Binance",
    "lang": "en",
    "date": "2026-10-25",
    "tag": "",
@@ -356,81 +431,6 @@
    "outlet": "UA.NEWS",
    "lang": "zh",
    "date": "2026-10-20",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "하나증권 \"DRAM 가격 상승폭 확대 전망…낙폭 과대 활용해야\"",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56QmlIdmthTC1XUElrRnNwTlU4cC1UdWhNQWgzaWZzamtLbk0tUGc1WXBwNzBGT1NPX0gxbHdJbVhXRlpsT180Y1Y5Rm1fNGlSUTlFbllmUGdDbUUzYTZLeFBvUWcxUlRwMzdXU3pNNEc2QQ?oc=5",
-   "outlet": "KB Think",
-   "lang": "ko",
-   "date": "2026-10-19",
-   "tag": "전망",
-   "score": 7
-  },
-  {
-   "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWhfNUhYYTVPQUJZQmw4azJVMnpCV0F1OV9wWWduNE1LQjNTcXRsTGpmLTduV3FhZnFISE5zcDhfRTdYVUVvZ1A1a0lGZUs1a25oOTg3QjFhUFRINkw4bHpSZGJ6Tk5XczZUcUtjcnVjZ01sc0Y4QU0tRFlOZENpdmh5MmdZaWRUa2x2cQ?oc=5",
-   "outlet": "digitimes",
-   "lang": "en",
-   "date": "2026-10-19",
-   "tag": "",
-   "ko": null,
-   "score": 7
-  },
-  {
-   "title": "DRAM持续涨价，存储龙头业绩超预期？|SK海力士|营业利润|韩国|财报|机构",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZFg3a0lMREszeEdGUnJxLWhFUl9VT1V1RHlweFVpVzVqZE56ZmdkYmlTbnBjV1NPOEsweXlDOC1MUEdDWW1BdVJaaV9jMjBKMDdYVHFBNS1WcDJncHpha1V0UHBCNUtHMW9NRk1STGlFYU84eXVrT1BtOGExRHlEMDE2dzBraTVlLVVDYkhoM20ybWdWdmszVDhrUlFoYzhtY3pLU0x4UEl0S19YandqUkRWdjNmVy1ieFpiSWJ6TE1Wc19QUFNCN004OVJMZ3JZVjlScTA5WElOaVF1TGI4Y1J6Y3c5bGdac19OR3Fib2VNWS05MzFmVEFrUGp0b0xUZkpTaU52OGpCMUF5?oc=5",
-   "outlet": "新浪财经",
-   "lang": "zh",
-   "date": "2026-10-19",
-   "tag": "전망",
-   "ko": null,
-   "score": 7
-  },
-  {
-   "title": "“범용 D램부터 HBM까지 다 오른다”…‘AI 거품론’ 우려속, 메모리 반도체 가격 ‘껑충’",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Db05kODZ5el9mcUNSRDdvajRydlpLVFhjRnJvTFAyNGhHS2NGQ04wTEVqYmkzSjlWSmpMemE1VjNlTzk0UkZvelByckMzZXpqMGNVc2pvUUJnQV95a2xmeG85X21TOHJI?oc=5",
-   "outlet": "CEO스코어데일리",
-   "lang": "ko",
-   "date": "2026-10-19",
-   "tag": "",
-   "score": 6
-  },
-  {
-   "title": "중국 D램 생산능력 내년 31% 급증…메모리 가격 주도권 흔드나 [메모리 패권, 가격전쟁의 서막]",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wM2ZZNnhNZkowY0FEMWpTRjRpVE83Mk9kVkZoQWJtcjVjUFFhbklRVjJGbERHbXJOWTd4OG5yYWRPLXhlMEdJNzF6S29JeDJLbGo1bmNsMDczQjRfeko2NUI5cU80VjF6dTktRTNB?oc=5",
-   "outlet": "이투데이",
-   "lang": "ko",
-   "date": "2026-10-19",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "\"3개월 뒤 HBM 가격 2배 된다\"… '장기계약' 후폭풍",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPMzkxWTIxcGd0X3ZtcTVZYktDMTJad19CNW5teW9WNDV1dFhBSmFTbGpXU202d21BYUN4Q0xVb0NRVk9zeVc2YXJzd1YxZw?oc=5",
-   "outlet": "www.dt.co.kr",
-   "lang": "ko",
-   "date": "2026-10-19",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "머스크가 주목한 중국 D램···삼성·SK 가격 주도권 흔드나",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02WkptNUw5WVU5ZFc5WEVTekRXYnItMjhOTUp2ZUdLc3hUS1ozd2dTb0lwQjBXN3dTdGptUWhGWnBXdEVSNFdKQVVmSHoxbEF4Y2VyMHNVNTJaQTNDbmVnMExyTGNjc29URUE?oc=5",
-   "outlet": "뉴스웨이",
-   "lang": "ko",
-   "date": "2026-10-19",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "资本热话 | 长鑫科技市值蒸发超1900亿，存储涨价红利迎边际拐点？",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSElEdzRxbU9ZUkduVXJZSEhpcUtmRVVOcFVxU1J3c2VMS3AyejhiLWhrVE5xNjBDdTNWWFBnTUI4VEk1Z01wcmFYYW9XelVoOUxYdzhsZEhhZ2YyNUFianVPUUg0REdfSTJhMDdBWE54UkFiSWdYS0ZhNENUOFhsakxtTVRQTmRE?oc=5",
-   "outlet": "搜狐",
-   "lang": "zh",
-   "date": "2026-10-19",
    "tag": "",
    "ko": null,
    "score": 5
