@@ -1,13 +1,117 @@
 {
  "items": [
   {
-   "title": "AI 시대 ‘용량 확대’보다 ‘가성비’를 따져라 … HBM에 날개 달아줄 연결반도체",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BWnBJY3VmaGROWjZ5UTZnX1Y5SWdmbFpMdDdaUTRLTzhTZDg0OC1DUU55aFJweS1VRkI4RnUwVWQ1QW1qSUZRdjJTWnplazNaZUV3MXhR?oc=5",
-   "outlet": "매일경제",
+   "title": "10월 D램 가격 5.8%↑…낸드는 21개월 연속 상승세 멈춰",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xV3J1NzVCV212RXBIc1V4NzZKTVFPVURZbEd0akxYZDZQYkI4SjVfdHhNbjNWS2k4T3pxQnBkM29LVjIxUkRfMG9UdW1iaWE3LWY3eFJaSjJYVnVqVWszdtIBYEFVX3lxTE4xV3J1NzVCV212RXBIc1V4NzZKTVFPVURZbEd0akxYZDZQYkI4SjVfdHhNbjNWS2k4T3pxQnBkM29LVjIxUkRfMG9UdW1iaWE3LWY3eFJaSjJYVnVqVWszdg?oc=5",
+   "outlet": "연합뉴스",
    "lang": "ko",
    "date": "2026-10-30",
    "tag": "",
-   "score": 3
+   "score": 8
+  },
+  {
+   "title": "4분기 PC용 D램 가격 최대 18% 상승 전망…낸드는 제품별 '희비'",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNTVxZjFILXN4ellOVUxYQ0xSb0k5UWZLSVEyS0EwWXRZZTY0NG5jLU44UklGcTlVWERaVHI2WEFxeDZ3Q1pvM2YwV19DMUdNWlVhUjg1Z2NIUDE0Q2VJ?oc=5",
+   "outlet": "조세일보",
+   "lang": "ko",
+   "date": "2026-10-30",
+   "tag": "전망",
+   "score": 8
+  },
+  {
+   "title": "D램은 최고가, 낸드는 상승 제동…메모리 가격 흐름 엇갈려",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHRYVjQ0WVFDQlBINm5HOFFsR25NMlAwT29tUkVqVU5PcUVMMjRYUV9OZFhUVlZUUUR3LVE2TU9ZakJPMFpjTGdyUWNJY1FEWmw3NXpDQUZ6REpRN002eVMwQ05jNUdua0dPVzRCbnp1a0JKWVIzZ3RPNm5HYVdCeFlkblVDUQ?oc=5",
+   "outlet": "글로벌이코노믹",
+   "lang": "ko",
+   "date": "2026-10-30",
+   "tag": "",
+   "score": 6
+  },
+  {
+   "title": "10월 D램 가격 5.7% 상승…낸드는 보합 전환",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rQ19aUnk5YXdoVnNEY085bU13ZFJhYkgwRTBGZGg3TlVReU5aR3hIeGhxWEtYZUVhR0IxVm5Zcmc4RHBKbVlMS251c3UyTDFTUXFERExR?oc=5",
+   "outlet": "지디넷코리아",
+   "lang": "ko",
+   "date": "2026-10-30",
+   "tag": "",
+   "score": 6
+  },
+  {
+   "title": "D램 가격 10월에도 역대 최고치...낸드플래시는 21개월 만에 상승세 멈춰",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mRUV0Tm1qVndqc0hXQlBvYmE4bEludTlBWUtoUlBXc09ZNXNlb2JwN01iOENSaFZHQXRmLUwySGw5djBRNWpfSjNwWkpfMkhqbHhYZGFNU2xHT0I5Rk5ST0NpVU5vNFk?oc=5",
+   "outlet": "M이코노미뉴스",
+   "lang": "ko",
+   "date": "2026-10-30",
+   "tag": "",
+   "score": 6
+  },
+  {
+   "title": "D램 가격 또 역대 최고치…낸드 두 달 연속 최고가 유지",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6WU9hRk1XVlRiMENSbkxlYjZab2owQjdDUHNDbEM5RjlGWEl6NXF5cTJqejVnU3pSczhFVTdqY3Jmc2xpelEwWlJXcUNDM1BRVmNHT3cxQnEyZ3FlWW5qenMwelU?oc=5",
+   "outlet": "뉴스1",
+   "lang": "ko",
+   "date": "2026-10-30",
+   "tag": "",
+   "score": 6
+  },
+  {
+   "title": "CXMT Turned A Profit As AI Lifted DRAM Prices",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WWHQzX3loN294enFqYlhFbzFJelBIQll2dWRGMjFLWnk0NURSWmltVWs3bHZ1SjZ4UUNIUklPSDJUOFV1dUI5bXAyTFM1YXpQWUExQWYyTnF1UEF4V3gwZmprSWN2dnhzYkFzRHZpZUlMREMwRnlvZEt0RWRuNDg?oc=5",
+   "outlet": "Finimize",
+   "lang": "en",
+   "date": "2026-10-30",
+   "tag": "",
+   "ko": null,
+   "score": 6
+  },
+  {
+   "title": "10월 D램 가격 또 역대 최고치…4분기에도 13~18% 오를 듯",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLR2tQU19RcG1lRDNZMTZmQS1jdjNOUTB0X0NXUjVjMm51dkVQY3JhbGVlUlZtc2lKamFCSTI0bzJUVUFyeTQ1WjhnQ2o0Rkw5Mld0QkN1dmRNQQ?oc=5",
+   "outlet": "파이낸셜뉴스",
+   "lang": "ko",
+   "date": "2026-10-30",
+   "tag": "",
+   "score": 5
+  },
+  {
+   "title": "DRAM Prices Reach New Record in October",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52MHJORjA2eUp3aWttNVVVbG1zWHBfLTFSMTdHazZNRlVMVFU5YXdwTy04UXo3dk9uSXV4dXV5SGlQLWxpdUNjQXVFR2xZb2ZIejZpSjRsYmJwczY1Z2JhdnRVd0NDSTVmeGpEMkgyNnVnRGRE?oc=5",
+   "outlet": "Businesskorea",
+   "lang": "en",
+   "date": "2026-10-30",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "[News] Audits, Rejected Orders and a Shot iPod: Apple’s Reported NAND Playbook Before the AI Memory Crunch",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcnZFNDdVQ2U1d09DQW41a1RMZktydm4zR0c2Tl8yZFVmOWpadXZFQUVPNklZQXp6bU9lSnBVZzZRWV9OdzBwbGU5d1lnajYzb0pRR0UzS2tpM25uYnJXWENLZ3U0ZTFUOVhyQzR3VE9WVjJucFhGVHhRVXpIeGhDYWdZOHM0SDU2UWR1aVlxb1NxZ0RSb3Rra2Q0NzhObGwzOGRhWXRxVzI5ZWhIZUMzN1lJTnFuajlua2xmbFhSNzNBeGMyTzM4eE5abnZVZlQ3LTN3cDNyWHlkR2lJSldhQ2MtZ24tLUU?oc=5",
+   "outlet": "TrendForce",
+   "lang": "en",
+   "date": "2026-10-30",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "内存、SSD双双降价，存储原厂却赚得盆满钵满 | 闪德周评",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXl2YnRmSmdNbkU3MndXR2czQW41S1NVRkVUYmE5bVpaMGI2UmgyWk42QVhMbU9TbEFlVDNUQVVHSjhxWWtJTDVOcVJON1c4eU00emxlSW1QMDFYem5RRGZFczBEc1JNYXJpSE9GNjhUOVdLTUx4anhWX0syVUJpUDFMajNxOTBUS09qZA?oc=5",
+   "outlet": "搜狐网",
+   "lang": "zh",
+   "date": "2026-10-30",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "长鑫存储拒绝苹果报价这件事，放在当前A股半导体板块持续弱势的背景下，确实构成一个",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LZTItZlQ1U2ozajU3aVNVelJqUjRTYkJOZlBhaXRacE9va2hJRi1nc25fV1FEdE5hcnF6TFBzV19abjctcXNtZmg1cy1hcWVfTU5ZR3RYMjRacndtOWUwNzNPLWdJWGpwNXF3?oc=5",
+   "outlet": "财富号",
+   "lang": "zh",
+   "date": "2026-10-30",
+   "tag": "",
+   "ko": null,
+   "score": 5
   },
   {
    "title": "7~9月的营业收入为860亿日元…市场预期下降……内存、铝价格上涨，成本负担加重。",
@@ -117,42 +221,6 @@
    "score": 5
   },
   {
-   "title": "삼성전자, \"엑시노스 2700 시장점유율 확대 전망\"",
-   "link": "https://www.thelec.kr/news/articleView.html?idxno=64526",
-   "outlet": "디일렉",
-   "lang": "ko",
-   "date": "2026-10-29",
-   "tag": "",
-   "score": 4
-  },
-  {
-   "title": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\"",
-   "link": "https://www.thelec.kr/news/articleView.html?idxno=64510",
-   "outlet": "디일렉",
-   "lang": "ko",
-   "date": "2026-10-29",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "반도체로만 106조원 벌어…\"삼성전자 내년 HBM 1위\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVWMwU3BPNW9VWU0yUHdPQjlyZnhlc3dlcy1HQ3ltcEh1OGxtaUUtWnJSWUdOTFNKSUhwQWtaRFZvOUNlNUQ5Qy12X19BWW1LLVRuSUkwQVpaQQ?oc=5",
-   "outlet": "한국경제",
-   "lang": "ko",
-   "date": "2026-10-29",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "삼성전자, 대형 고객 10곳과 메모리 장기계약…내년 HBM '완판'(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVzI4Y0VCX3ktNnEzV1c5OHNXc21nX1BOczN1LWNFcXVXdkltZlpCbzJfbDdUMXdVakNHdzhIQ0ZKdjlibHhjRU9QRHd1WnZEUEZDanZOWFV2MUHSAWBBVV95cUxOMVNmQVBJU2ZjWDc1QWlUOXFZRXlHWE9lclZqNnBfOXlKN1h0ako0YlF4Z1BEbmZrMUFxUnpoNGIxYllVci1OSXFGTngwV09aUFJiSG1Lb2hEdlJCQ1NIZGY?oc=5",
-   "outlet": "연합뉴스",
-   "lang": "ko",
-   "date": "2026-10-29",
-   "tag": "",
-   "score": 3
-  },
-  {
    "title": "[Insights] Memory Spot Price Update: NAND Price Cuts Accelerate Amid China Phone Discounts; 512Gb TLC Sink 9.19%",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWFFrQ1JLVmNZVXZVNVVwWFlOQkIxSmQ2SDFPRWJyaElENmRKQXlPSXFWQnZXRVdXbEZlMnhRWF80YVRMaVF0NFNlcTNVd3NPWVpTTGtaSjgxQUhHUzV6MXZOdFh4UGdYSWY1X3d0YldRaE5fVnhYV0VkcFFpbHBnckhXblY4WFg3YU1VTmY5UEdfLXotSmZMaG5IbXB1YTI2am5sc2QzWG5wNURRN29uX2k2MWlBSzBFdlZiTFpiM09EQU5nTm9fTjNaTFFSMjNCM0NDMjhnTVVLLWVSUTZnNXJwVmZDTGRXTnFvQw?oc=5",
    "outlet": "TrendForce",
@@ -211,36 +279,6 @@
    "score": 5
   },
   {
-   "title": "How to purchase SSDs during a NAND flash price drop",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1NsajhmcXJMQ0VZUHZSUmN4ZzFvdFpaUkNFOEp6dEF2MUxjTFMyVVBaalotRHQxMTFXS2E4VFJJZWRpcWRSNVIwajVUeks0OHp2X2FBNHh1NlZ2SFlUMURZNEZqbkRZZzAzdWp1RzMxelAzMjdzSDVFcTJRaGk2UEZvV05yc3VhaGdZUFRIY2RQSVZBRGc?oc=5",
-   "outlet": "TechTarget",
-   "lang": "en",
-   "date": "2026-10-28",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "SK Hynix Operating Margin Nears 80% on Soaring HBM, Commodity Memory Prices",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmaHVnZlJDNnVlMHZINjBSSzRmWTNSLTBBdkVHbldOVzhGRGU2SE5lVzdMZjU1ZGhvbHkyNFdHc3hkSk1hRG1GQ1Q1NVJ4NnpweFpXNg?oc=5",
-   "outlet": "bloomingbit",
-   "lang": "en",
-   "date": "2026-10-28",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "Roundhill Memory ETF (Derivatives) Price (DRAM/USD) Today | Live Price, Market Cap & Chart",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ycDBzeXNheWdWRDNlUHBFU1luSWRYQjJjV2cwQWJNeHN4bzI1QXhvRzJodFlON2xRTlhUaGhpemZKb3hHRDh6blpBcmJvanBtLVNFSU5NYU54VUQxV3EzUWFmVDR5UnA3dDlPcm1ZLVRMNlU?oc=5",
-   "outlet": "Binance",
-   "lang": "en",
-   "date": "2026-10-28",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
    "title": "存储芯片巨头财报周来袭！大摩、花旗、野村密集看多：“存储荒”持续 HBM价格或翻倍",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVTDRfVjA4Z0JCUjY3RThjZDN6OFlLN3VCbXFqRURQYlRUeDZ5QjAtX2lOYVZORzZvbEFfLVJ3Y0pCM1g0bFJwdkxVa0JiRHdpY0FwMzR0NkgyNVpPcnRrVQ?oc=5",
    "outlet": "东方财富",
@@ -271,15 +309,6 @@
    "score": 5
   },
   {
-   "title": "SK하이닉스 \"3년치 D램·HBM 완판\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ka1ZsbW9yenhwRDluSEF1Vm9uUGdRTzQ1QlZobmJTR2pjVUhXZ3FNNXMtajZ4cnppcW8tMlkxWDF3SW9MRk4wTDZPb0YyYTNianE0X0d2T3dQUQ?oc=5",
-   "outlet": "한국경제",
-   "lang": "ko",
-   "date": "2026-10-28",
-   "tag": "",
-   "score": 4
-  },
-  {
    "title": "DRAM price gains fall short as supply shrinks up to 50%",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjFGdnZpeUE1cDM3WU1fY0hwVDgzbFloTG5iYXdXR3NHYzR4QWdZWUE0bHFobnJTQUFVTWg5WXZtS3djbE4zblVwYVJqdUptc19CQmh3dWFWOHJOY2VGZllIRTlCZklvQk9KbkYyZmUyUUZuakp3YnAwTjV3WXJzT2VoV3ZoQms?oc=5",
    "outlet": "digitimes",
@@ -303,26 +332,6 @@
    "title": "存储价格小幅回调但仍处高位，华强北内存条市场出现有价无市局面",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeUZYM1JkMk5odE1wXzJSSnkxSXU5SVFhcXVPUjBZdFdwemNUY2ZqUDFCOTV5c29UWEt3T2lRcHpGaFpSX3dzcTFsa19DemdlcnJ1MVEzOTFzNWR4X2h2VWdEQU9KcTM4NENZenlQVHVuRnpVZ2dwOFlnZXJ5N2tKOUJJRUdMV0wy?oc=5",
    "outlet": "搜狐网",
-   "lang": "zh",
-   "date": "2026-10-27",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "不愿被苹果当枪使！长鑫存储拒绝降价，底气从何而来？",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFZUNUUySEs0cXV3OVdxUWdBTGhJTGxLaFZISlZ4N3hBb0M1TW0wem9NamIxMUJCc2NxTm1vTzc2c1RVT2lnWHZEU2stblRaQ2JCdGhUbC1tRmZsTzYtYjBNZU1NTExvMExDT1BfRHhSOTN4YkdkQ0duUFZjNlBEdm9PTmwyRjRl?oc=5",
-   "outlet": "搜狐网",
-   "lang": "zh",
-   "date": "2026-10-27",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "加拿大皇家银行：“存储荒”料持续至2027年 HBM价格明年翻倍",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4QTE5N2VjS0k5bFNJU19qNHNzcDhCbzRMbHNTUkVzSVRuY3hWdHB5XzlTM2IzQngwN1ZKR2xrZXJXMHB0X1ZoemJ2aV9KaEJTNE9wck5nUVBURXhFWXBncVJ3?oc=5",
-   "outlet": "手机网易网",
    "lang": "zh",
    "date": "2026-10-27",
    "tag": "",
@@ -367,15 +376,6 @@
    "tag": "",
    "ko": null,
    "score": 6
-  },
-  {
-   "title": "\"반도체 호황, 더 가파르고 길게 간다\"…대신證, 범용 D램·HBM 동반 성장 전망",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4RHFDMUVlZjdhS1Jjc0dRY196MGg5Zm41ZnJnRl9aV2hsY1JHN3FvbVp1YVo5eTQ1TUhfY2ZTOU5NbGZ1eWVwSjRZMW1oLV9tRnpGeVBlWTB2Y1VpblQzWkhKRC0xdjBRYkJfX2NiWm9DVEcxMDNretIBeEFVX3lxTFA4RHFDMUVlZjdhS1Jjc0dRY196MGg5Zm41ZnJnRl9aV2hsY1JHN3FvbVp1YVo5eTQ1TUhfY2ZTOU5NbGZ1eWVwSjRZMW1oLV9tRnpGeVBlWTB2Y1VpblQzWkhKRC0xdjBRYkJfX2NiWm9DVEcxMDNreg?oc=5",
-   "outlet": "뉴시스",
-   "lang": "ko",
-   "date": "2026-10-26",
-   "tag": "",
-   "score": 4
   },
   {
    "title": "CXMT’s Rigid DRAM Pricing Means Rejecting Lucrative Global Giants Like Apple, But That’s Because The Company Has A Far Greater Goal; Achieving China’s Self-Sufficiency",
