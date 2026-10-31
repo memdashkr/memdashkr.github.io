@@ -1,13 +1,33 @@
 {
  "items": [
   {
-   "title": "범용 D램, 10월도 역대 최고가...낸드는 21개월만 상승세 멈춰",
-   "link": "https://www.thelec.kr/news/articleView.html?idxno=64634",
-   "outlet": "디일렉",
+   "title": "낸드업계, '슈퍼 갑' 애플에 반격 시작?… 1년 새 메모리 가격 4배 '껑충'",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wbE1zNXJ1azlqQjgxZWpxV0lCWUlSZTVNSHM2VUlzNkdYdUUyRnlqeWxuUWtxUEs5dVRUQXZTWXlEYlo2ajZVVEdqUmI4SGtseHU2di1XSjE5RjNVeld5b3B6bUlDMFZrNkFZ0gFvQVVfeXFMUEFrMlRxNkRXbXJlZVRWNklFbEJHdUdnZ2Y0TU5sNGVtRTdfNkhUWUswVFhidVlITExua25EMGUzY3puaWtTZDBEeDRWM0NzYS1wTHRkLUNzTnpoUDg1UXU0OUwxVW1tVnA5Smg5dXpv?oc=5",
+   "outlet": "더퍼블릭",
    "lang": "ko",
    "date": "2026-10-31",
    "tag": "",
-   "score": 4
+   "score": 5
+  },
+  {
+   "title": "DRAM Prices Rise 10-15% in Q4; DDR5 Kit Hits $450 [2026]",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXB3TVZFakZ4R3Nna0F6RE9uUlZuQ1lfQkNxWGhJa3p2d3ExeUNwLTd3MDBTekNaZzR0bGFXTk9leE5lUUpVZEFZY09kN3ZaeGpmcmM0VkhtUmVMTlhVVU5PUDd4RUJUU2pkMld6bFJxTS1QaWQxZFJjYWJXZDR6WkEzbw?oc=5",
+   "outlet": "shattered.io",
+   "lang": "en",
+   "date": "2026-10-31",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "内存涨价带火二手手机！99新手机成华强北抢手货 二手iPhone15ProMax逆势涨500",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZYXlrSTc0YlZTQzZLenRvcGg1bDN6TlVHOXhSRGJicnJEMGtPY1FVYmVWWHJBeVpDU0xWLVRGX09WTGI1bWFqMlMzVkpkYzg0bzlMcVpMS0ZVaVpHQ2d2NUZwZVVuLUtVQlNxN0ZNTGRpdjhX?oc=5",
+   "outlet": "新浪新闻_手机新浪网",
+   "lang": "zh",
+   "date": "2026-10-31",
+   "tag": "",
+   "ko": null,
+   "score": 5
   },
   {
    "title": "10월 D램 가격 5.8%↑…낸드는 21개월 연속 상승세 멈춰",
@@ -94,6 +114,16 @@
    "score": 6
   },
   {
+   "title": "DRAM prices hit all-time high, NAND stall after 21 months | Samsung, SK Hynix could slash 2027 PC DRAM by up to 40%",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWlfZ1Y5alo5dTJtMUtWaHZTVm9OeGZlc1ZiQzFEUHp3TjRXWGhwYlRYQlM0czdxajFMakNUQ2NKY0oxeW9SMDBtWjNmU0tUYWRxcUZ2a3VjT2Yxc01JWlVpOGJzREN3SXdaOUQ4MmNNN29HSVNqX0pjNjNBWXZqZEJmQlJvQ2NCRzNNTdIBkgFBVV95cUxQc3JJLWdRY1g2N2NYQm9RblpFODlmMFVuZ19vdVRydFFtb2FPWnoxVHVsWFV4ODBWVWJPeDNiOFZqcWhaVmIzOHVNTERTZmVpYjhzS3pCSnZHS05nRUhCTGV0aE5IMG55TENDdmFNdjRLYTZjMXpEcU12NURKWFhTdkZldW1XcmtYWHBGOTIzenEzZw?oc=5",
+   "outlet": "Sammy Fans",
+   "lang": "en",
+   "date": "2026-10-30",
+   "tag": "",
+   "ko": null,
+   "score": 6
+  },
+  {
    "title": "10월 D램 가격 또 역대 최고치…4분기에도 13~18% 오를 듯",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLR2tQU19RcG1lRDNZMTZmQS1jdjNOUTB0X0NXUjVjMm51dkVQY3JhbGVlUlZtc2lKamFCSTI0bzJUVUFyeTQ1WjhnQ2o0Rkw5Mld0QkN1dmRNQQ?oc=5",
    "outlet": "파이낸셜뉴스",
@@ -116,6 +146,16 @@
    "title": "[News] Audits, Rejected Orders and a Shot iPod: Apple’s Reported NAND Playbook Before the AI Memory Crunch",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcnZFNDdVQ2U1d09DQW41a1RMZktydm4zR0c2Tl8yZFVmOWpadXZFQUVPNklZQXp6bU9lSnBVZzZRWV9OdzBwbGU5d1lnajYzb0pRR0UzS2tpM25uYnJXWENLZ3U0ZTFUOVhyQzR3VE9WVjJucFhGVHhRVXpIeGhDYWdZOHM0SDU2UWR1aVlxb1NxZ0RSb3Rra2Q0NzhObGwzOGRhWXRxVzI5ZWhIZUMzN1lJTnFuajlua2xmbFhSNzNBeGMyTzM4eE5abnZVZlQ3LTN3cDNyWHlkR2lJSldhQ2MtZ24tLUU?oc=5",
    "outlet": "TrendForce",
+   "lang": "en",
+   "date": "2026-10-30",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "Kioxia's Slowing Price Momentum Meets a Crowded NAND Field",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFJoVzVPQVE2SjBNa2h5ZTFGdlVramdyclE1ZDVMQ1NpWVBsUmRsNnBDenV3ZUFidS1HZmhLUGQycXVNc2t2ckdhNlpXVHdIWVJWLUlqZ1BiNmRFNVFSaGJObnZHMmVVOVREeU9wdjg3LXp3cUdfTUVkNnZ3bHYxdXp3R1d5U0E3UXJCZmxyQi1menZsaG9zakRTQnhydWktR1hMMGlZckhrUkNyWnBZUFVRY2N2SXZLbzR3YVBmOWU5SnZpaU9RTUpR?oc=5",
+   "outlet": "ad-hoc-news.de",
    "lang": "en",
    "date": "2026-10-30",
    "tag": "",
@@ -210,26 +250,6 @@
    "score": 5
   },
   {
-   "title": "Ai data center boom shifts nand pricing power from Apple to suppliers",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzlxNmFSMXJVR3haQWl5TkowQm9pY3hweGxxNUZSaC15YlB2Nnp5ZWpXT1BrYWZUWE0zQndlZEVFMk9YR3Q5OXROWjhwQThPVUNOeWYyUDNYVGJXc1RZbHhvOS00SWpPc09fNWlXS2pIbUphelA1NVdCT0xWSlYxelV6RGEtZk9aQU16c2Vn0gGOAUFVX3lxTFAzOXE2YVIxclVHeFpBaXlOSjBCb2ljeHB4bHE1RlJoLXliUHY2enllaldPUGthZlRYTTNCd2VkRUUyT1hHdDk5dE5aOHBBOE9VQ055ZjJQM1hUYldzVFlseG85LTRJak9zT181aVdLakhtSmF6UDU1V0JPTFZKVjF6VXpEYS1mT1pBTXpzZWc?oc=5",
-   "outlet": "Chosunbiz",
-   "lang": "en",
-   "date": "2026-10-29",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "Apple's Humiliation as NAND Prices Skyrocket Fivefold: Suppliers Turn the Tables : Global : JKN",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56REN2TTVVN3ZlY2xWd0lsUlR4TFRDMDdRRDlQNkN5LUc1MEF2OEJpX2pNOEZNUHpSamFraU93eTBZU3NxWHVhVFMyczJOM091RklPSlpaLVoxMm45MmJjeHlB?oc=5",
-   "outlet": "재경일보",
-   "lang": "en",
-   "date": "2026-10-29",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
    "title": "NAND价格飙升5倍，苹果遭遇“超级买家”屈辱，存储厂商反客为主: 国际 : 财经日报",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sQmpoM0pFcGVncF9rdUx3WG1qT0RNeGpWelFvZnNxZmh5SmY2LUhuUUNHUFdCX0lFTWtySldzYmFSd09NVGtFUUdCU0ZCV2ZrZVcydFZ4M2ZTU0p0NGlkek5R?oc=5",
    "outlet": "재경일보",
@@ -248,16 +268,6 @@
    "tag": "",
    "ko": null,
    "score": 5
-  },
-  {
-   "title": "SK hynix Price Targets Diverge Despite Record Earnings",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PaHIyWTNqVUtHUHFoRHJNbGVWWTN5bFVVWlRwcm8tNzZQYWx4TlJqTlYzWXZla0REZUp6TnRyLVFkY3pBejF1WWx6TlNJRnZkZkNLcjhyb1RmemQ4cndNa3NpeWJXZjRqdmhLNTJPT1FJbi1z?oc=5",
-   "outlet": "Businesskorea",
-   "lang": "en",
-   "date": "2026-10-29",
-   "tag": "",
-   "ko": null,
-   "score": 4
   },
   {
    "title": "[Insights] Memory Spot Price Update: NAND Price Cuts Accelerate Amid China Phone Discounts; 512Gb TLC Sink 9.19%",
@@ -356,16 +366,6 @@
    "tag": "",
    "ko": null,
    "score": 7
-  },
-  {
-   "title": "RBC：2027年HBM价格或涨80%至100% 存储荒料持续至2027年",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoUGF0RVIyVDVGNW1hLUZNcHl5TWZiUjBjaF9hWWxjdDZVUnFybjRKVTVDXzdFMS1MNlZhOUd0TzlWWUxDOHQtdFpudDB3cFl5dDB4aVVYcElpbFl0Y0lidndR?oc=5",
-   "outlet": "观点网",
-   "lang": "zh",
-   "date": "2026-10-27",
-   "tag": "",
-   "ko": null,
-   "score": 5
   },
   {
    "title": "[반도체포커스] 엔비디아 루빈, HBM4 12단 하향 없을 듯…차세대 루빈 울트라는 가격 급등에 8단 전망",
