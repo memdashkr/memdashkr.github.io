@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-11-02 08:15 KST",
+ "updated_at": "2026-11-02 21:20 KST",
  "sources": {
   "DRAMeXchange": {
    "ok": true,
-   "msg": "12개 품목 (기준일 2026-10-30)"
+   "msg": "12개 품목 (기준일 2026-11-02)"
   },
   "CFM": {
    "ok": true,
    "msg": "7개 품목"
   },
   "대만 월매출": {
-   "ok": false,
-   "msg": "Response ended prematurely"
+   "ok": true,
+   "msg": "4개사"
   },
   "주가": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "뉴스": {
    "ok": true,
-   "msg": "신규 78건"
+   "msg": "신규 98건"
   },
   "기관 전망": {
    "ok": true,
