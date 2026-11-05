@@ -1,6 +1,25 @@
 {
  "items": [
   {
+   "title": "10月DRAM价格再创新高 机构预计四季度涨价态势延续丨盘前线索",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0s4SkZlX0V0ZW5YMlFaU3NRdFNocnFmZXlqdlk1bC1HbUE3SW1uaXRpaVR2enRERVhiOGZaeF9ZV2hJamxKOGE2cE1hQ2xhRkx3Wk1BSEZ3dm83QXEyRXVkNVVDSHAtOWNwVGhUQ245T3AyVHUxMXdvTTlEWEp6d2pIN0kwSWRvM1NNaHJnNA?oc=5",
+   "outlet": "21财经",
+   "lang": "zh",
+   "date": "2026-11-05",
+   "tag": "전망",
+   "ko": null,
+   "score": 7
+  },
+  {
+   "title": "삼성·SK하이닉스, HBM 가격 협상력 확인…AMD \"인상분 고객과 나눠 부담\"",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrRC1RRUhSMXBMcGJ6OGMxb2tfWTM1cU1ERkU2ZWlTdEVhYW1wSUFlUGFkQmlUWEZZWTVTZHFwYUV6cWF6alg2ME1fQXpLVy1PM0xkaVlkWUgtOXZl?oc=5",
+   "outlet": "뉴스핌",
+   "lang": "ko",
+   "date": "2026-11-05",
+   "tag": "",
+   "score": 5
+  },
+  {
    "title": "AMD \"HBM 가격 상승 고객사와 분담\", 삼성전자 SK하이닉스 메모리반도체 협상력 부각",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45R0Uwb0xTc0VrX2tITGJxQVFXSWNzaHFIVHI1ODR2TFpCbEFWWjkyM0RkU1VPZG5tNHNBY3VOZ24yNFN0V1ZNcjgzMlJwbVZndWVqN0RZOXU2MnhmRE1mLUE1VURmN0psLVg0LXVhaUFLWnc?oc=5",
    "outlet": "비즈니스포스트",
@@ -59,6 +78,16 @@
    "score": 5
   },
   {
+   "title": "Steam Survey's 32GB RAM Drop Likely Reflects Survey Mix, Not DRAM Prices",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0cG1xM2NaRmd2SGluU09CMGJlODhheFNpYlhFRXc3U2VGUWZJdU82dlFBUC1zYlJmVk9TWXBYaWs4VmdLS0l6Wl96YUd4VEJCMFRhdVRhSzRoUmNTcGYtRmVvMzNKc3JBZHBMYmlIYWw0dw?oc=5",
+   "outlet": "XenoSpectrum",
+   "lang": "en",
+   "date": "2026-11-04",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
    "title": "存储涨价潮延续！长鑫科技50亿回购护盘 杠杆资金抢筹这些股(名单)",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMjRXXzQ4c3ZVV2hiRHNsWm5zZDFTQmZ5bVNhNUE2UzRTWXYzT0NUbDQ4T3JoTDFOOER4S2x0Sjc1VEhHem9QblZERXVodUZmUkttNUJXZHhlb21QWUh0UA?oc=5",
    "outlet": "东方财富",
@@ -89,13 +118,14 @@
    "score": 4
   },
   {
-   "title": "특징주, 와이씨켐-HBM(고대역폭메모리) 테마 상승세에 3.91% ↑",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NSUZlaVctTndiVE9PbDNFTjU2cjllZi1rVGhuRjZPTnZ6Y2Z2YTNyTzZtNHU1R09ycTc3eWVJQklvbEc2dDNhN0w3NkE2ekVDTnc?oc=5",
-   "outlet": "매일경제 마켓",
-   "lang": "ko",
+   "title": "苹果面临前所未有的存储价格上涨：数月内成本飙升330亿美元，或影响利润率",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHFvNXBUalhka2dHVFY3aEdrcGlBTFVCTmM0WWpaai1WUmM0MF9tdWkyY201NDcxampQcUxNMzVVbExhZDd4eTlSUlFFX3VCWkxOZTNYZk01RmtEQTZmMHBVSGR5RXdBYkNFZFZYMVZCUkx6dzI0Nl9NT0U1SU15X19oYnZXdHk4a1ZQOQ?oc=5",
+   "outlet": "搜狐网",
+   "lang": "zh",
    "date": "2026-11-04",
    "tag": "",
-   "score": 3
+   "ko": null,
+   "score": 4
   },
   {
    "title": "DRAM prices double in 2026 as AI focus squeezes PC makers",
@@ -136,36 +166,6 @@
    "tag": "",
    "ko": null,
    "score": 5
-  },
-  {
-   "title": "Raspberry Pi 5 16 GB Price Jumps $80 to $385 Amid DRAM Crisis",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlN1THhCUUlNMGRpMkJRV3J1OU1VcDlrUElLNjNCbzRnWnpZbGhaSm82TGlscGdPaVNaTjlQc2lxWjl5SUlkZlp2R19aVUFoZy1lTFJDREFxb0tTc3B6Y1U1V3dtekpZMFhYckFmTzBfZHpEQnREVThqdElDdnFHQTVsSWpjZ2dvMzFkdERMeEpKQQ?oc=5",
-   "outlet": "news.lavx.hu",
-   "lang": "en",
-   "date": "2026-11-03",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "存储价格还在疯涨，深圳华强北老板囤货更猛了",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XdVhlRTE3cEEtRzc2UjkxbEdYeU9HMGVOWHlnR1hvMENNbjY2SHcwNHlRMV96R3dxUzRUOWhIbWc2ZG4zNEhaNjVVakowZUxYbGluQW43eWhQTE56SEFpRQ?oc=5",
-   "outlet": "ThePaper.cn",
-   "lang": "zh",
-   "date": "2026-11-03",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "财报透视｜存储芯片价格上行，普冉股份前三季度净利增长2533%，新并表公司SHM贡献超六成营收",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZnlyX3dHWFVMdl9VMWgzTGQ2WlVFcjNGQVduQkc0YXdBS0Zaa052a1VfeUhyMHhHTHVsV0xPa3Jqb01ZTEo5WHdWaHhLY0hXT1dIeHVKbDBkUDhpTXJDUktVenRHQQ?oc=5",
-   "outlet": "东方财富",
-   "lang": "zh",
-   "date": "2026-11-03",
-   "tag": "",
-   "ko": null,
-   "score": 4
   },
   {
    "title": "KB증권 \"삼성전자 내년 영업이익 640조 전망, HBM 가격 150% 상승할 것\"",
