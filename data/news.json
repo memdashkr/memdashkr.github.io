@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "title": "네오와인, '불량 TSV 폐기'로 HBM 수율 개선…특허 등록",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93YUxpS2tnU0VYWUs4SlJsZUVLNWRqdEp1WUlNWU16RlYwM3pYNFgwam15R2dnNTVZOXY4NEVoR1JzQktyMGJSUjI4amp4dw?oc=5",
+   "outlet": "전자신문",
+   "lang": "ko",
+   "date": "2026-11-07",
+   "tag": "",
+   "score": 3
+  },
+  {
    "title": "SK하이닉스 양산 노하우 담은 트리니티팹…내년 10월 문 연다",
    "link": "https://www.thelec.kr/news/articleView.html?idxno=65037",
    "outlet": "디일렉",
@@ -8,6 +17,16 @@
    "date": "2026-11-07",
    "tag": "",
    "score": 2
+  },
+  {
+   "title": "长江存储拟提高新厂国产设备比例至70%",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96SE85Rk4tMzM5NkdDWDhtOWJ1ZFBtanI3eHo4R2xvTzEzcTJ5dVN1cVRZVDkzUEVNaC1Yay1MZXd3RkE5eFFuYWNvdEVHYW80akVzSHRnOFRCWlJlMTBKcVZoTzJpUVFLSkNlQzFhQmVid9IBd0FVX3lxTE5BSzNpZWNDZllOYWljbGt6MXZCUTlHQWxkYUZEbmJ2d3hxUnRJUG9Gb2pNLVdXZ0VqQ2YyOEsya01KUlNaSm4yRS1KQWJqbDBRenNkb0k0NlJjY2ExRUJNZUttNGNLZUpHSVlOTlJXUUlNdzc3WjJB?oc=5",
+   "outlet": "禁闻网",
+   "lang": "zh",
+   "date": "2026-11-07",
+   "tag": "",
+   "ko": null,
+   "score": 1
   },
   {
    "title": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce",
@@ -49,6 +68,16 @@
    "score": 5
   },
   {
+   "title": "High DRAM Prices Boost Reballed Memory Adoption in Smartphones",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZW1kRlh2YnUyU1NPU2M0QzBCbkJFcm8yemt4ZXBVdk1MLThvM0xNVUFCS2hCOVBqU3VQUUZ3UG9Kd3psUWt3Q3NUV0RFWEpPdmdRekFkaTA0elNVbjRtTkdzUFlUdGJSVVM4OUZxeGVnNVl5aXUzeDJMQnVMaDk3Y0ZJcEdhbGk4MEZFaFFPMDY3bU1jMHlQbHZzaHhjSUVKanpYVTQtOHBNcWxBMENLcjlB?oc=5",
+   "outlet": "I-Connect007",
+   "lang": "en",
+   "date": "2026-11-06",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
    "title": "机构：新一代HBM价格将持续上涨 存储供应商四季度营收有望创新纪录",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jbUthTm1COF9MdDcwWk96M293eGl1ZGNYTjFVWVAtSUNwbU5qR1NmamlFLVFTM3hIUzlIeFcxZUhYZ2ZpaldNVFJsbEdsLVM3UWJ3MnprQWVuT3BpcF9uMmJn?oc=5",
    "outlet": "证券之星",
@@ -68,24 +97,6 @@
    "score": 4
   },
   {
-   "title": "中YMTC, 300단 낸드 생산한다…장비 70% 국산화",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GbUFyRENMQzZiWU03ZmhPSmo2dHFEZ0VKSzNrd2ZrakJiX1RCbEVmcjJSa1Y3akEta3RaTFJHY3VsMHpFNXZSd0M0WWticjZ4UUJHZWF2S0nSAVhBVV95cUxORm1BckRDTEM2YllNN2ZoT0pqNnRxRGdFSksza3dma2pCYl9UQmxFZnIyUmtWN2pBLWt0WkxSR2N1bDB6RTV2UndDNFlrYnI2eFFCR2VhdktJ?oc=5",
-   "outlet": "SBS Biz",
-   "lang": "ko",
-   "date": "2026-11-06",
-   "tag": "",
-   "score": 2
-  },
-  {
-   "title": "YMTC IPO 보류에 부담 던 삼성·SK…낸드 추격 제동",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkSXJNTGtpT2s2Z0h0aWFjMUJFejgtem5CQmpyb1RxbWt4bHcwWGhRMkluZ090Vmx6WFBjME1Ka29UdktCRmJaN1JXOWJvWkhZMmhOWWpEaWxkLXhQV2NkLTVMd21Sa2l5MkY5cXZkMNIBc0FVX3lxTE5oSDF3dlplRnEzM2htU0Z4eHFqaFZpc09ON2JEd2FTNEotYmY5MzEtRzQ2S3lEMFlkdGJULW9icTVXeV9oSS1uNXI1dHQ5VlJmemVGbl85SEpxZ3FrZEgydm4wWlZUdTZYRnREc1FneG5XLVE?oc=5",
-   "outlet": "데일리한국",
-   "lang": "ko",
-   "date": "2026-11-06",
-   "tag": "",
-   "score": 2
-  },
-  {
    "title": "300+层NAND！长江存储第四座工厂曝光：国产设备占比冲刺70%",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HakZ6VDJWUzlicXpQdWhDZWdES1kwNmxXdWQtc2V0VHpfVmlTMEJBS2pCcTlTVm1FSERFdEJXUHZUN2dYWU50T1hUR2pzZ0VfNGIwN1hSM3I?oc=5",
    "outlet": "驱动之家",
@@ -99,16 +110,6 @@
    "title": "中国长江存储暂缓IPO……受全球人工智能遇冷冲击- 阿视亚经济",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSTFNXSU9zSWxveC03eGlabFAwRDNJSTV0ck5JbU1qR3A4bXQxQV9YSGo4VEM0amJlV1hzQWF0YVNPeVMtOGdBaHUtbmg1S3hub3dkR0NNcUtmZ1duWl9PRzh2dE8?oc=5",
    "outlet": "아시아경제",
-   "lang": "zh",
-   "date": "2026-11-06",
-   "tag": "",
-   "ko": null,
-   "score": 1
-  },
-  {
-   "title": "中国存储芯片厂商长鑫存储三季度市场份额回落至9%",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40NFBCLWpFa3I2MHRRNFNlZ2V6WnFudnBoM0dacUtyMUhLV09DUm1FaHF1d3RrYU5paVBiVWFseTU0TjJLNGc5Mm9JcUxqZGhpQ2NpWUw3bTdWYnM5SUhZUw?oc=5",
-   "outlet": "cnBeta.COM",
    "lang": "zh",
    "date": "2026-11-06",
    "tag": "",
@@ -176,6 +177,15 @@
    "title": "삼성, D램 3분기 점유율 38% 1위…SK하이닉스 29%로 반등",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yaHRrdXYyQlVTeDctZFVVWXNuY19oNS10V216eTUtaDg1b3lOM1hET245LV9VT1RHVFM0aHhVVTNrNzFkZzBQdkg0UllWSkE1eGYzcVlYUlh4SHJFdGRudm8zeF9NRU0?oc=5",
    "outlet": "연합뉴스TV",
+   "lang": "ko",
+   "date": "2026-11-05",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "KAIST 테라랩, HBM·HBF 설계에 AI 에이전트 접목 연구 성과 공유",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pS3JLUlhBSGtyTjRPZXNwVnBnb3VGdXBBdFlOQmZ4NWtTSDhSTVduS1d3YzJ2UThIWmplYmlKbWRkeGROdEMwOE93WEhRUQ?oc=5",
+   "outlet": "전자신문",
    "lang": "ko",
    "date": "2026-11-05",
    "tag": "",
@@ -253,16 +263,6 @@
    "title": "AMD signs long-term HBM agreements to fight price hikes; Samsung likely biggest winner",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjZsQ1dST0Nkc19HdVRRRTdTR2h6NTJ3R3JNMUhsMHFreHU0NmM4OFVsTG1nSGtXMTNLR1ZkdU9WdDBKUU1KeHdqTXMtTVR4SXZnUEI4VXlLdjBYVmxfengxdWl0Tzh1X29xa01XLVZJb1pBQmhqMEZ4b29zcGxwSElNZjJiWTRsbm95QWI5UDhlNjBOa3pVQkQtRdIBoAFBVV95cUxNQmppZXRqd19DSTI3NWJPSGhiMVpWRHJYV1gyb3ZKVlQ1dEhadTNGVW1KR2doUll4SWRFcGQ0dmxYa2F5TGVtM0M5U2ZTa3U4ekEzVjVkcFJxdGhtVm9QQnBBbzFiRTJaMHFsTW9jQ19OQ3UxUUVmRXRlNXRJdXZ2TXpGNGpWMVFubDRhTGhPQkthY0VIWjZVb1RqRndySV9h?oc=5",
    "outlet": "Sammy Fans",
-   "lang": "en",
-   "date": "2026-11-04",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "Steam Survey's 32GB RAM Drop Likely Reflects Survey Mix, Not DRAM Prices",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0cG1xM2NaRmd2SGluU09CMGJlODhheFNpYlhFRXc3U2VGUWZJdU82dlFBUC1zYlJmVk9TWXBYaWs4VmdLS0l6Wl96YUd4VEJCMFRhdVRhSzRoUmNTcGYtRmVvMzNKc3JBZHBMYmlIYWw0dw?oc=5",
-   "outlet": "XenoSpectrum",
    "lang": "en",
    "date": "2026-11-04",
    "tag": "",
