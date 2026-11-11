@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "title": "大摩警告：旧存储价格正在见顶，2028年供需或转向宽松",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Bemk4V082SHowZzNuX1Eyc2kzNVEtZ2NMa1AxZ1Z3UFJrN0RlOGhCXzB6bHcyUjU5eGFtdy1ERmJnX3FQazdLaXBPLUJ1ZGMyb0FB?oc=5",
+   "outlet": "华尔街见闻",
+   "lang": "zh",
+   "date": "2026-11-12",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "利好存储芯片！超级周期料延续至2028年 但两大机构价格预期分歧巨大",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53VGlLSjNxNW9zNFBrMklvSi1QYzZ2ZHhuMVJGVEItdGRBYmxtSGkxRTcwRkR0WkJsSDNUNV9odG9GRTVvcUcyLQ?oc=5",
+   "outlet": "财联社",
+   "lang": "zh",
+   "date": "2026-11-11",
+   "tag": "전망",
+   "ko": null,
+   "score": 8
+  },
+  {
    "title": "SanDisk Slips as NAND Price Jitters and a Shrinking Market Share Test the Growth Story",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbVMyNExVQkh1T1ZnWDlMVjFpaFJ1ZWxMY0dnczljRU1wNVV2b2dMcnZ5XzBNVU1uZ2JWTk1WY0NGcmcyTVVMcW5ENE53a0ttQ3FYTmxQc3RoZUdZODc4QXR4OUZhX0J5UjFQRXpSUHNzU19RekZvcEhwUlVfZWxWZjhEMGxnWU8tS1ZHMDQtbS1YREtDTWtweHhKZ1N1SFdiai1DaHU5LW90ZkdBLXZPUkVoUWNyNUtybDhtV0RXQmdHR2U5YVdCLUZKY21PX0ZnX0Y2djBTVjZpanRmeGprbnRBYXkzYlRGOEg3VGE0OA?oc=5",
    "outlet": "ad-hoc-news.de",
@@ -31,9 +51,105 @@
    "score": 5
   },
   {
+   "title": "High DRAM prices push smartphone makers towards reballed memory",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1ZEWUFNMGxYLU5aSXYtSVNVWU9GbFdSeE5xZlNkTGptS3FIOUpncmRsZ3VmcjJ4TUl6M1JSNkpwREJ4Y0FQemlIZzctOWhIeU5sMXlqbmNZM1p1SFRqdnh6Wll3cUxNRlVsRmkySDc5Rlg2ZVFIQ3pWOTMwU2xsR1Z6YzBOLUlraGYyRHlsWmlmUWRQYXpwdXZCMmdaQkw0?oc=5",
+   "outlet": "Evertiq",
+   "lang": "en",
+   "date": "2026-11-11",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "\"'삼전닉스에 도전' 中낸드 YMTC, 이르면 내년 1분기 IPO 목표\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZTlBzeFJ6d1piRGNONGtuaGtJSTVqTFZqbGt6WVVOU1hGcHdKY0R2UktTTlNzb01obXk3ZC15WjJ0ZWlmT29WWS1hdlVpd0NGeFpLSVRyYkNrZFXSAWBBVV95cUxObTdJNjJaVUV3UURSSTdRS3BWUFdfRzhST2RLVUhPVEFKRFhyY3R5bVJIV0RQeUtONWNGNkV3S0dTVjB0SGhuY2RFeUNXNjloX1lxMDFhdFYtby15SU1MMDE?oc=5",
+   "outlet": "연합뉴스",
+   "lang": "ko",
+   "date": "2026-11-11",
+   "tag": "",
+   "score": 4
+  },
+  {
+   "title": "存储芯片酝酿新一轮涨价？有代理商称消费级存储同步上涨，但“价格可谈”",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MQUNtYVZmZUQxcjBoeG9IYlMyNGM0ZVMxTlR5QUNiNHBvM1NzWU5GOXd1NXVUYjZUQnVuN1pYYUVwNXQ2bGtlaUxDZTVySG1DYkNTU2NLa1RzM0xhbjg4Rw?oc=5",
+   "outlet": "ThePaper.cn",
+   "lang": "zh",
+   "date": "2026-11-11",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "价格涨起来没完了：存储芯片新一轮涨价来袭！",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16eDNCcFlrYUhMVWdaQlVadTlzTXFDLTFaMWxzTlM4SEhPaDdoRGYxTjQyM3Z4Z0hLM1N6T0Zxd0lsV2kwM0xORHU1bkJIU3JDeUpZZ0JKcGU?oc=5",
+   "outlet": "驱动之家",
+   "lang": "zh",
+   "date": "2026-11-11",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "存储酝酿新一轮涨价！渠道价格已先动 多股获融资客抢筹(名单)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92N185b0NlZmZQSHdDdWRta3VrTkdrTVNzdUM1a1EwSERVYlBLU2M0RnNnMGR1OHgzQ1hNRGZqaEZWR2QtdHFLYmxUUnJ4eEF4eUkybHJ4Y3hsUmtRR0dXSg?oc=5",
+   "outlet": "东方财富",
+   "lang": "zh",
+   "date": "2026-11-11",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "多家厂商回应存储涨价：四季度原厂价格微涨 集中于企业级",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1AydGloNFBlbDhGc1diX3lkMkh4TFRuVXF4bEp3Y0hzSnFaWGdLU0s3ODZac2RvSW40TWVnLXFDLWlQUjN1RWd2djBJb1dWdFlNSXBzcDNtT0RJS2o1WC13UkhFamN4elJ3d01KSENTWkxGSi1xazFha0RjYUJZYTJIS3lHaEpy?oc=5",
+   "outlet": "Sohu",
+   "lang": "zh",
+   "date": "2026-11-11",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "SSD与HDD价格何时真正回落？",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXhIS3JVeHdRa0NkWGZURUlnQ1NkS3JyZFJpQTVVSVVRYmhnSV94alp2eG1hQ1ExSzdrNEw4eDJlMk9SWXQ2SjJyczJaYWlSQ2ZsSGZ4MkxfOWRnVHFuTDg1VHRJd29wcmhsVl9ONy1GME01Z0lRUXphSS16NGZaWnlGTl9qaDZT?oc=5",
+   "outlet": "Sohu",
+   "lang": "zh",
+   "date": "2026-11-11",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
    "title": "[美특징주]마이크론테크놀로지, 클라우드·D램 수요 성장에 월가 강세 전망",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc041ZXBTS3hXME1sQ1phcXI1R2xoeWNQWko5aGROWDI1dU5WdUpqSGtnbndFcTNDREUxV1VwS3pDSG1SNmxBT0VpZWhnSnNJZ2E3QmdSaVAySHA0YTJUSUFMejVxLWI1cXE1UmlYTFVaTG1MbVdQVTdhYnpBQXpRSw?oc=5",
    "outlet": "이데일리",
+   "lang": "ko",
+   "date": "2026-11-11",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "LG화학, 日 주도 HBM 접합 소재 국산화 확대",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83UFpKRGRGQ2FyVjRxYUlhc1Vtd0kxWDJ4MHA1ZGJsbzk4UlNtOTQ3WTlXTDE1TkE0eG9mZlVzalptOXF6OHFzZWVXRjlyZw?oc=5",
+   "outlet": "전자신문",
+   "lang": "ko",
+   "date": "2026-11-11",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "SK하이닉스, 저전력 D램 안전·보안 인증 확보",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrcjRWMjlfZ0I3WHFYajhHMUo1WkVnZ1AtSFRQbnh6WXFRM1B4bTZnUVZkdTRMZFRRaWs4aHhybDhodE9iYlE0QVFab2pDSjNJY3RubkE3cFBkTElyS1VKZU9CV3BMb0E?oc=5",
+   "outlet": "연합뉴스TV",
+   "lang": "ko",
+   "date": "2026-11-11",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "삼전닉스 턱밑까지 온 中반도체…5년 뒤 D램보다 무섭다는 ＇이것＇ [2026 GFT]",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5d1A4Q0xVM1Y0QU1aQVQyU0hva0Z4WkdhQzhydWlyQWtVdFlCMEdoSTZxajFlWjUyUE51a0ZTTkVLaXUtSm1VT2JIRWNQUzI5NlgtbURvdURFZDNXbnltUi1VakR4dEptV2MxbE5HbHB0LVBHdkNJ?oc=5",
+   "outlet": "한국경제TV",
    "lang": "ko",
    "date": "2026-11-11",
    "tag": "",
@@ -47,6 +163,16 @@
    "date": "2026-11-10",
    "tag": "전망",
    "score": 7
+  },
+  {
+   "title": "存储又在酝酿新一轮涨价",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qVkpfR2pnVWRSUnQ1U3ZFU0lQc3BSRlc5ZzRUaDdpSDdnMWtNazc2X2xjQlE3QWZMb19VQlp6bmNpZ1FLTnc?oc=5",
+   "outlet": "财联社电报",
+   "lang": "zh",
+   "date": "2026-11-10",
+   "tag": "",
+   "ko": null,
+   "score": 6
   },
   {
    "title": "Recycled memory could reach up to 9% of smartphones in 2027 as DRAM prices climb, TrendForce says",
@@ -106,16 +232,6 @@
    "score": 3
   },
   {
-   "title": "长鑫全球市场份额有所下滑，价增量稳延续DRAM“超级周期”",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGkzSGVlVkR0elNtZU5vMGJESTc5d1JrS1IxT3ZHUENydTZ0eXdsX1ZIYkNzZGNLYTdKNEVtNms3MHBJZUpfSDV0VjNGQXA3c0FpQ2Rqcjg2QzRVR3h0dHAyWW1hcS1rOVB6R2dwZmI2cGN0cmNDNFBXR1RLdTJXanRCdFpHN0RrZFg0Zw?oc=5",
-   "outlet": "搜狐网",
-   "lang": "zh",
-   "date": "2026-11-10",
-   "tag": "",
-   "ko": null,
-   "score": 2
-  },
-  {
    "title": "Transcend sees DRAM supply potentially halving in 2027 as memory prices plateau",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkZCZ0xSbTVmUFZKQW1ub09kOTRlZVNxMTg0eHNLQWd4dGV5LTZ5akkyQ1F2bzk5bkxlZ2IwX1VIVzdoOFJ2WnFFektFWWlxa25KamdQcWxSeXRtRFhjYU9nUk5iYW03ZlowQmpRS3hlRU91eE1jRWJvQ0pPcWNZczVkZkdybnIwRWhEaA?oc=5",
    "outlet": "digitimes",
@@ -144,24 +260,6 @@
    "tag": "",
    "ko": null,
    "score": 5
-  },
-  {
-   "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TNGZadXV1ZXJKcXVOZElYV3dmRURyYmoyeFVXc3Z1TExyWTFYMWg1aG5ER3dMNl91bnBjVWxtTlVRbmRZZlB1eFFudWI0YVo2TklrQnBVMnJSbkHSAWBBVV95cUxOMDRpaE5VMkVkX1pFRHh2YWRubmNzN1VwREdubGFoV3dXY0dYNzF0eFBic2Y5VUZLYi1xS0FqaFNvQmRJZlFkT3dId3JfYjVOQ1ljU0I1RjZjam5hSHdnX24?oc=5",
-   "outlet": "연합뉴스",
-   "lang": "ko",
-   "date": "2026-11-09",
-   "tag": "",
-   "score": 3
-  },
-  {
-   "title": "TSMC가 D램을 직접? … 엔비디아의 ‘비밀 요청’",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhZGd3T3VQOXE0TGViWUdxUTE4eTI3LUloUy1BME1JRlJKWVRuX21Yd1RhcWJDbTlLd1plTE5tM054aVZFYjM3RC1remlZd0wzX3c?oc=5",
-   "outlet": "매일경제",
-   "lang": "ko",
-   "date": "2026-11-09",
-   "tag": "",
-   "score": 3
   },
   {
    "title": "长鑫上市，曹彬暴赚前，说出当年唯一预期，市场目光转向张雪",
@@ -232,16 +330,6 @@
    "score": 4
   },
   {
-   "title": "英伟达寻求破解存储瓶颈 台积电据悉考虑布局3D DRAM",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12VURidlpLOWh1ZDhJbTU2Q2x3QnRjbk9MR2lhanZMQWhtR1hhQmJhTlRXU193SGlfaWlYb0VLQW1mMF9uZlJHQg?oc=5",
-   "outlet": "财联社",
-   "lang": "zh",
-   "date": "2026-11-07",
-   "tag": "",
-   "ko": null,
-   "score": 3
-  },
-  {
    "title": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce",
    "link": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
    "outlet": "TrendForce",
@@ -264,16 +352,6 @@
    "title": "DRAM Price Surge Slows OLED Investment",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UZGZhYzlZYUVCaVV5Q0xEMzRHTHB3eThzSzJGVURZazRDcmxOYkpoT0k1X1pDb25pcjFaMzFSWVV4ZktsZFJQSnVGTFZWMlVoYzJseE9KZmFYZk1IdjVlSnNnVW9aaHJUMHE1UzFtYlZlOWFH?oc=5",
    "outlet": "Businesskorea",
-   "lang": "en",
-   "date": "2026-11-06",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "Rising DRAM prices push smartphone brands towards reballed memory",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmhvSzBsRFJ2cHp0Uy1MTlRJRDA1VVR4UkdQUkVaR2V4QV9kdTV6UDhyMlFFdVd0Z25XQ0kyVDZ3VGVQM3VteWpkOHVMeHM0SW52d0x5ZjVheTJLUDhUanJkZzVUa1I2M2Z3RkxVTndRSWZPN0lxbWVvcVBkejRXZk5TUTAwYjZ1akhDa1h2Nm5iYjNCeHdkR3FkMUl0YjE0Ykx0XzdsQQ?oc=5",
-   "outlet": "Communications Today",
    "lang": "en",
    "date": "2026-11-06",
    "tag": "",
@@ -356,84 +434,6 @@
    "date": "2026-11-05",
    "tag": "",
    "score": 5
-  },
-  {
-   "title": "围绕长江存储补链，湖北武鄂“跨界”设立半导体基金",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtenJDU0xUMDBOVHVQRldVT0FtOEhxREN6MlVEQVE4NE9PSzZKREtyZUo0REdMQXNjWmZHdk15cmMwYU9zYWgwRg?oc=5",
-   "outlet": "财联社",
-   "lang": "zh",
-   "date": "2026-11-05",
-   "tag": "",
-   "ko": null,
-   "score": 3
-  },
-  {
-   "title": "AMD \"HBM 가격 상승 고객사와 분담\", 삼성전자 SK하이닉스 메모리반도체 협상력 부각",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45R0Uwb0xTc0VrX2tITGJxQVFXSWNzaHFIVHI1ODR2TFpCbEFWWjkyM0RkU1VPZG5tNHNBY3VOZ24yNFN0V1ZNcjgzMlJwbVZndWVqN0RZOXU2MnhmRE1mLUE1VURmN0psLVg0LXVhaUFLWnc?oc=5",
-   "outlet": "비즈니스포스트",
-   "lang": "ko",
-   "date": "2026-11-04",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "\"AI 서버에 다 뺏겼다\"… D램 가격 2배 폭등, 日 PC 출하량 30% 급감",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUJmdTloUUI0SU8ta3ZaWjJiNUdYeEg3UUYwUzdBbGRDSTQ3Sno0eFQtSFJOUDM0YjAwWTV0T3c5MmtMVVZyRGppd0NjT2tXQWpjXzAxOEdJeno3TnhRb1lVSjNXOENTeC1VcUlQd1VNUlNfQ2RKUmZ5eEtwZWtsb2pNbGdINjZL?oc=5",
-   "outlet": "글로벌이코노믹",
-   "lang": "ko",
-   "date": "2026-11-04",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "存储涨价潮延续！长鑫科技50亿回购护盘 杠杆资金抢筹这些股(名单)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMjRXXzQ4c3ZVV2hiRHNsWm5zZDFTQmZ5bVNhNUE2UzRTWXYzT0NUbDQ4T3JoTDFOOER4S2x0Sjc1VEhHem9QblZERXVodUZmUkttNUJXZHhlb21QWUh0UA?oc=5",
-   "outlet": "东方财富",
-   "lang": "zh",
-   "date": "2026-11-04",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "存储暴涨带崩消费电子品！手机、PC涨价后 佳能预警：明年旗下相机也会涨价",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IMGVPTmo4eVY1ZVNMY3VSbXFOdG1ISTRMWVlQRVNMaGxtby1LUTNZWHdmZmdHVk0yM1RTV2dwTnVmQ0dwLUNqRkNMRTNFX3c?oc=5",
-   "outlet": "维科号",
-   "lang": "zh",
-   "date": "2026-11-04",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "存储暴涨逼停产品线！双十一价格跳水 现在买手机还是等",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93YU1hMU1FYmp4LVBrNzRPSmhLRGhoeHFySlpmYktPWk5UMGFzWXliWC0zTVhUYkVpcGdaM2lqVFkwUUtWb0tQT0xYOXpXN1d3a0ExdEZ0Unc?oc=5",
-   "outlet": "驱动之家",
-   "lang": "zh",
-   "date": "2026-11-04",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "苹果面临前所未有的存储价格上涨：数月内成本飙升330亿美元，或影响利润率",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHFvNXBUalhka2dHVFY3aEdrcGlBTFVCTmM0WWpaai1WUmM0MF9tdWkyY201NDcxampQcUxNMzVVbExhZDd4eTlSUlFFX3VCWkxOZTNYZk01RmtEQTZmMHBVSGR5RXdBYkNFZFZYMVZCUkx6dzI0Nl9NT0U1SU15X19oYnZXdHk4a1ZQOQ?oc=5",
-   "outlet": "搜狐网",
-   "lang": "zh",
-   "date": "2026-11-04",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "存储价格还在疯涨，深圳华强北老板囤货更猛了",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmbFJfd2x4dVNKV0lNT3ZjZl9iUFRDQlJCYmE0TG9wVnV6Q3BmaGtMd0ZBaDB5V3VYX0hRQkkzWVFqd0xBWUxoX1gzZENvM3V1UFNDdFVZbjg0MW9WcF9wWUNoaw?oc=5",
-   "outlet": "潮起网",
-   "lang": "zh",
-   "date": "2026-11-04",
-   "tag": "",
-   "ko": null,
-   "score": 4
   }
  ]
 }

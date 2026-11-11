@@ -2,6 +2,16 @@
  "items": [
   {
    "product": "범용 DRAM",
+   "low": 13.0,
+   "high": 18.0,
+   "basis": "QoQ",
+   "period": "2026년 4분기",
+   "date": "2026-11-11",
+   "title": "Mounting Finished-Goods Inventories Prompt Some PC OEMs to Adjust Memory Procurement Plans for 2027, Says TrendForce",
+   "link": "https://www.trendforce.com/presscenter/news/20261111-13303.html"
+  },
+  {
+   "product": "범용 DRAM",
    "low": 10.0,
    "high": 15.0,
    "basis": "QoQ",
