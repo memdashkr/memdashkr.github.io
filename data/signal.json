@@ -6,7 +6,7 @@
  "rows": [
   {
    "name": "DRAM 현물가 4주 변화",
-   "value": -1.34,
+   "value": -1.53,
    "unit": "%",
    "dir": 0,
    "note": "현물가는 고정가보다 먼저 움직입니다"
@@ -20,7 +20,7 @@
   },
   {
    "name": "대만 업체 월매출 전월 대비",
-   "value": 3.93,
+   "value": 4.6,
    "unit": "%",
    "dir": 1,
    "note": "Nanya·Winbond·Phison·ADATA 평균"
@@ -34,7 +34,7 @@
   },
   {
    "name": "메모리 주가 1개월",
-   "value": -28.01,
+   "value": -20.11,
    "unit": "%",
    "dir": -1,
    "note": "시장 기대가 먼저 반영됩니다"
