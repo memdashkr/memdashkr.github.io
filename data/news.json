@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "title": "2035년 실란 시장 전망: 칩 미세화와 3D 낸드가 성장 견인 - 뉴스 및 통계",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFYxSXI1aUNhc04weFJTcmlCcHV5LTRfRUc2eVhubVh2aXRHdzFxcWkyRzhOb2s2UnJzQmtXX1V5UEhZelpzMzVwWk93ajVPN3ZQeVc1djB4NWV6YlIxZWZsUFk5dndELVUxZWlJcUxzc2xvZzl2V1FINFotcUJwS29jazhNamROM1NRbTRteGd5RzZjNG43dFVUYU5IcExka3dvRzJ4LTlZblNsSWp3MVBNUkNhdXBWd19ISGhSMFdrX2Ra?oc=5",
+   "outlet": "IndexBox",
+   "lang": "ko",
+   "date": "2026-11-14",
+   "tag": "",
+   "score": 3
+  },
+  {
    "title": "엔비디아 새 CEO, HBM 가격 압박하나…SK하이닉스 수익성 변수",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xbmxoSHRZaDlaNTlRYlMtODRZRVJZRzZEeW9kR2J4dEFyUGZSXzhseUR0MXVVRzdLNG5MeDIxM0NRdDRKSVZJTnM3MzVvYnN5dnltTDU5SE16NTVoS1l5TDVFcnRLbDY5X2c?oc=5",
    "outlet": "뉴스버스",
@@ -10,9 +19,47 @@
    "score": 5
   },
   {
+   "title": "10월 수출물가 0.7% 반등…반도체·D램 가격 급등 영향",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQQ3VNaThCS1NCTEhaSWFQc2gxcDkwX3hhbXVpNEQxdm1SUnBUNEl3NGJqVnBnOVF3eUtPUl90TFdseEZsODE5TEVrUWtNNDVVaG8yQmF1aEUtS1FZYUxmd2VfeGFwTGxGcGcybWRjN2pXUXZJRzBDUVZjaVJXTng2aDRKZGoxTnJDSzlOdGxpNjlEWVRKekJ0N1VRQjM4WG9YcUJVOFdQcXVhcHlVRzZ3NzRrMzlleWZJbFdSdEh5b1VsVFBKS2MyMjdzT0xwZk5uYV9BQ0htWms0YzdXNnNWZ3QwQjdlQUZuaXhJUVRxbVFEQ3NqZzFiRmdQVlRaQjNXdXZQUzNSeVZXN0lhVHE4dHM5T0RBeGtzWkNyVUk0OWo4QXY4eDhFT0d6bDJfQzVvT01LVjVvbw?oc=5",
+   "outlet": "중앙신문",
+   "lang": "ko",
+   "date": "2026-11-13",
+   "tag": "",
+   "score": 5
+  },
+  {
+   "title": "Former 南亚科技 President 高启全 Sees DRAM Price Risk From 10-Fab Buildout",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OdDhUV3YyQWIwVVFtN0xnZmtTYlZkMzdFLWpxQmdtNXZqNkFmLVJmaTlGS0dXaHVFc1dwazY3VFlNcFViMEV4ZjZNYjl1TzhpNkN6bGkwTXc?oc=5",
+   "outlet": "tokenpost.com",
+   "lang": "en",
+   "date": "2026-11-13",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "SK Hynix's HBM Pricing Power Hinges on Whether Diversification Becomes Real Orders",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWFNlUFNkR1JrUGR1Ylp6Vl9ZZy1FQTZUZEgtQlFJSmNpY1VPQjBLUHpha0o2aGJQT3JrVjZLX0U2bG9abjlXbnkwZmtDVDh4aGl2dkpaT0I4aktMWHNNYlh1SG12QlFiRXFjOHBUV2cyZWFudFA5RlA4NE9uaDBkcWdSVkJ0emZuT2FGT0pJaVJNcEtiU2tHOVJPand3dFY0ZVRwakM2eVItOXZqZHpQOFNkMjNiYVRoc1VjNEstNDA4VDJVMTk0MEkydGxreldnSDQ4aXlwZlJ0UThmcDByWVBaN2JRRHRnRXc?oc=5",
+   "outlet": "ad-hoc-news.de",
+   "lang": "en",
+   "date": "2026-11-13",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
    "title": "[기획-에이텍솔루션 신공장 준공]12인치 웨이퍼 재생 기술 고도화…HBM 핵심 공정까지 사업 확대",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zc2ZfVDFtbHkyYkthWE5uaUpnRHJzRnVLNEpqZlZFMkpJdUNtRm1VZV9sck5WU2NzOXRxNWVZNTZUTnFEYnpKdFRLWktSQQ?oc=5",
    "outlet": "전자신문",
+   "lang": "ko",
+   "date": "2026-11-13",
+   "tag": "",
+   "score": 3
+  },
+  {
+   "title": "\"HBM 없는 AI 추론…열 빼기 쉬운 적층 구조가 해법\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nalF1NnM5b25laFAzeF9menVwaXV4bjh2UFVGT09zQmczcWt0N2pybnBfOWpZZ3RkU3gxZmppd0xJXzV1QlRJeWxyT0xWMGxXbmFrbG1TTk1QZw?oc=5",
+   "outlet": "한국경제",
    "lang": "ko",
    "date": "2026-11-13",
    "tag": "",
@@ -27,6 +74,16 @@
    "tag": "",
    "ko": null,
    "score": 8
+  },
+  {
+   "title": "DRAM Contract Prices for PCs Forecast to Rise 13–18% in Q4 Even as PC Demand Weakens",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzUENjZmNMWU83OExjbVFGc0d5QXFCSzFBeDRRYTZpeEJVY09fVkcyakpDaHJrV01xekp5OXpQWjYxdnI3eDVLYllILXlDalgzbVhBbWxWcG9Id3RLRDcxR2RxcjNfVkNvRlBvWg?oc=5",
+   "outlet": "XenoSpectrum",
+   "lang": "en",
+   "date": "2026-11-12",
+   "tag": "전망",
+   "ko": null,
+   "score": 7
   },
   {
    "title": "TrendForce预测：PC内存、存储价格2026Q4分别再涨13~18%、0~5%",
@@ -91,6 +148,16 @@
    "title": "存储涨价潮仍将延续 产品需求现分化",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXp2QU80TUcwZzZyYlhHRXplWHJUbFdnczJ4dm9HRnU3SDRsX0Y0VEFhd0VZZHJuOVNIck9waUF3eFpmOGNsRXgxdDVheU9iWllveGppejJJZ3dqUlpVT3NGOGdfRkFVWHh0TjVYeE9RNHMxcldaOEIxVnpKN1B2Q18yUWhiRFk2S3ZTQU5ENA?oc=5",
    "outlet": "21财经",
+   "lang": "zh",
+   "date": "2026-11-12",
+   "tag": "",
+   "ko": null,
+   "score": 4
+  },
+  {
+   "title": "多家存储厂商反馈酝酿涨价 企业级存储领涨",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01NDBGV1VrMDdia3lSUDdtTEJCQjg5YnFsVkxCMUJFeE9nemlJZ25TSkNHUmpldlJWcFJJems1UTZfZFFwUG50SVVwc0dqeFdXRlZ1ejhHMkVuZjgzNnlRNklvOGF1YTh5WEdUanFaUl8?oc=5",
+   "outlet": "中华网",
    "lang": "zh",
    "date": "2026-11-12",
    "tag": "",
@@ -252,15 +319,6 @@
    "score": 3
   },
   {
-   "title": "LG화학, 日 주도 HBM 접합 소재 국산화 확대",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83UFpKRGRGQ2FyVjRxYUlhc1Vtd0kxWDJ4MHA1ZGJsbzk4UlNtOTQ3WTlXTDE1TkE0eG9mZlVzalptOXF6OHFzZWVXRjlyZw?oc=5",
-   "outlet": "전자신문",
-   "lang": "ko",
-   "date": "2026-11-11",
-   "tag": "",
-   "score": 3
-  },
-  {
    "title": "낸드 가격 하락세에 업황 우려…삼성·SK하이닉스 영향 제한적 전망",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUd3F0MEdXX3BDMDllRGF1dENORU9PRmIwMndSUVJSTE9CQnl2SG5QZlZCRGF1c2t6RWhxRDFiRVJVVnh6ZHVkWThDdTJPM1JzdkNDQXhCN1Z5QUZ4NmpoUg?oc=5",
    "outlet": "메트로신문",
@@ -359,16 +417,6 @@
    "score": 5
   },
   {
-   "title": "Global DRAM Revenue Jumps 369% on AI Memory Price Surge",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDM0Zm10Vjdpc3NhSk5Hd1Q3d21sRVh5RThKdV9iX1pvOVNFVHFvRGhST3VjbXptMzB3ckV6dXNQOVBCUFdBU1d6MDRpNjM1Vnlxa21zbTJtOWdNekxXMUtJbWgxRVJsX0h4QnRDb000a2JRY0xoQzZGRjFUUDJZYzRSTQ?oc=5",
-   "outlet": "Technetbook",
-   "lang": "en",
-   "date": "2026-11-08",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
    "title": "白线观察｜AI 服务器争抢内存，涨价压力传向苹果和高通",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9faTJTbXZ6Qmk0cWFrcXJveDJSdU56bkQydWpmeUg3UFMwak5NRVhRUlhianllWU9HU20tZGdDR2t6TmlfdFc4VmlmaXN1TENDRlNIM1VXWG02bGRCZ0E?oc=5",
    "outlet": "吴说",
@@ -384,54 +432,6 @@
    "outlet": "CBC뉴스",
    "lang": "ko",
    "date": "2026-11-07",
-   "tag": "",
-   "score": 4
-  },
-  {
-   "title": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce",
-   "link": "https://www.trendforce.com/presscenter/news/20261106-13297.html",
-   "outlet": "TrendForce",
-   "lang": "en",
-   "date": "2026-11-06",
-   "tag": "전망",
-   "ko": null,
-   "score": 11
-  },
-  {
-   "title": "반도체 고점론 다시 고개…낸드 가격 하락은 경고 신호일까 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hQkJCZ05BWjZ3Z1dOa3RWenZ1am1YSkw3YlJLT1Rrakx6TEp0TUt2b0tjQW1kQm4tcDc3N0RfYUtoQkg4TUp2WlNQR0RMS2tDcm5VR0tWSTM5aUhDZnFrUEl2X3p4djZkeEF6OHh3UEJmZWly?oc=5",
-   "outlet": "연합인포맥스",
-   "lang": "ko",
-   "date": "2026-11-06",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "DRAM Price Surge Slows OLED Investment",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UZGZhYzlZYUVCaVV5Q0xEMzRHTHB3eThzSzJGVURZazRDcmxOYkpoT0k1X1pDb25pcjFaMzFSWVV4ZktsZFJQSnVGTFZWMlVoYzJseE9KZmFYZk1IdjVlSnNnVW9aaHJUMHE1UzFtYlZlOWFH?oc=5",
-   "outlet": "Businesskorea",
-   "lang": "en",
-   "date": "2026-11-06",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "机构：新一代HBM价格将持续上涨 存储供应商四季度营收有望创新纪录",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jbUthTm1COF9MdDcwWk96M293eGl1ZGNYTjFVWVAtSUNwbU5qR1NmamlFLVFTM3hIUzlIeFcxZUhYZ2ZpaldNVFJsbEdsLVM3UWJ3MnprQWVuT3BpcF9uMmJn?oc=5",
-   "outlet": "证券之星",
-   "lang": "zh",
-   "date": "2026-11-06",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "中YMTC, 신규 낸드공장 장비 최대 70% 국산화 추진",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydm9FQ1c3UWdNcl9WaDhoM0RnT1A2eTE5Z0QwVEFBek9LLWxXMlZPTVNKVXE0eWMyVTRQVHdUZ0UzTXlZUVc3MUZsbktmMDNvOHBsZXhkVHR5QmJaSmV4T9IBYEFVX3lxTE4ydm9FQ1c3UWdNcl9WaDhoM0RnT1A2eTE5Z0QwVEFBek9LLWxXMlZPTVNKVXE0eWMyVTRQVHdUZ0UzTXlZUVc3MUZsbktmMDNvOHBsZXhkVHR5QmJaSmV4Tw?oc=5",
-   "outlet": "연합뉴스",
-   "lang": "ko",
-   "date": "2026-11-06",
    "tag": "",
    "score": 4
   }
