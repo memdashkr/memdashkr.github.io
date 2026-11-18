@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "product": "HBM",
+   "low": 13.0,
+   "high": 13.0,
+   "basis": "QoQ",
+   "period": "2026년 3분기",
+   "date": "2026-11-18",
+   "title": "Global OLED Monitor Shipments Double YoY in 3Q26 as Rankings Shift Dramatically Among Top Five Brands, Says TrendForce",
+   "link": "https://www.trendforce.com/presscenter/news/20261118-13311.html"
+  },
+  {
+   "product": "범용 DRAM",
+   "low": -3.6,
+   "high": -3.6,
+   "basis": "YoY",
+   "period": "2026년",
+   "date": "2026-11-18",
+   "title": "Global OLED Monitor Shipments Double YoY in 3Q26 as Rankings Shift Dramatically Among Top Five Brands, Says TrendForce",
+   "link": "https://www.trendforce.com/presscenter/news/20261118-13311.html"
+  },
+  {
    "product": "범용 DRAM",
    "low": 13.0,
    "high": 18.0,
