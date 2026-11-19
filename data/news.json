@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "title": "NAND prices tipped to fall as Chinese cloud giants cut SSD orders",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHdneUl2c1c2RWxsaktlaFgtdGt1NThiSDd5dU16d05xbmM3OU4zRE5YQ2Q3cmhUZHJiYl9WWXJBTk93SnVqZmhmX29PT1lSZXR3bGV0bDhZVzJwWm04QzY3czRWQmRObWVTZEhUTmd0X3k2WFN5V0ZsQmhuS1gzWFczeFZXYTd4TUVBU0xZUGV1dFFYS2RseVVaVTV5V3lCSUEzcjE1ZDA2RzNROEpJaUVVS1pRR2lXbXV4cw?oc=5",
+   "outlet": "The Register",
+   "lang": "en",
+   "date": "2026-11-20",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "NAND flash prices fell 20% in the last two weeks, and are predicted to fall further in 2027",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEx1ZXhBTXQ2WWk4OENxUVBSZmR1QVRXQm42eWNyS0QwczlQRVRNTzA2bFphRUdybHVGVjRQZFBGc3gycV8xNnBzalBqeWhnVXBnWW9OalJGcTFMdVVYdVktWU9jQVVCRXdHNmkzUG11aUZxY01NSHppdmFTMWlYQnlqUWdPRm5HWnc?oc=5",
+   "outlet": "TechSpot",
+   "lang": "en",
+   "date": "2026-11-20",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "NAND Flash Prices Set to Decline in 2027 as Chinese CSP Order Cuts Outweigh North American Demand Growth, Says TrendForce",
+   "link": "https://www.trendforce.com/presscenter/news/20261119-13314.html",
+   "outlet": "TrendForce",
+   "lang": "en",
+   "date": "2026-11-19",
+   "tag": "",
+   "ko": null,
+   "score": 9
+  },
+  {
    "title": "HBM4 Memory Price Forecast: TrendForce Sees $3 to $5.50 Per Gigabit Next Year, Up From $2.05 Now",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmZQV0VESVZBQ1p3X0hSYjloY2VVbnVsMnN3R1ZFb0J5MEgxeFNtUGdHR25fM3I5UUZXTS0wMHRncjdBZnFfUEFsR2VHNXk0LWZlNkJ3Y1NLSkJlM1Z6SDFRZWRwb0xZaC1KVlE5LXBMMWFfZDJ5UzBkb0RHYko2UVFzc0dwcXRtWl9YVnFBTDNKRlpSYl96eEdzanZFVy1jdnVVZnlGNFk0T2FsVWlybUNXMi1ERGxjcldYX0s4T3JQYXhnMllrTF9tNHh5dw?oc=5",
    "outlet": "Tech Times",
@@ -9,6 +39,25 @@
    "tag": "전망",
    "ko": null,
    "score": 7
+  },
+  {
+   "title": "NAND spot prices drop 20% in two weeks, and further declines are expected",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEhCd0lGX2hiNGQxbi1URUhidEprdXNJblAzR01qMHU5TWdDSG9YX3JUVWx4Z3MyYm01VVJxaEp2Sk1Qd19nTXNJMm9PVk1wWVhWTEtVSlRibkF4MFVUXzByWGExSjBTZWhjNFIyendFZldOZkRiTmZKcFVVR2dwZkRBWjZvOFljZlk5bjFZcEY1SVpLd3h2ZDY0NjFBSjRGMkE1NmJQaF81VkFKZnc?oc=5",
+   "outlet": "OC3D",
+   "lang": "en",
+   "date": "2026-11-19",
+   "tag": "전망",
+   "ko": null,
+   "score": 7
+  },
+  {
+   "title": "AI는 '완판' PC·스마트폰은 '찬바람'…낸드·구형 D램 가격 꺾였다 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbkthXzVHVldJMlFHUnBYd0pGVVJuUzc0N3FSUXduZldvdm96TmxhNkdTZWhxcnFxa284Sm85S0tuOHJLMk1rNzEzUl9LWDl6UkpBaFpEVTU3N2cwdnRSYmxZcnF2TWFIbWw4ZXhxcTBid9IBckFVX3lxTE5kbkthXzVHVldJMlFHUnBYd0pGVVJuUzc0N3FSUXduZldvdm96TmxhNkdTZWhxcnFxa284Sm85S0tuOHJLMk1rNzEzUl9LWDl6UkpBaFpEVTU3N2cwdnRSYmxZcnF2TWFIbWw4ZXhxcTBidw?oc=5",
+   "outlet": "머니투데이",
+   "lang": "ko",
+   "date": "2026-11-19",
+   "tag": "",
+   "score": 6
   },
   {
    "title": "HBM4 Prices Seen Rising Up to 2.7-Fold Next Year as DRAM Supply Tightens",
@@ -33,26 +82,6 @@
    "title": "Apple Samsung DRAM deal: supply without a price lock",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWRXOTNEcy1rZENGY0tVNlZWTllXaXhMNVQtY3dsTk5Dekh6VWlhLUk3OGNkcWY1SFZ6TUdXdm9XVHBMNzVzV1hwS3pnbk1PUEhUNl9qTGpwTnk3cGFkVi1pZTNBNjh4UUgyUVhwWnY0emZHVmctTHhzLXczMGI0azRpdnI?oc=5",
    "outlet": "NeoTeo",
-   "lang": "en",
-   "date": "2026-11-19",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "SSDs may be about to become cheaper, as NAND spot pricing drops 20%",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lOUdDNWdlR3hTYWY0UktyZjV0T1pKRjhJLXBvcy1CVE9yQ0tqQ29UbzN0NXV4Rjc5Z2xnXzBsYlg2ZExYMUdTWGk3NmxGLUlWWm5GdVVueHF0cFV3Zk1haTAxUEpDaG8?oc=5",
-   "outlet": "Club386",
-   "lang": "en",
-   "date": "2026-11-19",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "RAM Prices Still Climb as NAND Falls 20%: Memory Splits",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGl0X3c4TURnYlVWa1VSTmFxV1NlMUFDaV9zRTQ4QjJFb3ZRTTBuSklTc1ZMMXFvb3NqVHVmZ0E1WUpiUFJIcVRrSUZsQmVKVDZsWW5aak9WU1I2dHFFWUp0SnZzT2RDcW1ja1J6T1BaMDh2czB3X21aMjBwRzk4NVdHdlJ0LUtQYURhOFV6Zw?oc=5",
-   "outlet": "shattered.io",
    "lang": "en",
    "date": "2026-11-19",
    "tag": "",
@@ -172,6 +201,26 @@
    "tag": "",
    "ko": null,
    "score": 4
+  },
+  {
+   "title": "中国长鑫存储为腾讯供应价值200亿元人民币的DRAM",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWM4STlIR01xM1JvdjB0TEJNM0M1UXlBNXNsMEFTWlgwYUpsc3JaNkVEeUNFQlVDSmpna0lqNkYwdnp2V0E3a2xSdnlkdWtUZGluSE5wSG1DYWxlVnhRNGg4ZlJlQUs3eGxxVl95ZnJIQzB1THJNU3RjV00wODhESWd5a0p0TXl0QTVPT2pSNktjelltNjJ0czVpLXotYkEx?oc=5",
+   "outlet": "朝鮮日報中文版",
+   "lang": "zh",
+   "date": "2026-11-18",
+   "tag": "",
+   "ko": null,
+   "score": 2
+  },
+  {
+   "title": "长江存储PC550加持！零刻SER9 350迷你主机图赏",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SUGNpaGNweG9aeGZsNVVwYkNVcTQ1SW1mN3gtWDV3a2ZGTnRDUTBwUHRwcEpxVHhkb2QzaV8ydDl5TkI0VEFxMFBpZV9DY3NQTjFmZWpuazg?oc=5",
+   "outlet": "驱动之家",
+   "lang": "zh",
+   "date": "2026-11-18",
+   "tag": "",
+   "ko": null,
+   "score": 1
   },
   {
    "title": "[News] NAND Spot Prices Reverse Course, Sliding 20% in 2 Weeks amid Weak Consumer Demand, YMTC Competition",
@@ -383,55 +432,6 @@
    "outlet": "중앙신문",
    "lang": "ko",
    "date": "2026-11-13",
-   "tag": "",
-   "score": 5
-  },
-  {
-   "title": "[News] Memory Makers Reportedly Plan New Price Hikes While AI Demand Widens Enterprise-Consumer Divide",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU0loMTlaYzdpaGNTU2xfMzFpa3g2STVKYktZRFVIRWo5WEFBRTR1TmdXSDA2bDdjWTFCSmRBQURqN3hhcGVvZ0tuWGhTdEk3M2RzYWFIbWtaVm5wamhlVXpoU1E2ekZuRFpEb1hOWXh1N3h1RW40Y2w4bWpqVzlwdlNQejJJdEF6Y0Y3Tk9xMnBVUDV0dmFvVzhCRnRESmRzQ0FpTFg1UE53WG5McEgxemI4TzB0ZnBIN19telVVd2VEVWtnTWtEWHZxMmRMeFZQSVJ5cTBJb2ljSncz?oc=5",
-   "outlet": "TrendForce",
-   "lang": "en",
-   "date": "2026-11-12",
-   "tag": "",
-   "ko": null,
-   "score": 8
-  },
-  {
-   "title": "DRAM Contract Prices for PCs Forecast to Rise 13–18% in Q4 Even as PC Demand Weakens",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzUENjZmNMWU83OExjbVFGc0d5QXFCSzFBeDRRYTZpeEJVY09fVkcyakpDaHJrV01xekp5OXpQWjYxdnI3eDVLYllILXlDalgzbVhBbWxWcG9Id3RLRDcxR2RxcjNfVkNvRlBvWg?oc=5",
-   "outlet": "XenoSpectrum",
-   "lang": "en",
-   "date": "2026-11-12",
-   "tag": "전망",
-   "ko": null,
-   "score": 7
-  },
-  {
-   "title": "TrendForce预测：PC内存、存储价格2026Q4分别再涨13~18%、0~5%",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wRlVKWS15ajVuYl9FQ3YyWnN4SHprTExDZzBrbmdqbWVHcW5aUXJTNE1NdFFPdHpORWhJbEJrUktJLUJwR1V3Z210SWk?oc=5",
-   "outlet": "凤凰网科技",
-   "lang": "zh",
-   "date": "2026-11-12",
-   "tag": "전망",
-   "ko": null,
-   "score": 7
-  },
-  {
-   "title": "存储原厂四季度官方价格仍呈上涨态势 行业景气度有望延续",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vdXdwaVdhaTRqdm1tejc4RnRnalRJWkI0bVc1NjVMcnlkNW9yUUtJT1hSYXJRWEtPV2FDTVJ2Nlg0ejk0QjVmdw?oc=5",
-   "outlet": "财联社",
-   "lang": "zh",
-   "date": "2026-11-12",
-   "tag": "",
-   "ko": null,
-   "score": 6
-  },
-  {
-   "title": "AI가 끌어올린 D램 가격…PC·스마트폰 시장 '직격탄'",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fMi1iS1NHUlQtd1VDUnlhb2V4NGRYQlJmbE9sTndURXltR2Q2OGxpMTJLOTZLY0RiRWNFajBuMHFWbzlaV1V3OWpPMU14UHVfR0ZMNjZHMTV6am1LTXNSZEZ3Ry1qdF9IWjNZRmx6cWtTM0k?oc=5",
-   "outlet": "디지털투데이",
-   "lang": "ko",
-   "date": "2026-11-12",
    "tag": "",
    "score": 5
   }

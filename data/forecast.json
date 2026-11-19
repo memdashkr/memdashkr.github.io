@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "product": "NAND",
+   "low": 26.7,
+   "high": 26.7,
+   "basis": "YoY",
+   "period": "2027년",
+   "date": "2026-11-19",
+   "title": "NAND Flash Prices Set to Decline in 2027 as Chinese CSP Order Cuts Outweigh North American Demand Growth, Says TrendForce",
+   "link": "https://www.trendforce.com/presscenter/news/20261119-13314.html"
+  },
+  {
+   "product": "NAND",
+   "low": -5.0,
+   "high": -0.0,
+   "basis": "QoQ",
+   "period": "2027년 1분기",
+   "date": "2026-11-19",
+   "title": "NAND Flash Prices Set to Decline in 2027 as Chinese CSP Order Cuts Outweigh North American Demand Growth, Says TrendForce",
+   "link": "https://www.trendforce.com/presscenter/news/20261119-13314.html"
+  },
+  {
    "product": "HBM",
    "low": 13.0,
    "high": 13.0,
