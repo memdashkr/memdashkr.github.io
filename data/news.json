@@ -1,6 +1,34 @@
 {
  "items": [
   {
+   "title": "Judge Keeps DRAM Price-Fixing Suit Against Memory Makers",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFRreUVxUTNMXzFKZ20xYi1IckhOWDYySmdTbVc5Z2wxN0l4bllnNTlNMDgyU1Q2dlNUVWJJLW0tbkZlSElnZzBtX3VpWHNqNE85Y3BtWlBqOU54dTdST0tBY3p0TFQ0aFctMTl3RlljYjFWRm9ObzJtM1drc1QxYkJVbFUyREh2Smc?oc=5",
+   "outlet": "Wisevoter",
+   "lang": "en",
+   "date": "2026-11-22",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
+   "title": "中 클라우드 기업들 SSD 주문 축소…내년 낸드 가격 하락 전망",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QRlBLU2ptSjNBMGxkSVAtdlltV1NGT1ZmQzY5eUhqSmJseGxUZV9QM2l4V0NkRHp1NTdaYjhLSjAwM1lobTMzWUN1bEV3dnhjU3VkXzNQUDBVWjhqelZqMjR2Qk5UdzVERzJuWl93a0ZsWVE?oc=5",
+   "outlet": "디지털투데이",
+   "lang": "ko",
+   "date": "2026-11-21",
+   "tag": "전망",
+   "score": 7
+  },
+  {
+   "title": "샌디스크(SNDK) 12.5% 급락, 트렌드포스 낸드 가격 하락 전망",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13bDAycDZFOFRRakVzb083eVA0dUlVb2gycGZKSUpMcl9ubzVmM0xGNGNIV05vWnlTWWZqOUlVd1JFeFBrNWduTjFB?oc=5",
+   "outlet": "코인리더스",
+   "lang": "ko",
+   "date": "2026-11-21",
+   "tag": "전망",
+   "score": 7
+  },
+  {
    "title": "存储业界预计SSD价格最早2027年一季度回落",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2MkliNUVyRlI4ejlzblpDZWZNeHNaTkRxcE5iemd3ZXZ5ZGxYUkV6X1hzSTVUemo4dk52YUE4SnJzUU1uc3MyWklfOEQ?oc=5",
    "outlet": "www.itsdw.cn",
@@ -103,16 +131,6 @@
    "score": 5
   },
   {
-   "title": "NAND prices tipped to fall as Chinese cloud giants cut SSD orders",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHdneUl2c1c2RWxsaktlaFgtdGt1NThiSDd5dU16d05xbmM3OU4zRE5YQ2Q3cmhUZHJiYl9WWXJBTk93SnVqZmhmX29PT1lSZXR3bGV0bDhZVzJwWm04QzY3czRWQmRObWVTZEhUTmd0X3k2WFN5V0ZsQmhuS1gzWFczeFZXYTd4TUVBU0xZUGV1dFFYS2RseVVaVTV5V3lCSUEzcjE1ZDA2RzNROEpJaUVVS1pRR2lXbXV4cw?oc=5",
-   "outlet": "The Register",
-   "lang": "en",
-   "date": "2026-11-20",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
    "title": "存储芯片涨价周期里，模组厂拿走了多少利润",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxZXd5cVAweEF5ZFRVVXpBRWY0YTkxallmbGdNSlNSbUVPeGRKNjExNjRDT0hrZjZNQmlYSFZHdE1VRmVtVzN2a1RFamUzVzBWcHIxTHNycnBQLTZIa0htWg?oc=5",
    "outlet": "同花顺财经",
@@ -141,6 +159,16 @@
    "tag": "",
    "ko": null,
    "score": 4
+  },
+  {
+   "title": "存储又挨了一刀，长鑫做了个T还是没躲开",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tMHduSTdzZGtEQlVycjBRdlBsRFZabHVWZjI5QnlpZHdqRkQzZ3BadTNabWZyUHc4aHVEMjEyZ0MxUmJsMVFCT0FwR1NMUUR2NUhsYjBPMmdNWGtCZEFpNFlHV05OWWh5NVlF?oc=5",
+   "outlet": "财富号",
+   "lang": "zh",
+   "date": "2026-11-20",
+   "tag": "",
+   "ko": null,
+   "score": 1
   },
   {
    "title": "2027年内存市场展望：TrendForce预测HBM4价格翻倍、DRAM涨幅逐季收窄",
@@ -220,15 +248,6 @@
    "tag": "",
    "ko": null,
    "score": 6
-  },
-  {
-   "title": "수요 감소와 중국 업체 공급 확대 영향? 소비자용 낸드 현물 가격 20% 하락",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wcmJjYUZzTTZxUDZDMldUTmluc3EteHpFLTZnRWlvdDZfSC1KR2JMR3QteENabUlvYy0wYmFHLWROZjJBbVAxNWpfckRfbEFhSlRidUNQRW5IQ3BEUFlPRzl2OA?oc=5",
-   "outlet": "보드나라",
-   "lang": "ko",
-   "date": "2026-11-19",
-   "tag": "",
-   "score": 5
   },
   {
    "title": "三星HBM4价格超700美元…存储企业季度业绩有望引爆“30万亿韩元”",
@@ -412,25 +431,6 @@
    "outlet": "新浪网",
    "lang": "zh",
    "date": "2026-11-16",
-   "tag": "",
-   "ko": null,
-   "score": 5
-  },
-  {
-   "title": "CXMT, 2028년까지 반도체 팹 10개 추가 건설 검토…D램 가격 하락 기대",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWmhjR2ppUURwODVrcWdidlpTVklXM0NMMkU2eDctWTlLX3k3RngwOERFdEltTjRfblFnZmtSd2Z4bUpONVRnTllWdHl3WktfUTVwMllDdUM3WFp3STVBWDdlZ18yZTV2azFNTGt4NjY?oc=5",
-   "outlet": "디지털포커스",
-   "lang": "ko",
-   "date": "2026-11-14",
-   "tag": "",
-   "score": 6
-  },
-  {
-   "title": "存储涨价催生翻新内存生意，低端手机供应链在成本与质量间走钢丝",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WTldFcnBuX2wtc2lNOHVJNGJsNFNDZ3RZZDl3RHZjNTF0ZEc1T0lxWVg5a2hCM0hvYmdocV91Y0VyMFZ6T0Q0OXdkeG91RGlRa2toWnNQbXdtOVFlcEZqSg?oc=5",
-   "outlet": "同花顺财经",
-   "lang": "zh",
-   "date": "2026-11-14",
    "tag": "",
    "ko": null,
    "score": 5
