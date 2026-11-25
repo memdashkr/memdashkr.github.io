@@ -2,6 +2,16 @@
  "items": [
   {
    "product": "NAND",
+   "low": 2.0,
+   "high": 2.0,
+   "basis": "QoQ",
+   "period": "2026년 4분기",
+   "date": "2026-11-25",
+   "title": "Cuts to Chinese CSP Demand Weigh on Price Outlook, Slowing Memory Industry Revenue Growth in 2027, Says TrendForce",
+   "link": "https://www.trendforce.com/presscenter/news/20261125-13321.html"
+  },
+  {
+   "product": "NAND",
    "low": 26.7,
    "high": 26.7,
    "basis": "YoY",
