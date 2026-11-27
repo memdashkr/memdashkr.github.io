@@ -2,6 +2,16 @@
  "items": [
   {
    "product": "NAND",
+   "low": 7.6,
+   "high": 7.6,
+   "basis": "YoY",
+   "period": "2028년",
+   "date": "2026-11-27",
+   "title": "Limited Demand Visibility and Growing Supply Chain Caution Heighten Risk of DRAM Contract Price Declines in 2028, Says TrendForce",
+   "link": "https://www.trendforce.com/presscenter/news/20261127-13327.html"
+  },
+  {
+   "product": "NAND",
    "low": 2.0,
    "high": 2.0,
    "basis": "QoQ",
