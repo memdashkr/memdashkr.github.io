@@ -1,6 +1,34 @@
 {
  "items": [
   {
+   "title": "[서학개미 레이더] GF증권 D램 전망 하향…2028년 가격 50% 하락 시나리오",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxMF9NVlJ5WVAwd2ZObXlneF9nVXdEcmZ5NGhkOFAtekJaS3g2Q1RLVWxKbmU2cGdUcDM0UVR5TUV3V3VlV0c0RzFn?oc=5",
+   "outlet": "코인리더스",
+   "lang": "ko",
+   "date": "2026-11-27",
+   "tag": "전망",
+   "score": 7
+  },
+  {
+   "title": "HBM4 Price Forecast: Up to $5.50 a Gigabit in 2027",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDhfR0ltTVF6TElmT2o4QV9GaHp2OTVBREcxZlh1d3pGYzlkUmZxdk1BLXZNa0I2TXBCQ25FZnJaTy1zd19oLW5kT2h4TjB1bmxRZzEzUzVsSHFYSHM1a08tc3AyWUxkMG9KUFk2dXJEYVcwdDJCNThXNjZiY1RNSEdncWFXQ1Yyczh0UE9IMl8?oc=5",
+   "outlet": "shattered.io",
+   "lang": "en",
+   "date": "2026-11-27",
+   "tag": "전망",
+   "ko": null,
+   "score": 7
+  },
+  {
+   "title": "낸드 현물가 20% 급락…삼성·SK하이닉스 HBM이 방어선",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lQ1dLRDZJY19kR09tdXdkWkdKSVZXcUhsYUc5VGlFR3k5eHBqeW5VaDZGMTVrcTRHTldhczIyWXczYTVWZTd4N3I0UFp6MmVZRF9YWHdzYnN6WnI1MFF0NDNDN192MUk?oc=5",
+   "outlet": "자본시장뉴스",
+   "lang": "ko",
+   "date": "2026-11-27",
+   "tag": "",
+   "score": 6
+  },
+  {
    "title": "DRAM contract prices stay high as supply-demand squeeze persists",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSE5kWlB6clQxSzJLdUFtZkdGVTJmYWVCOGJTMDEzYk5ZSnM4TmpnX25QbDNNTlFDc0Zfb2d2TnRBM0dWQ0tybE5hNXNoMFMwMXVlOU9ObGxsS3VGN2hBczdaWmxKYUZNVDBrU3ZyS0RCX3BaR1NiNG1Iemcxc2dZNXdkbzRZNlota2F6SWhaMFQ?oc=5",
    "outlet": "digitimes",
@@ -19,15 +47,6 @@
    "tag": "전망",
    "ko": null,
    "score": 7
-  },
-  {
-   "title": "\"내년 낸드 가격 하락 전환…D램은 공급 부족 이어져\"",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOU5pUzlIcEFHa2g0S1FraFJ6eklIV3hCYThjazFJbWZ1aUw2MEVRcEpLaEhFMHVmSmU0bWpyeFEtdy1QT2NVdDF5QlBQc19QRlpjU1hzb3BfR3pfVEdHbExZQzNWZFBxeWxxSzRVVDY4X3lTbEZqRFFGdlZFd2FxSkhPelJKUQ?oc=5",
-   "outlet": "글로벌이코노믹",
-   "lang": "ko",
-   "date": "2026-11-26",
-   "tag": "",
-   "score": 6
   },
   {
    "title": "Memory Chip Market to Diverge? DRAM Remains in Short Supply, NAND Prices to Drop as Early as Q1 Next Year",
@@ -60,6 +79,16 @@
    "score": 6
   },
   {
+   "title": "摩根大通：大模型用量暴增79%，但价格大跌，存储只剩DRAM在涨",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zNk83TVd1cWFScmFSZktRS1dkR01HbFliZTlueTd6bERNQkl4NlFJT3ZNT2xxY1B2dDJqdV9EX09zSk81azN3cHVXa2JZVkd4OXhB?oc=5",
+   "outlet": "华尔街见闻",
+   "lang": "zh",
+   "date": "2026-11-26",
+   "tag": "",
+   "ko": null,
+   "score": 5
+  },
+  {
    "title": "三星SK海力士交叉授权长江存储Xtacking技术，混合键合成为400层NAND主流选择",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBM1djOGhnVS1aZVdIMVFIYm1rOW83TGxpM2tfU25pRlVJTTRTMGltcHN6NG50X1JGOU5BYXVMY2U2N2Q0dnE3Y2lyZm54VkU4OW1jS09aNnVpMFdp?oc=5",
    "outlet": "电子工程专辑EE Times China",
@@ -73,16 +102,6 @@
    "title": "苹果CEO蒂姆·库克：存储芯片短缺涨价不可避免…100年一遇的大洪水级别",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2RWZnNjSmdjYWZNd1B1ejV5bm9MalZvYnJxZEJnRFN2TjkxY3Atb19VX0NVVjVoZ0ZWMkxSaWlkbkNoajZ4QjE1cUlBVVM4dlRHRU5PQmhDd190b2l4Q0NQX0ZkWWFyVmFqY1lMNWJUY09yam9tNUNtUVNiLThUUmprVlNqVzZGOWZ6WkVkWVJIMWdRem45eWdPZ18zeFMt?oc=5",
    "outlet": "朝鮮日報中文版",
-   "lang": "zh",
-   "date": "2026-11-26",
-   "tag": "",
-   "ko": null,
-   "score": 4
-  },
-  {
-   "title": "半导体工程学会：“中国长鑫存储(CXMT)的4F平方技术难以实现商业化……也可能直接转向3D DRAM”",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43X01OTW05OGwzUDJIX19kYkVwU2tVUU5GWVd0d1J0VmJua3JNTEJ6cUdWenBRTWUyNGhEMWNjUFR1bXpqa3R5Mkp1S0Z4T0Y0Wmlj?oc=5",
-   "outlet": "매일경제",
    "lang": "zh",
    "date": "2026-11-26",
    "tag": "",
@@ -203,25 +222,6 @@
    "date": "2026-11-25",
    "tag": "",
    "score": 7
-  },
-  {
-   "title": "D램·낸드 현물가 동반 하락…소비자용 수요 부진",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GOXJ1TGd1dWRtbFd4N1JaWURnWWhqMFpZaU95bkdOZnRXYXdKa2dqTXNjQTRqbUlMNmdIZDVZUFZZOWJXSWxuN1VvZVo0SVk4dEJMZG9LWUhLeGc5?oc=5",
-   "outlet": "뉴스핌",
-   "lang": "ko",
-   "date": "2026-11-25",
-   "tag": "",
-   "score": 6
-  },
-  {
-   "title": "NAND prices could finally be set to fall, in the first bit of good news for component fans for some time — but DRAM is refusing to budge so far",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMlF4RHBRMmdFYXBBU0xjaDBPcGNrVXZ0SXNxN2o5ZFNjR2hvYklnQzRQRV9iSE15aHFaNWNUN2lQZHFncUtuZjIyWFBEeHRIRUZiaG5Dak1ZRFJmNXVneGNtaHlENGpUWnZINnVZb1U5OExkSGFUYk9lWkhmZElJSmVOY1BFMjl5LTh0X2NrdHdZYVJvbG00N2c3VUxDSm42RGZSc3pJUUNwRGtqVHFRMk1wamd4eU5rdko2VEl2RVlSaENJQ3VqeWhIRTI0VlIxY0VocVFOeDlWa3RTUmJpSWlOZzhTVjIxM3NxeHBkTTIzSkZMdWdJNWhCT3o4U1U?oc=5",
-   "outlet": "TechRadar",
-   "lang": "en",
-   "date": "2026-11-25",
-   "tag": "",
-   "ko": null,
-   "score": 6
   },
   {
    "title": "낸드플래시 2027년 가격 하락 전망…중국 YMTC 증설에 삼성·SK하이닉스 경쟁 심화",
